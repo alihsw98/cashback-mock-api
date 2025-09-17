@@ -19,7 +19,7 @@ router.post("/register/complete", (req, res) => {
 });
 
 router.post("/login", (req, res) => {
-  res.json({
+  res.status(201).json({
     accessToken: "mock-access",
     refreshToken: "mock-refresh",
     user: { id: 1, phone: "+9647501234567", userType: "user" },
