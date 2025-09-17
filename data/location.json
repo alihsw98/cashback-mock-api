@@ -1,0 +1,19 @@
+{
+  "governorates": [
+    { "id": 1, "name": { "en": "Baghdad", "ar": "بغداد" } },
+    { "id": 2, "name": { "en": "Basra", "ar": "البصرة" } }
+  ],
+  "regions": {
+    "1": [
+      { "id": 1, "name": { "en": "Rusafa", "ar": "الرصافة" } },
+      { "id": 2, "name": { "en": "Karkh", "ar": "الكرخ" } }
+    ],
+    "2": [
+      { "id": 3, "name": { "en": "Shatt al-Arab", "ar": "شط العرب" } }
+    ]
+  },
+  "interests": [
+    { "id": 1, "name": { "en": "Electronics", "ar": "إلكترونيات" } },
+    { "id": 2, "name": { "en": "Clothes", "ar": "ملابس" } }
+  ]
+}

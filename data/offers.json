@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": {
+      "en": "Smartphone Cashback Offer",
+      "ar": "عرض خاص على الهواتف الذكية"
+    },
+    "description": {
+      "en": "Get 5% cashback on all smartphones",
+      "ar": "احصل على 5% كاش باك على جميع الهواتف الذكية"
+    },
+    "cashbackPercentage": 5,
+    "storeId": 1,
+    "endDate": "2025-12-31T23:59:59.000Z",
+    "isActive": true
+  },
+  {
+    "id": 2,
+    "title": {
+      "en": "Winter Clothes Discount",
+      "ar": "خصم 10% على الملابس الشتوية"
+    },
+    "description": {
+      "en": "Enjoy 10% cashback on all winter clothes",
+      "ar": "احصل على 10% كاش باك على جميع الملابس الشتوية"
+    },
+    "cashbackPercentage": 10,
+    "storeId": 2,
+    "endDate": "2025-11-30T23:59:59.000Z",
+    "isActive": true
+  }
+]

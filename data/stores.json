@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": { "en": "Ali Electronics", "ar": "متجر علي للإلكترونيات" },
+    "description": {
+      "en": "Best electronics at great prices",
+      "ar": "أفضل الأجهزة الإلكترونية بأسعار منافسة"
+    },
+    "approved": true
+  },
+  {
+    "id": 2,
+    "name": { "en": "Baghdad Fashion", "ar": "متجر بغداد للملابس" },
+    "description": {
+      "en": "Trendy clothes at fair prices",
+      "ar": "ملابس عصرية بأسعار مناسبة"
+    },
+    "approved": true
+  }
+]
