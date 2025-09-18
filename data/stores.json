@@ -1,20 +1,2402 @@
 [
   {
     "id": 1,
-    "name": { "en": "Ali Electronics", "ar": "متجر علي للإلكترونيات" },
-    "description": {
-      "en": "Best electronics at great prices",
-      "ar": "أفضل الأجهزة الإلكترونية بأسعار منافسة"
+    "storeName": {
+      "en": "AutoZone #1",
+      "ar": "منطقة السيارات #1"
     },
-    "approved": true
+    "description": {
+      "en": "Top beauty and health products",
+      "ar": "أفضل منتجات الجمال والصحة"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/sofa.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce",
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754"
+    ],
+    "mainBranchAddress": {
+      "en": "City 1, Main Street 101",
+      "ar": "المدينة 1، الشارع الرئيسي 101"
+    },
+    "facebook": "https://facebook.com/store1",
+    "instagram": "https://instagram.com/store1",
+    "linkedin": "https://linkedin.com/company/store1",
+    "youtube": "https://youtube.com/store1"
   },
   {
     "id": 2,
-    "name": { "en": "Baghdad Fashion", "ar": "متجر بغداد للملابس" },
-    "description": {
-      "en": "Trendy clothes at fair prices",
-      "ar": "ملابس عصرية بأسعار مناسبة"
+    "storeName": {
+      "en": "Home Style #2",
+      "ar": "ستايل المنزل #2"
     },
-    "approved": true
+    "description": {
+      "en": "Trendy clothing for all seasons",
+      "ar": "ملابس عصرية لكل المواسم"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/diamond.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
+    ],
+    "mainBranchAddress": {
+      "en": "City 2, Main Street 102",
+      "ar": "المدينة 2، الشارع الرئيسي 102"
+    },
+    "facebook": "https://facebook.com/store2",
+    "instagram": "https://instagram.com/store2",
+    "linkedin": "https://linkedin.com/company/store2",
+    "youtube": "https://youtube.com/store2"
+  },
+  {
+    "id": 3,
+    "storeName": {
+      "en": "Beauty Spot #3",
+      "ar": "ركن الجمال #3"
+    },
+    "description": {
+      "en": "Fun toys and games for kids",
+      "ar": "ألعاب ممتعة للأطفال"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/basketball.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5",
+      "https://images.unsplash.com/photo-1521334884684-d80222895322"
+    ],
+    "mainBranchAddress": {
+      "en": "City 3, Main Street 103",
+      "ar": "المدينة 3، الشارع الرئيسي 103"
+    },
+    "facebook": "https://facebook.com/store3",
+    "instagram": "https://instagram.com/store3",
+    "linkedin": "https://linkedin.com/company/store3",
+    "youtube": "https://youtube.com/store3"
+  },
+  {
+    "id": 4,
+    "storeName": {
+      "en": "Jewel Star #4",
+      "ar": "نجمة المجوهرات #4"
+    },
+    "description": {
+      "en": "Trendy clothing for all seasons",
+      "ar": "ملابس عصرية لكل المواسم"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/lipstick.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47",
+      "https://images.unsplash.com/photo-1521334884684-d80222895322"
+    ],
+    "mainBranchAddress": {
+      "en": "City 4, Main Street 104",
+      "ar": "المدينة 4، الشارع الرئيسي 104"
+    },
+    "facebook": "https://facebook.com/store4",
+    "instagram": "https://instagram.com/store4",
+    "linkedin": "https://linkedin.com/company/store4",
+    "youtube": "https://youtube.com/store4"
+  },
+  {
+    "id": 5,
+    "storeName": {
+      "en": "AutoZone #5",
+      "ar": "منطقة السيارات #5"
+    },
+    "description": {
+      "en": "Fun toys and games for kids",
+      "ar": "ألعاب ممتعة للأطفال"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/diamond.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
+      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce"
+    ],
+    "mainBranchAddress": {
+      "en": "City 5, Main Street 105",
+      "ar": "المدينة 5، الشارع الرئيسي 105"
+    },
+    "facebook": "https://facebook.com/store5",
+    "instagram": "https://instagram.com/store5",
+    "linkedin": "https://linkedin.com/company/store5",
+    "youtube": "https://youtube.com/store5"
+  },
+  {
+    "id": 6,
+    "storeName": {
+      "en": "Toy World #6",
+      "ar": "عالم الألعاب #6"
+    },
+    "description": {
+      "en": "Trendy clothing for all seasons",
+      "ar": "ملابس عصرية لكل المواسم"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/open-book.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47",
+      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5"
+    ],
+    "mainBranchAddress": {
+      "en": "City 6, Main Street 106",
+      "ar": "المدينة 6، الشارع الرئيسي 106"
+    },
+    "facebook": "https://facebook.com/store6",
+    "instagram": "https://instagram.com/store6",
+    "linkedin": "https://linkedin.com/company/store6",
+    "youtube": "https://youtube.com/store6"
+  },
+  {
+    "id": 7,
+    "storeName": {
+      "en": "Fresh Mart #7",
+      "ar": "ماركت فريش #7"
+    },
+    "description": {
+      "en": "Top beauty and health products",
+      "ar": "أفضل منتجات الجمال والصحة"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/car.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb",
+      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5"
+    ],
+    "mainBranchAddress": {
+      "en": "City 7, Main Street 107",
+      "ar": "المدينة 7، الشارع الرئيسي 107"
+    },
+    "facebook": "https://facebook.com/store7",
+    "instagram": "https://instagram.com/store7",
+    "linkedin": "https://linkedin.com/company/store7",
+    "youtube": "https://youtube.com/store7"
+  },
+  {
+    "id": 8,
+    "storeName": {
+      "en": "Toy World #8",
+      "ar": "عالم الألعاب #8"
+    },
+    "description": {
+      "en": "Stylish furniture and home decor",
+      "ar": "أثاث منزلي وديكور أنيق"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/open-book.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
+      "https://images.unsplash.com/photo-1521334884684-d80222895322"
+    ],
+    "mainBranchAddress": {
+      "en": "City 8, Main Street 108",
+      "ar": "المدينة 8، الشارع الرئيسي 108"
+    },
+    "facebook": "https://facebook.com/store8",
+    "instagram": "https://instagram.com/store8",
+    "linkedin": "https://linkedin.com/company/store8",
+    "youtube": "https://youtube.com/store8"
+  },
+  {
+    "id": 9,
+    "storeName": {
+      "en": "Home Style #9",
+      "ar": "ستايل المنزل #9"
+    },
+    "description": {
+      "en": "Exclusive jewelry collections",
+      "ar": "مجموعات مجوهرات حصرية"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/teddy-bear.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb",
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
+    ],
+    "mainBranchAddress": {
+      "en": "City 9, Main Street 109",
+      "ar": "المدينة 9، الشارع الرئيسي 109"
+    },
+    "facebook": "https://facebook.com/store9",
+    "instagram": "https://instagram.com/store9",
+    "linkedin": "https://linkedin.com/company/store9",
+    "youtube": "https://youtube.com/store9"
+  },
+  {
+    "id": 10,
+    "storeName": {
+      "en": "SportX #10",
+      "ar": "سبورت اكس #10"
+    },
+    "description": {
+      "en": "Leading electronics retailer with latest gadgets",
+      "ar": "متجر رائد للإلكترونيات يقدم أحدث الأجهزة"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/basketball.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce",
+      "https://images.unsplash.com/photo-1585325701954-34d6b8a9c6c4"
+    ],
+    "mainBranchAddress": {
+      "en": "City 10, Main Street 110",
+      "ar": "المدينة 10، الشارع الرئيسي 110"
+    },
+    "facebook": "https://facebook.com/store10",
+    "instagram": "https://instagram.com/store10",
+    "linkedin": "https://linkedin.com/company/store10",
+    "youtube": "https://youtube.com/store10"
+  },
+  {
+    "id": 11,
+    "storeName": {
+      "en": "AutoZone #11",
+      "ar": "منطقة السيارات #11"
+    },
+    "description": {
+      "en": "All sports gear you need",
+      "ar": "جميع معدات الرياضة التي تحتاجها"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/diamond.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47",
+      "https://images.unsplash.com/photo-1521334884684-d80222895322"
+    ],
+    "mainBranchAddress": {
+      "en": "City 11, Main Street 111",
+      "ar": "المدينة 11، الشارع الرئيسي 111"
+    },
+    "facebook": "https://facebook.com/store11",
+    "instagram": "https://instagram.com/store11",
+    "linkedin": "https://linkedin.com/company/store11",
+    "youtube": "https://youtube.com/store11"
+  },
+  {
+    "id": 12,
+    "storeName": {
+      "en": "Toy World #12",
+      "ar": "عالم الألعاب #12"
+    },
+    "description": {
+      "en": "All sports gear you need",
+      "ar": "جميع معدات الرياضة التي تحتاجها"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/open-book.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce",
+      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5"
+    ],
+    "mainBranchAddress": {
+      "en": "City 12, Main Street 112",
+      "ar": "المدينة 12، الشارع الرئيسي 112"
+    },
+    "facebook": "https://facebook.com/store12",
+    "instagram": "https://instagram.com/store12",
+    "linkedin": "https://linkedin.com/company/store12",
+    "youtube": "https://youtube.com/store12"
+  },
+  {
+    "id": 13,
+    "storeName": {
+      "en": "Jewel Star #13",
+      "ar": "نجمة المجوهرات #13"
+    },
+    "description": {
+      "en": "Top beauty and health products",
+      "ar": "أفضل منتجات الجمال والصحة"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/open-book.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+    ],
+    "mainBranchAddress": {
+      "en": "City 13, Main Street 113",
+      "ar": "المدينة 13، الشارع الرئيسي 113"
+    },
+    "facebook": "https://facebook.com/store13",
+    "instagram": "https://instagram.com/store13",
+    "linkedin": "https://linkedin.com/company/store13",
+    "youtube": "https://youtube.com/store13"
+  },
+  {
+    "id": 14,
+    "storeName": {
+      "en": "Book Planet #14",
+      "ar": "كوكب الكتب #14"
+    },
+    "description": {
+      "en": "Your trusted grocery store",
+      "ar": "متجرك الموثوق للبقالة"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/basketball.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1585325701954-34d6b8a9c6c4",
+      "https://images.unsplash.com/photo-1521334884684-d80222895322"
+    ],
+    "mainBranchAddress": {
+      "en": "City 14, Main Street 114",
+      "ar": "المدينة 14، الشارع الرئيسي 114"
+    },
+    "facebook": "https://facebook.com/store14",
+    "instagram": "https://instagram.com/store14",
+    "linkedin": "https://linkedin.com/company/store14",
+    "youtube": "https://youtube.com/store14"
+  },
+  {
+    "id": 15,
+    "storeName": {
+      "en": "Toy World #15",
+      "ar": "عالم الألعاب #15"
+    },
+    "description": {
+      "en": "Your trusted grocery store",
+      "ar": "متجرك الموثوق للبقالة"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/sofa.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9",
+      "https://images.unsplash.com/photo-1585325701954-34d6b8a9c6c4"
+    ],
+    "mainBranchAddress": {
+      "en": "City 15, Main Street 115",
+      "ar": "المدينة 15، الشارع الرئيسي 115"
+    },
+    "facebook": "https://facebook.com/store15",
+    "instagram": "https://instagram.com/store15",
+    "linkedin": "https://linkedin.com/company/store15",
+    "youtube": "https://youtube.com/store15"
+  },
+  {
+    "id": 16,
+    "storeName": {
+      "en": "SportX #16",
+      "ar": "سبورت اكس #16"
+    },
+    "description": {
+      "en": "Leading electronics retailer with latest gadgets",
+      "ar": "متجر رائد للإلكترونيات يقدم أحدث الأجهزة"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/lipstick.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5",
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754"
+    ],
+    "mainBranchAddress": {
+      "en": "City 16, Main Street 116",
+      "ar": "المدينة 16، الشارع الرئيسي 116"
+    },
+    "facebook": "https://facebook.com/store16",
+    "instagram": "https://instagram.com/store16",
+    "linkedin": "https://linkedin.com/company/store16",
+    "youtube": "https://youtube.com/store16"
+  },
+  {
+    "id": 17,
+    "storeName": {
+      "en": "SportX #17",
+      "ar": "سبورت اكس #17"
+    },
+    "description": {
+      "en": "Stylish furniture and home decor",
+      "ar": "أثاث منزلي وديكور أنيق"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/basketball.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1521334884684-d80222895322",
+      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47"
+    ],
+    "mainBranchAddress": {
+      "en": "City 17, Main Street 117",
+      "ar": "المدينة 17، الشارع الرئيسي 117"
+    },
+    "facebook": "https://facebook.com/store17",
+    "instagram": "https://instagram.com/store17",
+    "linkedin": "https://linkedin.com/company/store17",
+    "youtube": "https://youtube.com/store17"
+  },
+  {
+    "id": 18,
+    "storeName": {
+      "en": "Fashion Hub #18",
+      "ar": "مركز الأزياء #18"
+    },
+    "description": {
+      "en": "Fun toys and games for kids",
+      "ar": "ألعاب ممتعة للأطفال"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/t-shirt.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+    ],
+    "mainBranchAddress": {
+      "en": "City 18, Main Street 118",
+      "ar": "المدينة 18، الشارع الرئيسي 118"
+    },
+    "facebook": "https://facebook.com/store18",
+    "instagram": "https://instagram.com/store18",
+    "linkedin": "https://linkedin.com/company/store18",
+    "youtube": "https://youtube.com/store18"
+  },
+  {
+    "id": 19,
+    "storeName": {
+      "en": "Fashion Hub #19",
+      "ar": "مركز الأزياء #19"
+    },
+    "description": {
+      "en": "Your trusted grocery store",
+      "ar": "متجرك الموثوق للبقالة"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/t-shirt.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1585325701954-34d6b8a9c6c4",
+      "https://images.unsplash.com/photo-1521334884684-d80222895322"
+    ],
+    "mainBranchAddress": {
+      "en": "City 19, Main Street 119",
+      "ar": "المدينة 19، الشارع الرئيسي 119"
+    },
+    "facebook": "https://facebook.com/store19",
+    "instagram": "https://instagram.com/store19",
+    "linkedin": "https://linkedin.com/company/store19",
+    "youtube": "https://youtube.com/store19"
+  },
+  {
+    "id": 20,
+    "storeName": {
+      "en": "Fresh Mart #20",
+      "ar": "ماركت فريش #20"
+    },
+    "description": {
+      "en": "Stylish furniture and home decor",
+      "ar": "أثاث منزلي وديكور أنيق"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/diamond.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb",
+      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5"
+    ],
+    "mainBranchAddress": {
+      "en": "City 20, Main Street 120",
+      "ar": "المدينة 20، الشارع الرئيسي 120"
+    },
+    "facebook": "https://facebook.com/store20",
+    "instagram": "https://instagram.com/store20",
+    "linkedin": "https://linkedin.com/company/store20",
+    "youtube": "https://youtube.com/store20"
+  },
+  {
+    "id": 21,
+    "storeName": {
+      "en": "Book Planet #21",
+      "ar": "كوكب الكتب #21"
+    },
+    "description": {
+      "en": "Your trusted grocery store",
+      "ar": "متجرك الموثوق للبقالة"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/teddy-bear.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754",
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
+    ],
+    "mainBranchAddress": {
+      "en": "City 21, Main Street 121",
+      "ar": "المدينة 21، الشارع الرئيسي 121"
+    },
+    "facebook": "https://facebook.com/store21",
+    "instagram": "https://instagram.com/store21",
+    "linkedin": "https://linkedin.com/company/store21",
+    "youtube": "https://youtube.com/store21"
+  },
+  {
+    "id": 22,
+    "storeName": {
+      "en": "Jewel Star #22",
+      "ar": "نجمة المجوهرات #22"
+    },
+    "description": {
+      "en": "Your trusted grocery store",
+      "ar": "متجرك الموثوق للبقالة"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/basketball.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
+      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5"
+    ],
+    "mainBranchAddress": {
+      "en": "City 22, Main Street 122",
+      "ar": "المدينة 22، الشارع الرئيسي 122"
+    },
+    "facebook": "https://facebook.com/store22",
+    "instagram": "https://instagram.com/store22",
+    "linkedin": "https://linkedin.com/company/store22",
+    "youtube": "https://youtube.com/store22"
+  },
+  {
+    "id": 23,
+    "storeName": {
+      "en": "Beauty Spot #23",
+      "ar": "ركن الجمال #23"
+    },
+    "description": {
+      "en": "Exclusive jewelry collections",
+      "ar": "مجموعات مجوهرات حصرية"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/car.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5",
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
+    ],
+    "mainBranchAddress": {
+      "en": "City 23, Main Street 123",
+      "ar": "المدينة 23، الشارع الرئيسي 123"
+    },
+    "facebook": "https://facebook.com/store23",
+    "instagram": "https://instagram.com/store23",
+    "linkedin": "https://linkedin.com/company/store23",
+    "youtube": "https://youtube.com/store23"
+  },
+  {
+    "id": 24,
+    "storeName": {
+      "en": "Fashion Hub #24",
+      "ar": "مركز الأزياء #24"
+    },
+    "description": {
+      "en": "Exclusive jewelry collections",
+      "ar": "مجموعات مجوهرات حصرية"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/car.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47",
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
+    ],
+    "mainBranchAddress": {
+      "en": "City 24, Main Street 124",
+      "ar": "المدينة 24، الشارع الرئيسي 124"
+    },
+    "facebook": "https://facebook.com/store24",
+    "instagram": "https://instagram.com/store24",
+    "linkedin": "https://linkedin.com/company/store24",
+    "youtube": "https://youtube.com/store24"
+  },
+  {
+    "id": 25,
+    "storeName": {
+      "en": "Jewel Star #25",
+      "ar": "نجمة المجوهرات #25"
+    },
+    "description": {
+      "en": "All sports gear you need",
+      "ar": "جميع معدات الرياضة التي تحتاجها"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/open-book.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1521334884684-d80222895322",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+    ],
+    "mainBranchAddress": {
+      "en": "City 25, Main Street 125",
+      "ar": "المدينة 25، الشارع الرئيسي 125"
+    },
+    "facebook": "https://facebook.com/store25",
+    "instagram": "https://instagram.com/store25",
+    "linkedin": "https://linkedin.com/company/store25",
+    "youtube": "https://youtube.com/store25"
+  },
+  {
+    "id": 26,
+    "storeName": {
+      "en": "Tech World #26",
+      "ar": "عالم التقنية #26"
+    },
+    "description": {
+      "en": "All sports gear you need",
+      "ar": "جميع معدات الرياضة التي تحتاجها"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/diamond.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb",
+      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce"
+    ],
+    "mainBranchAddress": {
+      "en": "City 26, Main Street 126",
+      "ar": "المدينة 26، الشارع الرئيسي 126"
+    },
+    "facebook": "https://facebook.com/store26",
+    "instagram": "https://instagram.com/store26",
+    "linkedin": "https://linkedin.com/company/store26",
+    "youtube": "https://youtube.com/store26"
+  },
+  {
+    "id": 27,
+    "storeName": {
+      "en": "SportX #27",
+      "ar": "سبورت اكس #27"
+    },
+    "description": {
+      "en": "All sports gear you need",
+      "ar": "جميع معدات الرياضة التي تحتاجها"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/diamond.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47",
+      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce"
+    ],
+    "mainBranchAddress": {
+      "en": "City 27, Main Street 127",
+      "ar": "المدينة 27، الشارع الرئيسي 127"
+    },
+    "facebook": "https://facebook.com/store27",
+    "instagram": "https://instagram.com/store27",
+    "linkedin": "https://linkedin.com/company/store27",
+    "youtube": "https://youtube.com/store27"
+  },
+  {
+    "id": 28,
+    "storeName": {
+      "en": "Fresh Mart #28",
+      "ar": "ماركت فريش #28"
+    },
+    "description": {
+      "en": "Leading electronics retailer with latest gadgets",
+      "ar": "متجر رائد للإلكترونيات يقدم أحدث الأجهزة"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/lipstick.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754",
+      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb"
+    ],
+    "mainBranchAddress": {
+      "en": "City 28, Main Street 128",
+      "ar": "المدينة 28، الشارع الرئيسي 128"
+    },
+    "facebook": "https://facebook.com/store28",
+    "instagram": "https://instagram.com/store28",
+    "linkedin": "https://linkedin.com/company/store28",
+    "youtube": "https://youtube.com/store28"
+  },
+  {
+    "id": 29,
+    "storeName": {
+      "en": "Jewel Star #29",
+      "ar": "نجمة المجوهرات #29"
+    },
+    "description": {
+      "en": "Fun toys and games for kids",
+      "ar": "ألعاب ممتعة للأطفال"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/lipstick.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9",
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
+    ],
+    "mainBranchAddress": {
+      "en": "City 29, Main Street 129",
+      "ar": "المدينة 29، الشارع الرئيسي 129"
+    },
+    "facebook": "https://facebook.com/store29",
+    "instagram": "https://instagram.com/store29",
+    "linkedin": "https://linkedin.com/company/store29",
+    "youtube": "https://youtube.com/store29"
+  },
+  {
+    "id": 30,
+    "storeName": {
+      "en": "Beauty Spot #30",
+      "ar": "ركن الجمال #30"
+    },
+    "description": {
+      "en": "Your trusted grocery store",
+      "ar": "متجرك الموثوق للبقالة"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/basketball.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
+      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5"
+    ],
+    "mainBranchAddress": {
+      "en": "City 30, Main Street 130",
+      "ar": "المدينة 30، الشارع الرئيسي 130"
+    },
+    "facebook": "https://facebook.com/store30",
+    "instagram": "https://instagram.com/store30",
+    "linkedin": "https://linkedin.com/company/store30",
+    "youtube": "https://youtube.com/store30"
+  },
+  {
+    "id": 31,
+    "storeName": {
+      "en": "SportX #31",
+      "ar": "سبورت اكس #31"
+    },
+    "description": {
+      "en": "Fun toys and games for kids",
+      "ar": "ألعاب ممتعة للأطفال"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/sofa.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754"
+    ],
+    "mainBranchAddress": {
+      "en": "City 31, Main Street 131",
+      "ar": "المدينة 31، الشارع الرئيسي 131"
+    },
+    "facebook": "https://facebook.com/store31",
+    "instagram": "https://instagram.com/store31",
+    "linkedin": "https://linkedin.com/company/store31",
+    "youtube": "https://youtube.com/store31"
+  },
+  {
+    "id": 32,
+    "storeName": {
+      "en": "Fresh Mart #32",
+      "ar": "ماركت فريش #32"
+    },
+    "description": {
+      "en": "Stylish furniture and home decor",
+      "ar": "أثاث منزلي وديكور أنيق"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/sofa.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
+    ],
+    "mainBranchAddress": {
+      "en": "City 32, Main Street 132",
+      "ar": "المدينة 32، الشارع الرئيسي 132"
+    },
+    "facebook": "https://facebook.com/store32",
+    "instagram": "https://instagram.com/store32",
+    "linkedin": "https://linkedin.com/company/store32",
+    "youtube": "https://youtube.com/store32"
+  },
+  {
+    "id": 33,
+    "storeName": {
+      "en": "Home Style #33",
+      "ar": "ستايل المنزل #33"
+    },
+    "description": {
+      "en": "All sports gear you need",
+      "ar": "جميع معدات الرياضة التي تحتاجها"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/electronics.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+    ],
+    "mainBranchAddress": {
+      "en": "City 33, Main Street 133",
+      "ar": "المدينة 33، الشارع الرئيسي 133"
+    },
+    "facebook": "https://facebook.com/store33",
+    "instagram": "https://instagram.com/store33",
+    "linkedin": "https://linkedin.com/company/store33",
+    "youtube": "https://youtube.com/store33"
+  },
+  {
+    "id": 34,
+    "storeName": {
+      "en": "Fashion Hub #34",
+      "ar": "مركز الأزياء #34"
+    },
+    "description": {
+      "en": "Leading electronics retailer with latest gadgets",
+      "ar": "متجر رائد للإلكترونيات يقدم أحدث الأجهزة"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/lipstick.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
+      "https://images.unsplash.com/photo-1521334884684-d80222895322"
+    ],
+    "mainBranchAddress": {
+      "en": "City 34, Main Street 134",
+      "ar": "المدينة 34، الشارع الرئيسي 134"
+    },
+    "facebook": "https://facebook.com/store34",
+    "instagram": "https://instagram.com/store34",
+    "linkedin": "https://linkedin.com/company/store34",
+    "youtube": "https://youtube.com/store34"
+  },
+  {
+    "id": 35,
+    "storeName": {
+      "en": "Fashion Hub #35",
+      "ar": "مركز الأزياء #35"
+    },
+    "description": {
+      "en": "Leading electronics retailer with latest gadgets",
+      "ar": "متجر رائد للإلكترونيات يقدم أحدث الأجهزة"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/lipstick.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9",
+      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb"
+    ],
+    "mainBranchAddress": {
+      "en": "City 35, Main Street 135",
+      "ar": "المدينة 35، الشارع الرئيسي 135"
+    },
+    "facebook": "https://facebook.com/store35",
+    "instagram": "https://instagram.com/store35",
+    "linkedin": "https://linkedin.com/company/store35",
+    "youtube": "https://youtube.com/store35"
+  },
+  {
+    "id": 36,
+    "storeName": {
+      "en": "Fashion Hub #36",
+      "ar": "مركز الأزياء #36"
+    },
+    "description": {
+      "en": "Stylish furniture and home decor",
+      "ar": "أثاث منزلي وديكور أنيق"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/electronics.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9",
+      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47"
+    ],
+    "mainBranchAddress": {
+      "en": "City 36, Main Street 136",
+      "ar": "المدينة 36، الشارع الرئيسي 136"
+    },
+    "facebook": "https://facebook.com/store36",
+    "instagram": "https://instagram.com/store36",
+    "linkedin": "https://linkedin.com/company/store36",
+    "youtube": "https://youtube.com/store36"
+  },
+  {
+    "id": 37,
+    "storeName": {
+      "en": "Fashion Hub #37",
+      "ar": "مركز الأزياء #37"
+    },
+    "description": {
+      "en": "Your trusted grocery store",
+      "ar": "متجرك الموثوق للبقالة"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/t-shirt.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5",
+      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb"
+    ],
+    "mainBranchAddress": {
+      "en": "City 37, Main Street 137",
+      "ar": "المدينة 37، الشارع الرئيسي 137"
+    },
+    "facebook": "https://facebook.com/store37",
+    "instagram": "https://instagram.com/store37",
+    "linkedin": "https://linkedin.com/company/store37",
+    "youtube": "https://youtube.com/store37"
+  },
+  {
+    "id": 38,
+    "storeName": {
+      "en": "Tech World #38",
+      "ar": "عالم التقنية #38"
+    },
+    "description": {
+      "en": "Exclusive jewelry collections",
+      "ar": "مجموعات مجوهرات حصرية"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/lipstick.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+    ],
+    "mainBranchAddress": {
+      "en": "City 38, Main Street 138",
+      "ar": "المدينة 38، الشارع الرئيسي 138"
+    },
+    "facebook": "https://facebook.com/store38",
+    "instagram": "https://instagram.com/store38",
+    "linkedin": "https://linkedin.com/company/store38",
+    "youtube": "https://youtube.com/store38"
+  },
+  {
+    "id": 39,
+    "storeName": {
+      "en": "SportX #39",
+      "ar": "سبورت اكس #39"
+    },
+    "description": {
+      "en": "Leading electronics retailer with latest gadgets",
+      "ar": "متجر رائد للإلكترونيات يقدم أحدث الأجهزة"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/t-shirt.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb",
+      "https://images.unsplash.com/photo-1521334884684-d80222895322"
+    ],
+    "mainBranchAddress": {
+      "en": "City 39, Main Street 139",
+      "ar": "المدينة 39، الشارع الرئيسي 139"
+    },
+    "facebook": "https://facebook.com/store39",
+    "instagram": "https://instagram.com/store39",
+    "linkedin": "https://linkedin.com/company/store39",
+    "youtube": "https://youtube.com/store39"
+  },
+  {
+    "id": 40,
+    "storeName": {
+      "en": "Book Planet #40",
+      "ar": "كوكب الكتب #40"
+    },
+    "description": {
+      "en": "Top beauty and health products",
+      "ar": "أفضل منتجات الجمال والصحة"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/diamond.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
+      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47"
+    ],
+    "mainBranchAddress": {
+      "en": "City 40, Main Street 140",
+      "ar": "المدينة 40، الشارع الرئيسي 140"
+    },
+    "facebook": "https://facebook.com/store40",
+    "instagram": "https://instagram.com/store40",
+    "linkedin": "https://linkedin.com/company/store40",
+    "youtube": "https://youtube.com/store40"
+  },
+  {
+    "id": 41,
+    "storeName": {
+      "en": "Tech World #41",
+      "ar": "عالم التقنية #41"
+    },
+    "description": {
+      "en": "Trendy clothing for all seasons",
+      "ar": "ملابس عصرية لكل المواسم"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/basketball.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754",
+      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5"
+    ],
+    "mainBranchAddress": {
+      "en": "City 41, Main Street 141",
+      "ar": "المدينة 41، الشارع الرئيسي 141"
+    },
+    "facebook": "https://facebook.com/store41",
+    "instagram": "https://instagram.com/store41",
+    "linkedin": "https://linkedin.com/company/store41",
+    "youtube": "https://youtube.com/store41"
+  },
+  {
+    "id": 42,
+    "storeName": {
+      "en": "Book Planet #42",
+      "ar": "كوكب الكتب #42"
+    },
+    "description": {
+      "en": "Exclusive jewelry collections",
+      "ar": "مجموعات مجوهرات حصرية"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/basketball.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1521334884684-d80222895322",
+      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce"
+    ],
+    "mainBranchAddress": {
+      "en": "City 42, Main Street 142",
+      "ar": "المدينة 42، الشارع الرئيسي 142"
+    },
+    "facebook": "https://facebook.com/store42",
+    "instagram": "https://instagram.com/store42",
+    "linkedin": "https://linkedin.com/company/store42",
+    "youtube": "https://youtube.com/store42"
+  },
+  {
+    "id": 43,
+    "storeName": {
+      "en": "Fresh Mart #43",
+      "ar": "ماركت فريش #43"
+    },
+    "description": {
+      "en": "Exclusive jewelry collections",
+      "ar": "مجموعات مجوهرات حصرية"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/sofa.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1521334884684-d80222895322",
+      "https://images.unsplash.com/photo-1585325701954-34d6b8a9c6c4"
+    ],
+    "mainBranchAddress": {
+      "en": "City 43, Main Street 143",
+      "ar": "المدينة 43، الشارع الرئيسي 143"
+    },
+    "facebook": "https://facebook.com/store43",
+    "instagram": "https://instagram.com/store43",
+    "linkedin": "https://linkedin.com/company/store43",
+    "youtube": "https://youtube.com/store43"
+  },
+  {
+    "id": 44,
+    "storeName": {
+      "en": "Home Style #44",
+      "ar": "ستايل المنزل #44"
+    },
+    "description": {
+      "en": "All sports gear you need",
+      "ar": "جميع معدات الرياضة التي تحتاجها"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/teddy-bear.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb",
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754"
+    ],
+    "mainBranchAddress": {
+      "en": "City 44, Main Street 144",
+      "ar": "المدينة 44، الشارع الرئيسي 144"
+    },
+    "facebook": "https://facebook.com/store44",
+    "instagram": "https://instagram.com/store44",
+    "linkedin": "https://linkedin.com/company/store44",
+    "youtube": "https://youtube.com/store44"
+  },
+  {
+    "id": 45,
+    "storeName": {
+      "en": "SportX #45",
+      "ar": "سبورت اكس #45"
+    },
+    "description": {
+      "en": "Trendy clothing for all seasons",
+      "ar": "ملابس عصرية لكل المواسم"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/lipstick.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1521334884684-d80222895322",
+      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5"
+    ],
+    "mainBranchAddress": {
+      "en": "City 45, Main Street 145",
+      "ar": "المدينة 45، الشارع الرئيسي 145"
+    },
+    "facebook": "https://facebook.com/store45",
+    "instagram": "https://instagram.com/store45",
+    "linkedin": "https://linkedin.com/company/store45",
+    "youtube": "https://youtube.com/store45"
+  },
+  {
+    "id": 46,
+    "storeName": {
+      "en": "Beauty Spot #46",
+      "ar": "ركن الجمال #46"
+    },
+    "description": {
+      "en": "All sports gear you need",
+      "ar": "جميع معدات الرياضة التي تحتاجها"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/grocery-bag.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
+      "https://images.unsplash.com/photo-1521334884684-d80222895322"
+    ],
+    "mainBranchAddress": {
+      "en": "City 46, Main Street 146",
+      "ar": "المدينة 46، الشارع الرئيسي 146"
+    },
+    "facebook": "https://facebook.com/store46",
+    "instagram": "https://instagram.com/store46",
+    "linkedin": "https://linkedin.com/company/store46",
+    "youtube": "https://youtube.com/store46"
+  },
+  {
+    "id": 47,
+    "storeName": {
+      "en": "Book Planet #47",
+      "ar": "كوكب الكتب #47"
+    },
+    "description": {
+      "en": "Leading electronics retailer with latest gadgets",
+      "ar": "متجر رائد للإلكترونيات يقدم أحدث الأجهزة"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/grocery-bag.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
+      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5"
+    ],
+    "mainBranchAddress": {
+      "en": "City 47, Main Street 147",
+      "ar": "المدينة 47، الشارع الرئيسي 147"
+    },
+    "facebook": "https://facebook.com/store47",
+    "instagram": "https://instagram.com/store47",
+    "linkedin": "https://linkedin.com/company/store47",
+    "youtube": "https://youtube.com/store47"
+  },
+  {
+    "id": 48,
+    "storeName": {
+      "en": "Home Style #48",
+      "ar": "ستايل المنزل #48"
+    },
+    "description": {
+      "en": "Car accessories and parts",
+      "ar": "قطع وإكسسوارات السيارات"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/diamond.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5",
+      "https://images.unsplash.com/photo-1585325701954-34d6b8a9c6c4"
+    ],
+    "mainBranchAddress": {
+      "en": "City 48, Main Street 148",
+      "ar": "المدينة 48، الشارع الرئيسي 148"
+    },
+    "facebook": "https://facebook.com/store48",
+    "instagram": "https://instagram.com/store48",
+    "linkedin": "https://linkedin.com/company/store48",
+    "youtube": "https://youtube.com/store48"
+  },
+  {
+    "id": 49,
+    "storeName": {
+      "en": "Fresh Mart #49",
+      "ar": "ماركت فريش #49"
+    },
+    "description": {
+      "en": "A world of books and stationery",
+      "ar": "عالم من الكتب والأدوات المكتبية"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/basketball.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9",
+      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce"
+    ],
+    "mainBranchAddress": {
+      "en": "City 49, Main Street 149",
+      "ar": "المدينة 49، الشارع الرئيسي 149"
+    },
+    "facebook": "https://facebook.com/store49",
+    "instagram": "https://instagram.com/store49",
+    "linkedin": "https://linkedin.com/company/store49",
+    "youtube": "https://youtube.com/store49"
+  },
+  {
+    "id": 50,
+    "storeName": {
+      "en": "Book Planet #50",
+      "ar": "كوكب الكتب #50"
+    },
+    "description": {
+      "en": "Trendy clothing for all seasons",
+      "ar": "ملابس عصرية لكل المواسم"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/electronics.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1521334884684-d80222895322",
+      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5"
+    ],
+    "mainBranchAddress": {
+      "en": "City 50, Main Street 150",
+      "ar": "المدينة 50، الشارع الرئيسي 150"
+    },
+    "facebook": "https://facebook.com/store50",
+    "instagram": "https://instagram.com/store50",
+    "linkedin": "https://linkedin.com/company/store50",
+    "youtube": "https://youtube.com/store50"
+  },
+  {
+    "id": 51,
+    "storeName": {
+      "en": "Home Style #51",
+      "ar": "ستايل المنزل #51"
+    },
+    "description": {
+      "en": "Car accessories and parts",
+      "ar": "قطع وإكسسوارات السيارات"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/car.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9",
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
+    ],
+    "mainBranchAddress": {
+      "en": "City 51, Main Street 151",
+      "ar": "المدينة 51، الشارع الرئيسي 151"
+    },
+    "facebook": "https://facebook.com/store51",
+    "instagram": "https://instagram.com/store51",
+    "linkedin": "https://linkedin.com/company/store51",
+    "youtube": "https://youtube.com/store51"
+  },
+  {
+    "id": 52,
+    "storeName": {
+      "en": "Book Planet #52",
+      "ar": "كوكب الكتب #52"
+    },
+    "description": {
+      "en": "Trendy clothing for all seasons",
+      "ar": "ملابس عصرية لكل المواسم"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/t-shirt.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
+      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb"
+    ],
+    "mainBranchAddress": {
+      "en": "City 52, Main Street 152",
+      "ar": "المدينة 52، الشارع الرئيسي 152"
+    },
+    "facebook": "https://facebook.com/store52",
+    "instagram": "https://instagram.com/store52",
+    "linkedin": "https://linkedin.com/company/store52",
+    "youtube": "https://youtube.com/store52"
+  },
+  {
+    "id": 53,
+    "storeName": {
+      "en": "Fashion Hub #53",
+      "ar": "مركز الأزياء #53"
+    },
+    "description": {
+      "en": "Trendy clothing for all seasons",
+      "ar": "ملابس عصرية لكل المواسم"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/t-shirt.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1585325701954-34d6b8a9c6c4",
+      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb"
+    ],
+    "mainBranchAddress": {
+      "en": "City 53, Main Street 153",
+      "ar": "المدينة 53، الشارع الرئيسي 153"
+    },
+    "facebook": "https://facebook.com/store53",
+    "instagram": "https://instagram.com/store53",
+    "linkedin": "https://linkedin.com/company/store53",
+    "youtube": "https://youtube.com/store53"
+  },
+  {
+    "id": 54,
+    "storeName": {
+      "en": "Beauty Spot #54",
+      "ar": "ركن الجمال #54"
+    },
+    "description": {
+      "en": "Stylish furniture and home decor",
+      "ar": "أثاث منزلي وديكور أنيق"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/basketball.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5",
+      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce"
+    ],
+    "mainBranchAddress": {
+      "en": "City 54, Main Street 154",
+      "ar": "المدينة 54، الشارع الرئيسي 154"
+    },
+    "facebook": "https://facebook.com/store54",
+    "instagram": "https://instagram.com/store54",
+    "linkedin": "https://linkedin.com/company/store54",
+    "youtube": "https://youtube.com/store54"
+  },
+  {
+    "id": 55,
+    "storeName": {
+      "en": "Fashion Hub #55",
+      "ar": "مركز الأزياء #55"
+    },
+    "description": {
+      "en": "Exclusive jewelry collections",
+      "ar": "مجموعات مجوهرات حصرية"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/electronics.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+    ],
+    "mainBranchAddress": {
+      "en": "City 55, Main Street 155",
+      "ar": "المدينة 55، الشارع الرئيسي 155"
+    },
+    "facebook": "https://facebook.com/store55",
+    "instagram": "https://instagram.com/store55",
+    "linkedin": "https://linkedin.com/company/store55",
+    "youtube": "https://youtube.com/store55"
+  },
+  {
+    "id": 56,
+    "storeName": {
+      "en": "Fresh Mart #56",
+      "ar": "ماركت فريش #56"
+    },
+    "description": {
+      "en": "All sports gear you need",
+      "ar": "جميع معدات الرياضة التي تحتاجها"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/sofa.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9",
+      "https://images.unsplash.com/photo-1521334884684-d80222895322"
+    ],
+    "mainBranchAddress": {
+      "en": "City 56, Main Street 156",
+      "ar": "المدينة 56، الشارع الرئيسي 156"
+    },
+    "facebook": "https://facebook.com/store56",
+    "instagram": "https://instagram.com/store56",
+    "linkedin": "https://linkedin.com/company/store56",
+    "youtube": "https://youtube.com/store56"
+  },
+  {
+    "id": 57,
+    "storeName": {
+      "en": "AutoZone #57",
+      "ar": "منطقة السيارات #57"
+    },
+    "description": {
+      "en": "Top beauty and health products",
+      "ar": "أفضل منتجات الجمال والصحة"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/diamond.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
+      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47"
+    ],
+    "mainBranchAddress": {
+      "en": "City 57, Main Street 157",
+      "ar": "المدينة 57، الشارع الرئيسي 157"
+    },
+    "facebook": "https://facebook.com/store57",
+    "instagram": "https://instagram.com/store57",
+    "linkedin": "https://linkedin.com/company/store57",
+    "youtube": "https://youtube.com/store57"
+  },
+  {
+    "id": 58,
+    "storeName": {
+      "en": "Jewel Star #58",
+      "ar": "نجمة المجوهرات #58"
+    },
+    "description": {
+      "en": "Trendy clothing for all seasons",
+      "ar": "ملابس عصرية لكل المواسم"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/diamond.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1521334884684-d80222895322",
+      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce"
+    ],
+    "mainBranchAddress": {
+      "en": "City 58, Main Street 158",
+      "ar": "المدينة 58، الشارع الرئيسي 158"
+    },
+    "facebook": "https://facebook.com/store58",
+    "instagram": "https://instagram.com/store58",
+    "linkedin": "https://linkedin.com/company/store58",
+    "youtube": "https://youtube.com/store58"
+  },
+  {
+    "id": 59,
+    "storeName": {
+      "en": "Tech World #59",
+      "ar": "عالم التقنية #59"
+    },
+    "description": {
+      "en": "A world of books and stationery",
+      "ar": "عالم من الكتب والأدوات المكتبية"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/diamond.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
+      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47"
+    ],
+    "mainBranchAddress": {
+      "en": "City 59, Main Street 159",
+      "ar": "المدينة 59، الشارع الرئيسي 159"
+    },
+    "facebook": "https://facebook.com/store59",
+    "instagram": "https://instagram.com/store59",
+    "linkedin": "https://linkedin.com/company/store59",
+    "youtube": "https://youtube.com/store59"
+  },
+  {
+    "id": 60,
+    "storeName": {
+      "en": "AutoZone #60",
+      "ar": "منطقة السيارات #60"
+    },
+    "description": {
+      "en": "A world of books and stationery",
+      "ar": "عالم من الكتب والأدوات المكتبية"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/t-shirt.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1521334884684-d80222895322",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+    ],
+    "mainBranchAddress": {
+      "en": "City 60, Main Street 160",
+      "ar": "المدينة 60، الشارع الرئيسي 160"
+    },
+    "facebook": "https://facebook.com/store60",
+    "instagram": "https://instagram.com/store60",
+    "linkedin": "https://linkedin.com/company/store60",
+    "youtube": "https://youtube.com/store60"
+  },
+  {
+    "id": 61,
+    "storeName": {
+      "en": "Jewel Star #61",
+      "ar": "نجمة المجوهرات #61"
+    },
+    "description": {
+      "en": "Trendy clothing for all seasons",
+      "ar": "ملابس عصرية لكل المواسم"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/lipstick.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb",
+      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47"
+    ],
+    "mainBranchAddress": {
+      "en": "City 61, Main Street 161",
+      "ar": "المدينة 61، الشارع الرئيسي 161"
+    },
+    "facebook": "https://facebook.com/store61",
+    "instagram": "https://instagram.com/store61",
+    "linkedin": "https://linkedin.com/company/store61",
+    "youtube": "https://youtube.com/store61"
+  },
+  {
+    "id": 62,
+    "storeName": {
+      "en": "Fashion Hub #62",
+      "ar": "مركز الأزياء #62"
+    },
+    "description": {
+      "en": "A world of books and stationery",
+      "ar": "عالم من الكتب والأدوات المكتبية"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/t-shirt.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
+      "https://images.unsplash.com/photo-1585325701954-34d6b8a9c6c4"
+    ],
+    "mainBranchAddress": {
+      "en": "City 62, Main Street 162",
+      "ar": "المدينة 62، الشارع الرئيسي 162"
+    },
+    "facebook": "https://facebook.com/store62",
+    "instagram": "https://instagram.com/store62",
+    "linkedin": "https://linkedin.com/company/store62",
+    "youtube": "https://youtube.com/store62"
+  },
+  {
+    "id": 63,
+    "storeName": {
+      "en": "Beauty Spot #63",
+      "ar": "ركن الجمال #63"
+    },
+    "description": {
+      "en": "Your trusted grocery store",
+      "ar": "متجرك الموثوق للبقالة"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/t-shirt.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb",
+      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce"
+    ],
+    "mainBranchAddress": {
+      "en": "City 63, Main Street 163",
+      "ar": "المدينة 63، الشارع الرئيسي 163"
+    },
+    "facebook": "https://facebook.com/store63",
+    "instagram": "https://instagram.com/store63",
+    "linkedin": "https://linkedin.com/company/store63",
+    "youtube": "https://youtube.com/store63"
+  },
+  {
+    "id": 64,
+    "storeName": {
+      "en": "Jewel Star #64",
+      "ar": "نجمة المجوهرات #64"
+    },
+    "description": {
+      "en": "A world of books and stationery",
+      "ar": "عالم من الكتب والأدوات المكتبية"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/basketball.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce",
+      "https://images.unsplash.com/photo-1585325701954-34d6b8a9c6c4"
+    ],
+    "mainBranchAddress": {
+      "en": "City 64, Main Street 164",
+      "ar": "المدينة 64، الشارع الرئيسي 164"
+    },
+    "facebook": "https://facebook.com/store64",
+    "instagram": "https://instagram.com/store64",
+    "linkedin": "https://linkedin.com/company/store64",
+    "youtube": "https://youtube.com/store64"
+  },
+  {
+    "id": 65,
+    "storeName": {
+      "en": "Home Style #65",
+      "ar": "ستايل المنزل #65"
+    },
+    "description": {
+      "en": "Your trusted grocery store",
+      "ar": "متجرك الموثوق للبقالة"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/t-shirt.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754",
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
+    ],
+    "mainBranchAddress": {
+      "en": "City 65, Main Street 165",
+      "ar": "المدينة 65، الشارع الرئيسي 165"
+    },
+    "facebook": "https://facebook.com/store65",
+    "instagram": "https://instagram.com/store65",
+    "linkedin": "https://linkedin.com/company/store65",
+    "youtube": "https://youtube.com/store65"
+  },
+  {
+    "id": 66,
+    "storeName": {
+      "en": "Beauty Spot #66",
+      "ar": "ركن الجمال #66"
+    },
+    "description": {
+      "en": "Trendy clothing for all seasons",
+      "ar": "ملابس عصرية لكل المواسم"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/teddy-bear.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1521334884684-d80222895322",
+      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5"
+    ],
+    "mainBranchAddress": {
+      "en": "City 66, Main Street 166",
+      "ar": "المدينة 66، الشارع الرئيسي 166"
+    },
+    "facebook": "https://facebook.com/store66",
+    "instagram": "https://instagram.com/store66",
+    "linkedin": "https://linkedin.com/company/store66",
+    "youtube": "https://youtube.com/store66"
+  },
+  {
+    "id": 67,
+    "storeName": {
+      "en": "Jewel Star #67",
+      "ar": "نجمة المجوهرات #67"
+    },
+    "description": {
+      "en": "All sports gear you need",
+      "ar": "جميع معدات الرياضة التي تحتاجها"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/lipstick.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5",
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754"
+    ],
+    "mainBranchAddress": {
+      "en": "City 67, Main Street 167",
+      "ar": "المدينة 67، الشارع الرئيسي 167"
+    },
+    "facebook": "https://facebook.com/store67",
+    "instagram": "https://instagram.com/store67",
+    "linkedin": "https://linkedin.com/company/store67",
+    "youtube": "https://youtube.com/store67"
+  },
+  {
+    "id": 68,
+    "storeName": {
+      "en": "Fashion Hub #68",
+      "ar": "مركز الأزياء #68"
+    },
+    "description": {
+      "en": "Exclusive jewelry collections",
+      "ar": "مجموعات مجوهرات حصرية"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/lipstick.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1585325701954-34d6b8a9c6c4",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+    ],
+    "mainBranchAddress": {
+      "en": "City 68, Main Street 168",
+      "ar": "المدينة 68، الشارع الرئيسي 168"
+    },
+    "facebook": "https://facebook.com/store68",
+    "instagram": "https://instagram.com/store68",
+    "linkedin": "https://linkedin.com/company/store68",
+    "youtube": "https://youtube.com/store68"
+  },
+  {
+    "id": 69,
+    "storeName": {
+      "en": "Tech World #69",
+      "ar": "عالم التقنية #69"
+    },
+    "description": {
+      "en": "Exclusive jewelry collections",
+      "ar": "مجموعات مجوهرات حصرية"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/lipstick.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1521334884684-d80222895322",
+      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce"
+    ],
+    "mainBranchAddress": {
+      "en": "City 69, Main Street 169",
+      "ar": "المدينة 69، الشارع الرئيسي 169"
+    },
+    "facebook": "https://facebook.com/store69",
+    "instagram": "https://instagram.com/store69",
+    "linkedin": "https://linkedin.com/company/store69",
+    "youtube": "https://youtube.com/store69"
+  },
+  {
+    "id": 70,
+    "storeName": {
+      "en": "Toy World #70",
+      "ar": "عالم الألعاب #70"
+    },
+    "description": {
+      "en": "Leading electronics retailer with latest gadgets",
+      "ar": "متجر رائد للإلكترونيات يقدم أحدث الأجهزة"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/lipstick.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47",
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
+    ],
+    "mainBranchAddress": {
+      "en": "City 70, Main Street 170",
+      "ar": "المدينة 70، الشارع الرئيسي 170"
+    },
+    "facebook": "https://facebook.com/store70",
+    "instagram": "https://instagram.com/store70",
+    "linkedin": "https://linkedin.com/company/store70",
+    "youtube": "https://youtube.com/store70"
+  },
+  {
+    "id": 71,
+    "storeName": {
+      "en": "Jewel Star #71",
+      "ar": "نجمة المجوهرات #71"
+    },
+    "description": {
+      "en": "Fun toys and games for kids",
+      "ar": "ألعاب ممتعة للأطفال"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/grocery-bag.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754",
+      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5"
+    ],
+    "mainBranchAddress": {
+      "en": "City 71, Main Street 171",
+      "ar": "المدينة 71، الشارع الرئيسي 171"
+    },
+    "facebook": "https://facebook.com/store71",
+    "instagram": "https://instagram.com/store71",
+    "linkedin": "https://linkedin.com/company/store71",
+    "youtube": "https://youtube.com/store71"
+  },
+  {
+    "id": 72,
+    "storeName": {
+      "en": "Home Style #72",
+      "ar": "ستايل المنزل #72"
+    },
+    "description": {
+      "en": "Your trusted grocery store",
+      "ar": "متجرك الموثوق للبقالة"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/t-shirt.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1521334884684-d80222895322",
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
+    ],
+    "mainBranchAddress": {
+      "en": "City 72, Main Street 172",
+      "ar": "المدينة 72، الشارع الرئيسي 172"
+    },
+    "facebook": "https://facebook.com/store72",
+    "instagram": "https://instagram.com/store72",
+    "linkedin": "https://linkedin.com/company/store72",
+    "youtube": "https://youtube.com/store72"
+  },
+  {
+    "id": 73,
+    "storeName": {
+      "en": "Fashion Hub #73",
+      "ar": "مركز الأزياء #73"
+    },
+    "description": {
+      "en": "Stylish furniture and home decor",
+      "ar": "أثاث منزلي وديكور أنيق"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/diamond.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1521334884684-d80222895322",
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
+    ],
+    "mainBranchAddress": {
+      "en": "City 73, Main Street 173",
+      "ar": "المدينة 73، الشارع الرئيسي 173"
+    },
+    "facebook": "https://facebook.com/store73",
+    "instagram": "https://instagram.com/store73",
+    "linkedin": "https://linkedin.com/company/store73",
+    "youtube": "https://youtube.com/store73"
+  },
+  {
+    "id": 74,
+    "storeName": {
+      "en": "Fresh Mart #74",
+      "ar": "ماركت فريش #74"
+    },
+    "description": {
+      "en": "Stylish furniture and home decor",
+      "ar": "أثاث منزلي وديكور أنيق"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/lipstick.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce",
+      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47"
+    ],
+    "mainBranchAddress": {
+      "en": "City 74, Main Street 174",
+      "ar": "المدينة 74، الشارع الرئيسي 174"
+    },
+    "facebook": "https://facebook.com/store74",
+    "instagram": "https://instagram.com/store74",
+    "linkedin": "https://linkedin.com/company/store74",
+    "youtube": "https://youtube.com/store74"
+  },
+  {
+    "id": 75,
+    "storeName": {
+      "en": "Fashion Hub #75",
+      "ar": "مركز الأزياء #75"
+    },
+    "description": {
+      "en": "Fun toys and games for kids",
+      "ar": "ألعاب ممتعة للأطفال"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/sofa.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce",
+      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47"
+    ],
+    "mainBranchAddress": {
+      "en": "City 75, Main Street 175",
+      "ar": "المدينة 75، الشارع الرئيسي 175"
+    },
+    "facebook": "https://facebook.com/store75",
+    "instagram": "https://instagram.com/store75",
+    "linkedin": "https://linkedin.com/company/store75",
+    "youtube": "https://youtube.com/store75"
+  },
+  {
+    "id": 76,
+    "storeName": {
+      "en": "Fresh Mart #76",
+      "ar": "ماركت فريش #76"
+    },
+    "description": {
+      "en": "A world of books and stationery",
+      "ar": "عالم من الكتب والأدوات المكتبية"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/teddy-bear.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
+      "https://images.unsplash.com/photo-1521334884684-d80222895322"
+    ],
+    "mainBranchAddress": {
+      "en": "City 76, Main Street 176",
+      "ar": "المدينة 76، الشارع الرئيسي 176"
+    },
+    "facebook": "https://facebook.com/store76",
+    "instagram": "https://instagram.com/store76",
+    "linkedin": "https://linkedin.com/company/store76",
+    "youtube": "https://youtube.com/store76"
+  },
+  {
+    "id": 77,
+    "storeName": {
+      "en": "Jewel Star #77",
+      "ar": "نجمة المجوهرات #77"
+    },
+    "description": {
+      "en": "Your trusted grocery store",
+      "ar": "متجرك الموثوق للبقالة"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/t-shirt.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1585325701954-34d6b8a9c6c4",
+      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47"
+    ],
+    "mainBranchAddress": {
+      "en": "City 77, Main Street 177",
+      "ar": "المدينة 77، الشارع الرئيسي 177"
+    },
+    "facebook": "https://facebook.com/store77",
+    "instagram": "https://instagram.com/store77",
+    "linkedin": "https://linkedin.com/company/store77",
+    "youtube": "https://youtube.com/store77"
+  },
+  {
+    "id": 78,
+    "storeName": {
+      "en": "Fashion Hub #78",
+      "ar": "مركز الأزياء #78"
+    },
+    "description": {
+      "en": "Exclusive jewelry collections",
+      "ar": "مجموعات مجوهرات حصرية"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/diamond.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754",
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
+    ],
+    "mainBranchAddress": {
+      "en": "City 78, Main Street 178",
+      "ar": "المدينة 78، الشارع الرئيسي 178"
+    },
+    "facebook": "https://facebook.com/store78",
+    "instagram": "https://instagram.com/store78",
+    "linkedin": "https://linkedin.com/company/store78",
+    "youtube": "https://youtube.com/store78"
+  },
+  {
+    "id": 79,
+    "storeName": {
+      "en": "Tech World #79",
+      "ar": "عالم التقنية #79"
+    },
+    "description": {
+      "en": "Exclusive jewelry collections",
+      "ar": "مجموعات مجوهرات حصرية"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/basketball.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+    ],
+    "mainBranchAddress": {
+      "en": "City 79, Main Street 179",
+      "ar": "المدينة 79، الشارع الرئيسي 179"
+    },
+    "facebook": "https://facebook.com/store79",
+    "instagram": "https://instagram.com/store79",
+    "linkedin": "https://linkedin.com/company/store79",
+    "youtube": "https://youtube.com/store79"
+  },
+  {
+    "id": 80,
+    "storeName": {
+      "en": "Beauty Spot #80",
+      "ar": "ركن الجمال #80"
+    },
+    "description": {
+      "en": "Trendy clothing for all seasons",
+      "ar": "ملابس عصرية لكل المواسم"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/diamond.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754",
+      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce"
+    ],
+    "mainBranchAddress": {
+      "en": "City 80, Main Street 180",
+      "ar": "المدينة 80، الشارع الرئيسي 180"
+    },
+    "facebook": "https://facebook.com/store80",
+    "instagram": "https://instagram.com/store80",
+    "linkedin": "https://linkedin.com/company/store80",
+    "youtube": "https://youtube.com/store80"
+  },
+  {
+    "id": 81,
+    "storeName": {
+      "en": "Fresh Mart #81",
+      "ar": "ماركت فريش #81"
+    },
+    "description": {
+      "en": "Fun toys and games for kids",
+      "ar": "ألعاب ممتعة للأطفال"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/open-book.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce",
+      "https://images.unsplash.com/photo-1521334884684-d80222895322"
+    ],
+    "mainBranchAddress": {
+      "en": "City 81, Main Street 181",
+      "ar": "المدينة 81، الشارع الرئيسي 181"
+    },
+    "facebook": "https://facebook.com/store81",
+    "instagram": "https://instagram.com/store81",
+    "linkedin": "https://linkedin.com/company/store81",
+    "youtube": "https://youtube.com/store81"
+  },
+  {
+    "id": 82,
+    "storeName": {
+      "en": "AutoZone #82",
+      "ar": "منطقة السيارات #82"
+    },
+    "description": {
+      "en": "Trendy clothing for all seasons",
+      "ar": "ملابس عصرية لكل المواسم"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/car.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
+    ],
+    "mainBranchAddress": {
+      "en": "City 82, Main Street 182",
+      "ar": "المدينة 82، الشارع الرئيسي 182"
+    },
+    "facebook": "https://facebook.com/store82",
+    "instagram": "https://instagram.com/store82",
+    "linkedin": "https://linkedin.com/company/store82",
+    "youtube": "https://youtube.com/store82"
+  },
+  {
+    "id": 83,
+    "storeName": {
+      "en": "Tech World #83",
+      "ar": "عالم التقنية #83"
+    },
+    "description": {
+      "en": "Stylish furniture and home decor",
+      "ar": "أثاث منزلي وديكور أنيق"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/t-shirt.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1585325701954-34d6b8a9c6c4",
+      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47"
+    ],
+    "mainBranchAddress": {
+      "en": "City 83, Main Street 183",
+      "ar": "المدينة 83، الشارع الرئيسي 183"
+    },
+    "facebook": "https://facebook.com/store83",
+    "instagram": "https://instagram.com/store83",
+    "linkedin": "https://linkedin.com/company/store83",
+    "youtube": "https://youtube.com/store83"
+  },
+  {
+    "id": 84,
+    "storeName": {
+      "en": "Fresh Mart #84",
+      "ar": "ماركت فريش #84"
+    },
+    "description": {
+      "en": "Exclusive jewelry collections",
+      "ar": "مجموعات مجوهرات حصرية"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/electronics.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+    ],
+    "mainBranchAddress": {
+      "en": "City 84, Main Street 184",
+      "ar": "المدينة 84، الشارع الرئيسي 184"
+    },
+    "facebook": "https://facebook.com/store84",
+    "instagram": "https://instagram.com/store84",
+    "linkedin": "https://linkedin.com/company/store84",
+    "youtube": "https://youtube.com/store84"
+  },
+  {
+    "id": 85,
+    "storeName": {
+      "en": "AutoZone #85",
+      "ar": "منطقة السيارات #85"
+    },
+    "description": {
+      "en": "Leading electronics retailer with latest gadgets",
+      "ar": "متجر رائد للإلكترونيات يقدم أحدث الأجهزة"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/car.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754",
+      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce"
+    ],
+    "mainBranchAddress": {
+      "en": "City 85, Main Street 185",
+      "ar": "المدينة 85، الشارع الرئيسي 185"
+    },
+    "facebook": "https://facebook.com/store85",
+    "instagram": "https://instagram.com/store85",
+    "linkedin": "https://linkedin.com/company/store85",
+    "youtube": "https://youtube.com/store85"
+  },
+  {
+    "id": 86,
+    "storeName": {
+      "en": "Toy World #86",
+      "ar": "عالم الألعاب #86"
+    },
+    "description": {
+      "en": "All sports gear you need",
+      "ar": "جميع معدات الرياضة التي تحتاجها"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/car.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47",
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754"
+    ],
+    "mainBranchAddress": {
+      "en": "City 86, Main Street 186",
+      "ar": "المدينة 86، الشارع الرئيسي 186"
+    },
+    "facebook": "https://facebook.com/store86",
+    "instagram": "https://instagram.com/store86",
+    "linkedin": "https://linkedin.com/company/store86",
+    "youtube": "https://youtube.com/store86"
+  },
+  {
+    "id": 87,
+    "storeName": {
+      "en": "Jewel Star #87",
+      "ar": "نجمة المجوهرات #87"
+    },
+    "description": {
+      "en": "Your trusted grocery store",
+      "ar": "متجرك الموثوق للبقالة"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/grocery-bag.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1585325701954-34d6b8a9c6c4",
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754"
+    ],
+    "mainBranchAddress": {
+      "en": "City 87, Main Street 187",
+      "ar": "المدينة 87، الشارع الرئيسي 187"
+    },
+    "facebook": "https://facebook.com/store87",
+    "instagram": "https://instagram.com/store87",
+    "linkedin": "https://linkedin.com/company/store87",
+    "youtube": "https://youtube.com/store87"
+  },
+  {
+    "id": 88,
+    "storeName": {
+      "en": "AutoZone #88",
+      "ar": "منطقة السيارات #88"
+    },
+    "description": {
+      "en": "Trendy clothing for all seasons",
+      "ar": "ملابس عصرية لكل المواسم"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/open-book.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
+      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb"
+    ],
+    "mainBranchAddress": {
+      "en": "City 88, Main Street 188",
+      "ar": "المدينة 88، الشارع الرئيسي 188"
+    },
+    "facebook": "https://facebook.com/store88",
+    "instagram": "https://instagram.com/store88",
+    "linkedin": "https://linkedin.com/company/store88",
+    "youtube": "https://youtube.com/store88"
+  },
+  {
+    "id": 89,
+    "storeName": {
+      "en": "Fresh Mart #89",
+      "ar": "ماركت فريش #89"
+    },
+    "description": {
+      "en": "Stylish furniture and home decor",
+      "ar": "أثاث منزلي وديكور أنيق"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/diamond.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1521334884684-d80222895322",
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
+    ],
+    "mainBranchAddress": {
+      "en": "City 89, Main Street 189",
+      "ar": "المدينة 89، الشارع الرئيسي 189"
+    },
+    "facebook": "https://facebook.com/store89",
+    "instagram": "https://instagram.com/store89",
+    "linkedin": "https://linkedin.com/company/store89",
+    "youtube": "https://youtube.com/store89"
+  },
+  {
+    "id": 90,
+    "storeName": {
+      "en": "Tech World #90",
+      "ar": "عالم التقنية #90"
+    },
+    "description": {
+      "en": "Your trusted grocery store",
+      "ar": "متجرك الموثوق للبقالة"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/sofa.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754",
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
+    ],
+    "mainBranchAddress": {
+      "en": "City 90, Main Street 190",
+      "ar": "المدينة 90، الشارع الرئيسي 190"
+    },
+    "facebook": "https://facebook.com/store90",
+    "instagram": "https://instagram.com/store90",
+    "linkedin": "https://linkedin.com/company/store90",
+    "youtube": "https://youtube.com/store90"
+  },
+  {
+    "id": 91,
+    "storeName": {
+      "en": "SportX #91",
+      "ar": "سبورت اكس #91"
+    },
+    "description": {
+      "en": "Stylish furniture and home decor",
+      "ar": "أثاث منزلي وديكور أنيق"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/open-book.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+    ],
+    "mainBranchAddress": {
+      "en": "City 91, Main Street 191",
+      "ar": "المدينة 91، الشارع الرئيسي 191"
+    },
+    "facebook": "https://facebook.com/store91",
+    "instagram": "https://instagram.com/store91",
+    "linkedin": "https://linkedin.com/company/store91",
+    "youtube": "https://youtube.com/store91"
+  },
+  {
+    "id": 92,
+    "storeName": {
+      "en": "Fresh Mart #92",
+      "ar": "ماركت فريش #92"
+    },
+    "description": {
+      "en": "Top beauty and health products",
+      "ar": "أفضل منتجات الجمال والصحة"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/car.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9",
+      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5"
+    ],
+    "mainBranchAddress": {
+      "en": "City 92, Main Street 192",
+      "ar": "المدينة 92، الشارع الرئيسي 192"
+    },
+    "facebook": "https://facebook.com/store92",
+    "instagram": "https://instagram.com/store92",
+    "linkedin": "https://linkedin.com/company/store92",
+    "youtube": "https://youtube.com/store92"
+  },
+  {
+    "id": 93,
+    "storeName": {
+      "en": "Jewel Star #93",
+      "ar": "نجمة المجوهرات #93"
+    },
+    "description": {
+      "en": "Exclusive jewelry collections",
+      "ar": "مجموعات مجوهرات حصرية"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/sofa.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb",
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
+    ],
+    "mainBranchAddress": {
+      "en": "City 93, Main Street 193",
+      "ar": "المدينة 93، الشارع الرئيسي 193"
+    },
+    "facebook": "https://facebook.com/store93",
+    "instagram": "https://instagram.com/store93",
+    "linkedin": "https://linkedin.com/company/store93",
+    "youtube": "https://youtube.com/store93"
+  },
+  {
+    "id": 94,
+    "storeName": {
+      "en": "Fashion Hub #94",
+      "ar": "مركز الأزياء #94"
+    },
+    "description": {
+      "en": "Your trusted grocery store",
+      "ar": "متجرك الموثوق للبقالة"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/open-book.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9",
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754"
+    ],
+    "mainBranchAddress": {
+      "en": "City 94, Main Street 194",
+      "ar": "المدينة 94، الشارع الرئيسي 194"
+    },
+    "facebook": "https://facebook.com/store94",
+    "instagram": "https://instagram.com/store94",
+    "linkedin": "https://linkedin.com/company/store94",
+    "youtube": "https://youtube.com/store94"
+  },
+  {
+    "id": 95,
+    "storeName": {
+      "en": "SportX #95",
+      "ar": "سبورت اكس #95"
+    },
+    "description": {
+      "en": "Fun toys and games for kids",
+      "ar": "ألعاب ممتعة للأطفال"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/basketball.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47",
+      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5"
+    ],
+    "mainBranchAddress": {
+      "en": "City 95, Main Street 195",
+      "ar": "المدينة 95، الشارع الرئيسي 195"
+    },
+    "facebook": "https://facebook.com/store95",
+    "instagram": "https://instagram.com/store95",
+    "linkedin": "https://linkedin.com/company/store95",
+    "youtube": "https://youtube.com/store95"
+  },
+  {
+    "id": 96,
+    "storeName": {
+      "en": "Beauty Spot #96",
+      "ar": "ركن الجمال #96"
+    },
+    "description": {
+      "en": "Trendy clothing for all seasons",
+      "ar": "ملابس عصرية لكل المواسم"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/sofa.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47",
+      "https://images.unsplash.com/photo-1521334884684-d80222895322"
+    ],
+    "mainBranchAddress": {
+      "en": "City 96, Main Street 196",
+      "ar": "المدينة 96، الشارع الرئيسي 196"
+    },
+    "facebook": "https://facebook.com/store96",
+    "instagram": "https://instagram.com/store96",
+    "linkedin": "https://linkedin.com/company/store96",
+    "youtube": "https://youtube.com/store96"
+  },
+  {
+    "id": 97,
+    "storeName": {
+      "en": "Tech World #97",
+      "ar": "عالم التقنية #97"
+    },
+    "description": {
+      "en": "Top beauty and health products",
+      "ar": "أفضل منتجات الجمال والصحة"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/grocery-bag.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1585325701954-34d6b8a9c6c4",
+      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce"
+    ],
+    "mainBranchAddress": {
+      "en": "City 97, Main Street 197",
+      "ar": "المدينة 97، الشارع الرئيسي 197"
+    },
+    "facebook": "https://facebook.com/store97",
+    "instagram": "https://instagram.com/store97",
+    "linkedin": "https://linkedin.com/company/store97",
+    "youtube": "https://youtube.com/store97"
+  },
+  {
+    "id": 98,
+    "storeName": {
+      "en": "SportX #98",
+      "ar": "سبورت اكس #98"
+    },
+    "description": {
+      "en": "Leading electronics retailer with latest gadgets",
+      "ar": "متجر رائد للإلكترونيات يقدم أحدث الأجهزة"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/diamond.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47",
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
+    ],
+    "mainBranchAddress": {
+      "en": "City 98, Main Street 198",
+      "ar": "المدينة 98، الشارع الرئيسي 198"
+    },
+    "facebook": "https://facebook.com/store98",
+    "instagram": "https://instagram.com/store98",
+    "linkedin": "https://linkedin.com/company/store98",
+    "youtube": "https://youtube.com/store98"
+  },
+  {
+    "id": 99,
+    "storeName": {
+      "en": "SportX #99",
+      "ar": "سبورت اكس #99"
+    },
+    "description": {
+      "en": "Car accessories and parts",
+      "ar": "قطع وإكسسوارات السيارات"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/basketball.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754",
+      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47"
+    ],
+    "mainBranchAddress": {
+      "en": "City 99, Main Street 199",
+      "ar": "المدينة 99، الشارع الرئيسي 199"
+    },
+    "facebook": "https://facebook.com/store99",
+    "instagram": "https://instagram.com/store99",
+    "linkedin": "https://linkedin.com/company/store99",
+    "youtube": "https://youtube.com/store99"
+  },
+  {
+    "id": 100,
+    "storeName": {
+      "en": "Home Style #100",
+      "ar": "ستايل المنزل #100"
+    },
+    "description": {
+      "en": "All sports gear you need",
+      "ar": "جميع معدات الرياضة التي تحتاجها"
+    },
+    "storeLogo": "https://img.icons8.com/color/96/car.png",
+    "storeImages": [
+      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce",
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
+    ],
+    "mainBranchAddress": {
+      "en": "City 100, Main Street 200",
+      "ar": "المدينة 100، الشارع الرئيسي 200"
+    },
+    "facebook": "https://facebook.com/store100",
+    "instagram": "https://instagram.com/store100",
+    "linkedin": "https://linkedin.com/company/store100",
+    "youtube": "https://youtube.com/store100"
   }
 ]

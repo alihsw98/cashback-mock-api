@@ -2,31 +2,2301 @@
   {
     "id": 1,
     "title": {
-      "en": "Smartphone Cashback Offer",
-      "ar": "عرض خاص على الهواتف الذكية"
+      "en": "Home Furniture Sale #1",
+      "ar": "تخفيضات على الأثاث المنزلي #1"
     },
     "description": {
-      "en": "Get 5% cashback on all smartphones",
-      "ar": "احصل على 5% كاش باك على جميع الهواتف الذكية"
+      "en": "Save big on your shopping this week",
+      "ar": "وفر الكثير على تسوقك هذا الأسبوع"
     },
-    "cashbackPercentage": 5,
-    "storeId": 1,
-    "endDate": "2025-12-31T23:59:59.000Z",
-    "isActive": true
+    "cashbackPercentage": 13,
+    "storeId": 7,
+    "endDate": "2025-10-14T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 7,
+      "storeName": {
+        "en": "Book Planet",
+        "ar": "كوكب الكتب"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/open-book.png"
+    }
   },
   {
     "id": 2,
     "title": {
-      "en": "Winter Clothes Discount",
-      "ar": "خصم 10% على الملابس الشتوية"
+      "en": "Car Accessories Discount #2",
+      "ar": "خصم على إكسسوارات السيارات #2"
     },
     "description": {
-      "en": "Enjoy 10% cashback on all winter clothes",
-      "ar": "احصل على 10% كاش باك على جميع الملابس الشتوية"
+      "en": "Offer valid until end of the month",
+      "ar": "العرض ساري حتى نهاية الشهر"
+    },
+    "cashbackPercentage": 14,
+    "storeId": 1,
+    "endDate": "2025-11-04T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 1,
+      "storeName": {
+        "en": "Tech World",
+        "ar": "عالم التقنية"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/electronics.png"
+    }
+  },
+  {
+    "id": 3,
+    "title": {
+      "en": "Grocery Weekly Deal #3",
+      "ar": "عرض أسبوعي على البقالة #3"
+    },
+    "description": {
+      "en": "Special discount for loyal customers",
+      "ar": "خصم خاص للعملاء المخلصين"
+    },
+    "cashbackPercentage": 3,
+    "storeId": 1,
+    "endDate": "2025-10-07T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 1,
+      "storeName": {
+        "en": "Tech World",
+        "ar": "عالم التقنية"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/electronics.png"
+    }
+  },
+  {
+    "id": 4,
+    "title": {
+      "en": "Grocery Weekly Deal #4",
+      "ar": "عرض أسبوعي على البقالة #4"
+    },
+    "description": {
+      "en": "Buy more, save more",
+      "ar": "اشتر أكثر ووفّر أكثر"
+    },
+    "cashbackPercentage": 6,
+    "storeId": 7,
+    "endDate": "2025-07-27T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 7,
+      "storeName": {
+        "en": "Book Planet",
+        "ar": "كوكب الكتب"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/open-book.png"
+    }
+  },
+  {
+    "id": 5,
+    "title": {
+      "en": "Sports Equipment Discount #5",
+      "ar": "خصومات على معدات الرياضة #5"
+    },
+    "description": {
+      "en": "Limited stock available",
+      "ar": "الكمية محدودة"
+    },
+    "cashbackPercentage": 10,
+    "storeId": 6,
+    "endDate": "2025-11-03T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 6,
+      "storeName": {
+        "en": "SportX",
+        "ar": "سبورت اكس"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/basketball.png"
+    }
+  },
+  {
+    "id": 6,
+    "title": {
+      "en": "Beauty Products Offer #6",
+      "ar": "عرض منتجات التجميل #6"
+    },
+    "description": {
+      "en": "Limited stock available",
+      "ar": "الكمية محدودة"
+    },
+    "cashbackPercentage": 16,
+    "storeId": 3,
+    "endDate": "2025-10-26T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 3,
+      "storeName": {
+        "en": "Fresh Mart",
+        "ar": "ماركت فريش"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/grocery-bag.png"
+    }
+  },
+  {
+    "id": 7,
+    "title": {
+      "en": "Book Fair Deal #7",
+      "ar": "عرض معرض الكتب #7"
+    },
+    "description": {
+      "en": "Get up to 20% cashback",
+      "ar": "احصل على كاش باك يصل إلى 20%"
+    },
+    "cashbackPercentage": 8,
+    "storeId": 10,
+    "endDate": "2025-11-03T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 10,
+      "storeName": {
+        "en": "Jewel Star",
+        "ar": "نجمة المجوهرات"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/diamond.png"
+    }
+  },
+  {
+    "id": 8,
+    "title": {
+      "en": "Toy Clearance Sale #8",
+      "ar": "تخفيضات على الألعاب #8"
+    },
+    "description": {
+      "en": "Buy more, save more",
+      "ar": "اشتر أكثر ووفّر أكثر"
+    },
+    "cashbackPercentage": 15,
+    "storeId": 9,
+    "endDate": "2025-07-22T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 9,
+      "storeName": {
+        "en": "AutoZone",
+        "ar": "منطقة السيارات"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/car.png"
+    }
+  },
+  {
+    "id": 9,
+    "title": {
+      "en": "Beauty Products Offer #9",
+      "ar": "عرض منتجات التجميل #9"
+    },
+    "description": {
+      "en": "Get amazing cashback on latest items",
+      "ar": "احصل على كاش باك رائع على أحدث المنتجات"
+    },
+    "cashbackPercentage": 3,
+    "storeId": 10,
+    "endDate": "2025-12-30T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 10,
+      "storeName": {
+        "en": "Jewel Star",
+        "ar": "نجمة المجوهرات"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/diamond.png"
+    }
+  },
+  {
+    "id": 10,
+    "title": {
+      "en": "Sports Equipment Discount #10",
+      "ar": "خصومات على معدات الرياضة #10"
+    },
+    "description": {
+      "en": "Special discount for loyal customers",
+      "ar": "خصم خاص للعملاء المخلصين"
+    },
+    "cashbackPercentage": 17,
+    "storeId": 10,
+    "endDate": "2025-07-17T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 10,
+      "storeName": {
+        "en": "Jewel Star",
+        "ar": "نجمة المجوهرات"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/diamond.png"
+    }
+  },
+  {
+    "id": 11,
+    "title": {
+      "en": "Smartphone Cashback Offer #11",
+      "ar": "عرض خاص على الهواتف الذكية #11"
+    },
+    "description": {
+      "en": "Buy more, save more",
+      "ar": "اشتر أكثر ووفّر أكثر"
+    },
+    "cashbackPercentage": 17,
+    "storeId": 9,
+    "endDate": "2025-10-08T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 9,
+      "storeName": {
+        "en": "AutoZone",
+        "ar": "منطقة السيارات"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/car.png"
+    }
+  },
+  {
+    "id": 12,
+    "title": {
+      "en": "Car Accessories Discount #12",
+      "ar": "خصم على إكسسوارات السيارات #12"
+    },
+    "description": {
+      "en": "Enjoy seasonal discounts today",
+      "ar": "استمتع بالخصومات الموسمية اليوم"
+    },
+    "cashbackPercentage": 3,
+    "storeId": 4,
+    "endDate": "2025-11-16T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 4,
+      "storeName": {
+        "en": "Home Style",
+        "ar": "ستايل المنزل"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/sofa.png"
+    }
+  },
+  {
+    "id": 13,
+    "title": {
+      "en": "Car Accessories Discount #13",
+      "ar": "خصم على إكسسوارات السيارات #13"
+    },
+    "description": {
+      "en": "Buy more, save more",
+      "ar": "اشتر أكثر ووفّر أكثر"
+    },
+    "cashbackPercentage": 9,
+    "storeId": 2,
+    "endDate": "2025-07-09T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 2,
+      "storeName": {
+        "en": "Fashion Hub",
+        "ar": "مركز الأزياء"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/t-shirt.png"
+    }
+  },
+  {
+    "id": 14,
+    "title": {
+      "en": "Smartphone Cashback Offer #14",
+      "ar": "عرض خاص على الهواتف الذكية #14"
+    },
+    "description": {
+      "en": "Enjoy seasonal discounts today",
+      "ar": "استمتع بالخصومات الموسمية اليوم"
     },
     "cashbackPercentage": 10,
     "storeId": 2,
-    "endDate": "2025-11-30T23:59:59.000Z",
-    "isActive": true
+    "endDate": "2025-08-28T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 2,
+      "storeName": {
+        "en": "Fashion Hub",
+        "ar": "مركز الأزياء"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/t-shirt.png"
+    }
+  },
+  {
+    "id": 15,
+    "title": {
+      "en": "Sports Equipment Discount #15",
+      "ar": "خصومات على معدات الرياضة #15"
+    },
+    "description": {
+      "en": "Enjoy seasonal discounts today",
+      "ar": "استمتع بالخصومات الموسمية اليوم"
+    },
+    "cashbackPercentage": 9,
+    "storeId": 3,
+    "endDate": "2025-11-13T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 3,
+      "storeName": {
+        "en": "Fresh Mart",
+        "ar": "ماركت فريش"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/grocery-bag.png"
+    }
+  },
+  {
+    "id": 16,
+    "title": {
+      "en": "Beauty Products Offer #16",
+      "ar": "عرض منتجات التجميل #16"
+    },
+    "description": {
+      "en": "Get amazing cashback on latest items",
+      "ar": "احصل على كاش باك رائع على أحدث المنتجات"
+    },
+    "cashbackPercentage": 15,
+    "storeId": 4,
+    "endDate": "2025-07-05T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 4,
+      "storeName": {
+        "en": "Home Style",
+        "ar": "ستايل المنزل"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/sofa.png"
+    }
+  },
+  {
+    "id": 17,
+    "title": {
+      "en": "Winter Clothes Discount #17",
+      "ar": "خصم 10% على الملابس الشتوية #17"
+    },
+    "description": {
+      "en": "Get up to 20% cashback",
+      "ar": "احصل على كاش باك يصل إلى 20%"
+    },
+    "cashbackPercentage": 7,
+    "storeId": 8,
+    "endDate": "2025-08-06T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 8,
+      "storeName": {
+        "en": "Toy World",
+        "ar": "عالم الألعاب"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/teddy-bear.png"
+    }
+  },
+  {
+    "id": 18,
+    "title": {
+      "en": "Home Furniture Sale #18",
+      "ar": "تخفيضات على الأثاث المنزلي #18"
+    },
+    "description": {
+      "en": "Special discount for loyal customers",
+      "ar": "خصم خاص للعملاء المخلصين"
+    },
+    "cashbackPercentage": 19,
+    "storeId": 6,
+    "endDate": "2025-10-08T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 6,
+      "storeName": {
+        "en": "SportX",
+        "ar": "سبورت اكس"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/basketball.png"
+    }
+  },
+  {
+    "id": 19,
+    "title": {
+      "en": "Car Accessories Discount #19",
+      "ar": "خصم على إكسسوارات السيارات #19"
+    },
+    "description": {
+      "en": "Limited stock available",
+      "ar": "الكمية محدودة"
+    },
+    "cashbackPercentage": 10,
+    "storeId": 9,
+    "endDate": "2025-12-13T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 9,
+      "storeName": {
+        "en": "AutoZone",
+        "ar": "منطقة السيارات"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/car.png"
+    }
+  },
+  {
+    "id": 20,
+    "title": {
+      "en": "Beauty Products Offer #20",
+      "ar": "عرض منتجات التجميل #20"
+    },
+    "description": {
+      "en": "Special discount for loyal customers",
+      "ar": "خصم خاص للعملاء المخلصين"
+    },
+    "cashbackPercentage": 10,
+    "storeId": 9,
+    "endDate": "2025-10-01T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 9,
+      "storeName": {
+        "en": "AutoZone",
+        "ar": "منطقة السيارات"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/car.png"
+    }
+  },
+  {
+    "id": 21,
+    "title": {
+      "en": "Book Fair Deal #21",
+      "ar": "عرض معرض الكتب #21"
+    },
+    "description": {
+      "en": "Enjoy seasonal discounts today",
+      "ar": "استمتع بالخصومات الموسمية اليوم"
+    },
+    "cashbackPercentage": 20,
+    "storeId": 9,
+    "endDate": "2025-08-08T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 9,
+      "storeName": {
+        "en": "AutoZone",
+        "ar": "منطقة السيارات"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/car.png"
+    }
+  },
+  {
+    "id": 22,
+    "title": {
+      "en": "Toy Clearance Sale #22",
+      "ar": "تخفيضات على الألعاب #22"
+    },
+    "description": {
+      "en": "Enjoy seasonal discounts today",
+      "ar": "استمتع بالخصومات الموسمية اليوم"
+    },
+    "cashbackPercentage": 4,
+    "storeId": 1,
+    "endDate": "2025-07-04T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 1,
+      "storeName": {
+        "en": "Tech World",
+        "ar": "عالم التقنية"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/electronics.png"
+    }
+  },
+  {
+    "id": 23,
+    "title": {
+      "en": "Home Furniture Sale #23",
+      "ar": "تخفيضات على الأثاث المنزلي #23"
+    },
+    "description": {
+      "en": "Buy more, save more",
+      "ar": "اشتر أكثر ووفّر أكثر"
+    },
+    "cashbackPercentage": 13,
+    "storeId": 7,
+    "endDate": "2025-08-27T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 7,
+      "storeName": {
+        "en": "Book Planet",
+        "ar": "كوكب الكتب"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/open-book.png"
+    }
+  },
+  {
+    "id": 24,
+    "title": {
+      "en": "Smartphone Cashback Offer #24",
+      "ar": "عرض خاص على الهواتف الذكية #24"
+    },
+    "description": {
+      "en": "Special discount for loyal customers",
+      "ar": "خصم خاص للعملاء المخلصين"
+    },
+    "cashbackPercentage": 16,
+    "storeId": 7,
+    "endDate": "2025-12-11T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 7,
+      "storeName": {
+        "en": "Book Planet",
+        "ar": "كوكب الكتب"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/open-book.png"
+    }
+  },
+  {
+    "id": 25,
+    "title": {
+      "en": "Book Fair Deal #25",
+      "ar": "عرض معرض الكتب #25"
+    },
+    "description": {
+      "en": "Enjoy seasonal discounts today",
+      "ar": "استمتع بالخصومات الموسمية اليوم"
+    },
+    "cashbackPercentage": 5,
+    "storeId": 3,
+    "endDate": "2025-08-02T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 3,
+      "storeName": {
+        "en": "Fresh Mart",
+        "ar": "ماركت فريش"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/grocery-bag.png"
+    }
+  },
+  {
+    "id": 26,
+    "title": {
+      "en": "Toy Clearance Sale #26",
+      "ar": "تخفيضات على الألعاب #26"
+    },
+    "description": {
+      "en": "Get up to 20% cashback",
+      "ar": "احصل على كاش باك يصل إلى 20%"
+    },
+    "cashbackPercentage": 20,
+    "storeId": 9,
+    "endDate": "2025-09-28T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 9,
+      "storeName": {
+        "en": "AutoZone",
+        "ar": "منطقة السيارات"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/car.png"
+    }
+  },
+  {
+    "id": 27,
+    "title": {
+      "en": "Grocery Weekly Deal #27",
+      "ar": "عرض أسبوعي على البقالة #27"
+    },
+    "description": {
+      "en": "Get amazing cashback on latest items",
+      "ar": "احصل على كاش باك رائع على أحدث المنتجات"
+    },
+    "cashbackPercentage": 18,
+    "storeId": 10,
+    "endDate": "2025-10-13T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 10,
+      "storeName": {
+        "en": "Jewel Star",
+        "ar": "نجمة المجوهرات"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/diamond.png"
+    }
+  },
+  {
+    "id": 28,
+    "title": {
+      "en": "Grocery Weekly Deal #28",
+      "ar": "عرض أسبوعي على البقالة #28"
+    },
+    "description": {
+      "en": "Don't miss this exclusive deal",
+      "ar": "لا تفوت هذا العرض الحصري"
+    },
+    "cashbackPercentage": 19,
+    "storeId": 3,
+    "endDate": "2025-11-23T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 3,
+      "storeName": {
+        "en": "Fresh Mart",
+        "ar": "ماركت فريش"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/grocery-bag.png"
+    }
+  },
+  {
+    "id": 29,
+    "title": {
+      "en": "Smartphone Cashback Offer #29",
+      "ar": "عرض خاص على الهواتف الذكية #29"
+    },
+    "description": {
+      "en": "Special offers available for a limited time",
+      "ar": "عروض خاصة متاحة لفترة محدودة"
+    },
+    "cashbackPercentage": 17,
+    "storeId": 7,
+    "endDate": "2025-09-26T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 7,
+      "storeName": {
+        "en": "Book Planet",
+        "ar": "كوكب الكتب"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/open-book.png"
+    }
+  },
+  {
+    "id": 30,
+    "title": {
+      "en": "Home Furniture Sale #30",
+      "ar": "تخفيضات على الأثاث المنزلي #30"
+    },
+    "description": {
+      "en": "Save big on your shopping this week",
+      "ar": "وفر الكثير على تسوقك هذا الأسبوع"
+    },
+    "cashbackPercentage": 9,
+    "storeId": 3,
+    "endDate": "2025-07-09T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 3,
+      "storeName": {
+        "en": "Fresh Mart",
+        "ar": "ماركت فريش"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/grocery-bag.png"
+    }
+  },
+  {
+    "id": 31,
+    "title": {
+      "en": "Book Fair Deal #31",
+      "ar": "عرض معرض الكتب #31"
+    },
+    "description": {
+      "en": "Buy more, save more",
+      "ar": "اشتر أكثر ووفّر أكثر"
+    },
+    "cashbackPercentage": 19,
+    "storeId": 10,
+    "endDate": "2025-12-15T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 10,
+      "storeName": {
+        "en": "Jewel Star",
+        "ar": "نجمة المجوهرات"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/diamond.png"
+    }
+  },
+  {
+    "id": 32,
+    "title": {
+      "en": "Car Accessories Discount #32",
+      "ar": "خصم على إكسسوارات السيارات #32"
+    },
+    "description": {
+      "en": "Get amazing cashback on latest items",
+      "ar": "احصل على كاش باك رائع على أحدث المنتجات"
+    },
+    "cashbackPercentage": 11,
+    "storeId": 10,
+    "endDate": "2025-09-07T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 10,
+      "storeName": {
+        "en": "Jewel Star",
+        "ar": "نجمة المجوهرات"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/diamond.png"
+    }
+  },
+  {
+    "id": 33,
+    "title": {
+      "en": "Grocery Weekly Deal #33",
+      "ar": "عرض أسبوعي على البقالة #33"
+    },
+    "description": {
+      "en": "Limited stock available",
+      "ar": "الكمية محدودة"
+    },
+    "cashbackPercentage": 16,
+    "storeId": 4,
+    "endDate": "2025-08-11T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 4,
+      "storeName": {
+        "en": "Home Style",
+        "ar": "ستايل المنزل"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/sofa.png"
+    }
+  },
+  {
+    "id": 34,
+    "title": {
+      "en": "Winter Clothes Discount #34",
+      "ar": "خصم 10% على الملابس الشتوية #34"
+    },
+    "description": {
+      "en": "Special offers available for a limited time",
+      "ar": "عروض خاصة متاحة لفترة محدودة"
+    },
+    "cashbackPercentage": 11,
+    "storeId": 2,
+    "endDate": "2025-07-18T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 2,
+      "storeName": {
+        "en": "Fashion Hub",
+        "ar": "مركز الأزياء"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/t-shirt.png"
+    }
+  },
+  {
+    "id": 35,
+    "title": {
+      "en": "Book Fair Deal #35",
+      "ar": "عرض معرض الكتب #35"
+    },
+    "description": {
+      "en": "Special discount for loyal customers",
+      "ar": "خصم خاص للعملاء المخلصين"
+    },
+    "cashbackPercentage": 9,
+    "storeId": 6,
+    "endDate": "2025-07-15T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 6,
+      "storeName": {
+        "en": "SportX",
+        "ar": "سبورت اكس"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/basketball.png"
+    }
+  },
+  {
+    "id": 36,
+    "title": {
+      "en": "Car Accessories Discount #36",
+      "ar": "خصم على إكسسوارات السيارات #36"
+    },
+    "description": {
+      "en": "Offer valid until end of the month",
+      "ar": "العرض ساري حتى نهاية الشهر"
+    },
+    "cashbackPercentage": 12,
+    "storeId": 10,
+    "endDate": "2025-10-27T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 10,
+      "storeName": {
+        "en": "Jewel Star",
+        "ar": "نجمة المجوهرات"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/diamond.png"
+    }
+  },
+  {
+    "id": 37,
+    "title": {
+      "en": "Home Furniture Sale #37",
+      "ar": "تخفيضات على الأثاث المنزلي #37"
+    },
+    "description": {
+      "en": "Buy more, save more",
+      "ar": "اشتر أكثر ووفّر أكثر"
+    },
+    "cashbackPercentage": 10,
+    "storeId": 1,
+    "endDate": "2025-07-10T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 1,
+      "storeName": {
+        "en": "Tech World",
+        "ar": "عالم التقنية"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/electronics.png"
+    }
+  },
+  {
+    "id": 38,
+    "title": {
+      "en": "Toy Clearance Sale #38",
+      "ar": "تخفيضات على الألعاب #38"
+    },
+    "description": {
+      "en": "Get amazing cashback on latest items",
+      "ar": "احصل على كاش باك رائع على أحدث المنتجات"
+    },
+    "cashbackPercentage": 10,
+    "storeId": 2,
+    "endDate": "2025-10-25T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 2,
+      "storeName": {
+        "en": "Fashion Hub",
+        "ar": "مركز الأزياء"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/t-shirt.png"
+    }
+  },
+  {
+    "id": 39,
+    "title": {
+      "en": "Car Accessories Discount #39",
+      "ar": "خصم على إكسسوارات السيارات #39"
+    },
+    "description": {
+      "en": "Special offers available for a limited time",
+      "ar": "عروض خاصة متاحة لفترة محدودة"
+    },
+    "cashbackPercentage": 19,
+    "storeId": 6,
+    "endDate": "2025-10-11T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 6,
+      "storeName": {
+        "en": "SportX",
+        "ar": "سبورت اكس"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/basketball.png"
+    }
+  },
+  {
+    "id": 40,
+    "title": {
+      "en": "Grocery Weekly Deal #40",
+      "ar": "عرض أسبوعي على البقالة #40"
+    },
+    "description": {
+      "en": "Special discount for loyal customers",
+      "ar": "خصم خاص للعملاء المخلصين"
+    },
+    "cashbackPercentage": 12,
+    "storeId": 4,
+    "endDate": "2025-11-27T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 4,
+      "storeName": {
+        "en": "Home Style",
+        "ar": "ستايل المنزل"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/sofa.png"
+    }
+  },
+  {
+    "id": 41,
+    "title": {
+      "en": "Beauty Products Offer #41",
+      "ar": "عرض منتجات التجميل #41"
+    },
+    "description": {
+      "en": "Special discount for loyal customers",
+      "ar": "خصم خاص للعملاء المخلصين"
+    },
+    "cashbackPercentage": 19,
+    "storeId": 2,
+    "endDate": "2025-07-21T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 2,
+      "storeName": {
+        "en": "Fashion Hub",
+        "ar": "مركز الأزياء"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/t-shirt.png"
+    }
+  },
+  {
+    "id": 42,
+    "title": {
+      "en": "Home Furniture Sale #42",
+      "ar": "تخفيضات على الأثاث المنزلي #42"
+    },
+    "description": {
+      "en": "Buy more, save more",
+      "ar": "اشتر أكثر ووفّر أكثر"
+    },
+    "cashbackPercentage": 19,
+    "storeId": 2,
+    "endDate": "2025-11-15T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 2,
+      "storeName": {
+        "en": "Fashion Hub",
+        "ar": "مركز الأزياء"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/t-shirt.png"
+    }
+  },
+  {
+    "id": 43,
+    "title": {
+      "en": "Book Fair Deal #43",
+      "ar": "عرض معرض الكتب #43"
+    },
+    "description": {
+      "en": "Special discount for loyal customers",
+      "ar": "خصم خاص للعملاء المخلصين"
+    },
+    "cashbackPercentage": 13,
+    "storeId": 9,
+    "endDate": "2025-12-14T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 9,
+      "storeName": {
+        "en": "AutoZone",
+        "ar": "منطقة السيارات"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/car.png"
+    }
+  },
+  {
+    "id": 44,
+    "title": {
+      "en": "Beauty Products Offer #44",
+      "ar": "عرض منتجات التجميل #44"
+    },
+    "description": {
+      "en": "Buy more, save more",
+      "ar": "اشتر أكثر ووفّر أكثر"
+    },
+    "cashbackPercentage": 18,
+    "storeId": 4,
+    "endDate": "2025-08-30T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 4,
+      "storeName": {
+        "en": "Home Style",
+        "ar": "ستايل المنزل"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/sofa.png"
+    }
+  },
+  {
+    "id": 45,
+    "title": {
+      "en": "Book Fair Deal #45",
+      "ar": "عرض معرض الكتب #45"
+    },
+    "description": {
+      "en": "Limited stock available",
+      "ar": "الكمية محدودة"
+    },
+    "cashbackPercentage": 8,
+    "storeId": 4,
+    "endDate": "2025-09-11T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 4,
+      "storeName": {
+        "en": "Home Style",
+        "ar": "ستايل المنزل"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/sofa.png"
+    }
+  },
+  {
+    "id": 46,
+    "title": {
+      "en": "Winter Clothes Discount #46",
+      "ar": "خصم 10% على الملابس الشتوية #46"
+    },
+    "description": {
+      "en": "Save big on your shopping this week",
+      "ar": "وفر الكثير على تسوقك هذا الأسبوع"
+    },
+    "cashbackPercentage": 11,
+    "storeId": 7,
+    "endDate": "2025-08-13T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 7,
+      "storeName": {
+        "en": "Book Planet",
+        "ar": "كوكب الكتب"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/open-book.png"
+    }
+  },
+  {
+    "id": 47,
+    "title": {
+      "en": "Home Furniture Sale #47",
+      "ar": "تخفيضات على الأثاث المنزلي #47"
+    },
+    "description": {
+      "en": "Don't miss this exclusive deal",
+      "ar": "لا تفوت هذا العرض الحصري"
+    },
+    "cashbackPercentage": 7,
+    "storeId": 10,
+    "endDate": "2025-09-22T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 10,
+      "storeName": {
+        "en": "Jewel Star",
+        "ar": "نجمة المجوهرات"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/diamond.png"
+    }
+  },
+  {
+    "id": 48,
+    "title": {
+      "en": "Winter Clothes Discount #48",
+      "ar": "خصم 10% على الملابس الشتوية #48"
+    },
+    "description": {
+      "en": "Buy more, save more",
+      "ar": "اشتر أكثر ووفّر أكثر"
+    },
+    "cashbackPercentage": 12,
+    "storeId": 6,
+    "endDate": "2025-07-06T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 6,
+      "storeName": {
+        "en": "SportX",
+        "ar": "سبورت اكس"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/basketball.png"
+    }
+  },
+  {
+    "id": 49,
+    "title": {
+      "en": "Home Furniture Sale #49",
+      "ar": "تخفيضات على الأثاث المنزلي #49"
+    },
+    "description": {
+      "en": "Offer valid until end of the month",
+      "ar": "العرض ساري حتى نهاية الشهر"
+    },
+    "cashbackPercentage": 19,
+    "storeId": 7,
+    "endDate": "2025-10-23T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 7,
+      "storeName": {
+        "en": "Book Planet",
+        "ar": "كوكب الكتب"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/open-book.png"
+    }
+  },
+  {
+    "id": 50,
+    "title": {
+      "en": "Car Accessories Discount #50",
+      "ar": "خصم على إكسسوارات السيارات #50"
+    },
+    "description": {
+      "en": "Get up to 20% cashback",
+      "ar": "احصل على كاش باك يصل إلى 20%"
+    },
+    "cashbackPercentage": 17,
+    "storeId": 6,
+    "endDate": "2025-09-21T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 6,
+      "storeName": {
+        "en": "SportX",
+        "ar": "سبورت اكس"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/basketball.png"
+    }
+  },
+  {
+    "id": 51,
+    "title": {
+      "en": "Grocery Weekly Deal #51",
+      "ar": "عرض أسبوعي على البقالة #51"
+    },
+    "description": {
+      "en": "Don't miss this exclusive deal",
+      "ar": "لا تفوت هذا العرض الحصري"
+    },
+    "cashbackPercentage": 10,
+    "storeId": 7,
+    "endDate": "2025-09-11T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 7,
+      "storeName": {
+        "en": "Book Planet",
+        "ar": "كوكب الكتب"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/open-book.png"
+    }
+  },
+  {
+    "id": 52,
+    "title": {
+      "en": "Sports Equipment Discount #52",
+      "ar": "خصومات على معدات الرياضة #52"
+    },
+    "description": {
+      "en": "Special discount for loyal customers",
+      "ar": "خصم خاص للعملاء المخلصين"
+    },
+    "cashbackPercentage": 15,
+    "storeId": 8,
+    "endDate": "2025-07-29T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 8,
+      "storeName": {
+        "en": "Toy World",
+        "ar": "عالم الألعاب"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/teddy-bear.png"
+    }
+  },
+  {
+    "id": 53,
+    "title": {
+      "en": "Beauty Products Offer #53",
+      "ar": "عرض منتجات التجميل #53"
+    },
+    "description": {
+      "en": "Special offers available for a limited time",
+      "ar": "عروض خاصة متاحة لفترة محدودة"
+    },
+    "cashbackPercentage": 15,
+    "storeId": 10,
+    "endDate": "2025-07-21T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 10,
+      "storeName": {
+        "en": "Jewel Star",
+        "ar": "نجمة المجوهرات"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/diamond.png"
+    }
+  },
+  {
+    "id": 54,
+    "title": {
+      "en": "Winter Clothes Discount #54",
+      "ar": "خصم 10% على الملابس الشتوية #54"
+    },
+    "description": {
+      "en": "Special offers available for a limited time",
+      "ar": "عروض خاصة متاحة لفترة محدودة"
+    },
+    "cashbackPercentage": 13,
+    "storeId": 7,
+    "endDate": "2025-10-19T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 7,
+      "storeName": {
+        "en": "Book Planet",
+        "ar": "كوكب الكتب"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/open-book.png"
+    }
+  },
+  {
+    "id": 55,
+    "title": {
+      "en": "Winter Clothes Discount #55",
+      "ar": "خصم 10% على الملابس الشتوية #55"
+    },
+    "description": {
+      "en": "Special offers available for a limited time",
+      "ar": "عروض خاصة متاحة لفترة محدودة"
+    },
+    "cashbackPercentage": 13,
+    "storeId": 6,
+    "endDate": "2025-08-25T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 6,
+      "storeName": {
+        "en": "SportX",
+        "ar": "سبورت اكس"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/basketball.png"
+    }
+  },
+  {
+    "id": 56,
+    "title": {
+      "en": "Sports Equipment Discount #56",
+      "ar": "خصومات على معدات الرياضة #56"
+    },
+    "description": {
+      "en": "Save big on your shopping this week",
+      "ar": "وفر الكثير على تسوقك هذا الأسبوع"
+    },
+    "cashbackPercentage": 16,
+    "storeId": 6,
+    "endDate": "2025-11-21T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 6,
+      "storeName": {
+        "en": "SportX",
+        "ar": "سبورت اكس"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/basketball.png"
+    }
+  },
+  {
+    "id": 57,
+    "title": {
+      "en": "Jewelry Special Offer #57",
+      "ar": "عرض خاص على المجوهرات #57"
+    },
+    "description": {
+      "en": "Enjoy seasonal discounts today",
+      "ar": "استمتع بالخصومات الموسمية اليوم"
+    },
+    "cashbackPercentage": 9,
+    "storeId": 1,
+    "endDate": "2025-08-24T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 1,
+      "storeName": {
+        "en": "Tech World",
+        "ar": "عالم التقنية"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/electronics.png"
+    }
+  },
+  {
+    "id": 58,
+    "title": {
+      "en": "Jewelry Special Offer #58",
+      "ar": "عرض خاص على المجوهرات #58"
+    },
+    "description": {
+      "en": "Get up to 20% cashback",
+      "ar": "احصل على كاش باك يصل إلى 20%"
+    },
+    "cashbackPercentage": 6,
+    "storeId": 8,
+    "endDate": "2025-09-16T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 8,
+      "storeName": {
+        "en": "Toy World",
+        "ar": "عالم الألعاب"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/teddy-bear.png"
+    }
+  },
+  {
+    "id": 59,
+    "title": {
+      "en": "Grocery Weekly Deal #59",
+      "ar": "عرض أسبوعي على البقالة #59"
+    },
+    "description": {
+      "en": "Get up to 20% cashback",
+      "ar": "احصل على كاش باك يصل إلى 20%"
+    },
+    "cashbackPercentage": 12,
+    "storeId": 10,
+    "endDate": "2025-11-16T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 10,
+      "storeName": {
+        "en": "Jewel Star",
+        "ar": "نجمة المجوهرات"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/diamond.png"
+    }
+  },
+  {
+    "id": 60,
+    "title": {
+      "en": "Beauty Products Offer #60",
+      "ar": "عرض منتجات التجميل #60"
+    },
+    "description": {
+      "en": "Limited stock available",
+      "ar": "الكمية محدودة"
+    },
+    "cashbackPercentage": 14,
+    "storeId": 8,
+    "endDate": "2025-07-17T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 8,
+      "storeName": {
+        "en": "Toy World",
+        "ar": "عالم الألعاب"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/teddy-bear.png"
+    }
+  },
+  {
+    "id": 61,
+    "title": {
+      "en": "Home Furniture Sale #61",
+      "ar": "تخفيضات على الأثاث المنزلي #61"
+    },
+    "description": {
+      "en": "Get amazing cashback on latest items",
+      "ar": "احصل على كاش باك رائع على أحدث المنتجات"
+    },
+    "cashbackPercentage": 6,
+    "storeId": 6,
+    "endDate": "2025-09-12T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 6,
+      "storeName": {
+        "en": "SportX",
+        "ar": "سبورت اكس"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/basketball.png"
+    }
+  },
+  {
+    "id": 62,
+    "title": {
+      "en": "Sports Equipment Discount #62",
+      "ar": "خصومات على معدات الرياضة #62"
+    },
+    "description": {
+      "en": "Special discount for loyal customers",
+      "ar": "خصم خاص للعملاء المخلصين"
+    },
+    "cashbackPercentage": 5,
+    "storeId": 4,
+    "endDate": "2025-07-18T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 4,
+      "storeName": {
+        "en": "Home Style",
+        "ar": "ستايل المنزل"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/sofa.png"
+    }
+  },
+  {
+    "id": 63,
+    "title": {
+      "en": "Beauty Products Offer #63",
+      "ar": "عرض منتجات التجميل #63"
+    },
+    "description": {
+      "en": "Get up to 20% cashback",
+      "ar": "احصل على كاش باك يصل إلى 20%"
+    },
+    "cashbackPercentage": 4,
+    "storeId": 5,
+    "endDate": "2025-11-13T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 5,
+      "storeName": {
+        "en": "Beauty Spot",
+        "ar": "ركن الجمال"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/lipstick.png"
+    }
+  },
+  {
+    "id": 64,
+    "title": {
+      "en": "Sports Equipment Discount #64",
+      "ar": "خصومات على معدات الرياضة #64"
+    },
+    "description": {
+      "en": "Get amazing cashback on latest items",
+      "ar": "احصل على كاش باك رائع على أحدث المنتجات"
+    },
+    "cashbackPercentage": 18,
+    "storeId": 1,
+    "endDate": "2025-08-01T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 1,
+      "storeName": {
+        "en": "Tech World",
+        "ar": "عالم التقنية"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/electronics.png"
+    }
+  },
+  {
+    "id": 65,
+    "title": {
+      "en": "Car Accessories Discount #65",
+      "ar": "خصم على إكسسوارات السيارات #65"
+    },
+    "description": {
+      "en": "Limited stock available",
+      "ar": "الكمية محدودة"
+    },
+    "cashbackPercentage": 11,
+    "storeId": 2,
+    "endDate": "2025-10-08T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 2,
+      "storeName": {
+        "en": "Fashion Hub",
+        "ar": "مركز الأزياء"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/t-shirt.png"
+    }
+  },
+  {
+    "id": 66,
+    "title": {
+      "en": "Jewelry Special Offer #66",
+      "ar": "عرض خاص على المجوهرات #66"
+    },
+    "description": {
+      "en": "Get up to 20% cashback",
+      "ar": "احصل على كاش باك يصل إلى 20%"
+    },
+    "cashbackPercentage": 12,
+    "storeId": 4,
+    "endDate": "2025-11-29T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 4,
+      "storeName": {
+        "en": "Home Style",
+        "ar": "ستايل المنزل"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/sofa.png"
+    }
+  },
+  {
+    "id": 67,
+    "title": {
+      "en": "Winter Clothes Discount #67",
+      "ar": "خصم 10% على الملابس الشتوية #67"
+    },
+    "description": {
+      "en": "Enjoy seasonal discounts today",
+      "ar": "استمتع بالخصومات الموسمية اليوم"
+    },
+    "cashbackPercentage": 12,
+    "storeId": 4,
+    "endDate": "2025-12-21T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 4,
+      "storeName": {
+        "en": "Home Style",
+        "ar": "ستايل المنزل"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/sofa.png"
+    }
+  },
+  {
+    "id": 68,
+    "title": {
+      "en": "Toy Clearance Sale #68",
+      "ar": "تخفيضات على الألعاب #68"
+    },
+    "description": {
+      "en": "Enjoy seasonal discounts today",
+      "ar": "استمتع بالخصومات الموسمية اليوم"
+    },
+    "cashbackPercentage": 19,
+    "storeId": 10,
+    "endDate": "2025-12-01T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 10,
+      "storeName": {
+        "en": "Jewel Star",
+        "ar": "نجمة المجوهرات"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/diamond.png"
+    }
+  },
+  {
+    "id": 69,
+    "title": {
+      "en": "Car Accessories Discount #69",
+      "ar": "خصم على إكسسوارات السيارات #69"
+    },
+    "description": {
+      "en": "Special offers available for a limited time",
+      "ar": "عروض خاصة متاحة لفترة محدودة"
+    },
+    "cashbackPercentage": 9,
+    "storeId": 6,
+    "endDate": "2025-09-23T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 6,
+      "storeName": {
+        "en": "SportX",
+        "ar": "سبورت اكس"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/basketball.png"
+    }
+  },
+  {
+    "id": 70,
+    "title": {
+      "en": "Jewelry Special Offer #70",
+      "ar": "عرض خاص على المجوهرات #70"
+    },
+    "description": {
+      "en": "Enjoy seasonal discounts today",
+      "ar": "استمتع بالخصومات الموسمية اليوم"
+    },
+    "cashbackPercentage": 8,
+    "storeId": 6,
+    "endDate": "2025-10-11T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 6,
+      "storeName": {
+        "en": "SportX",
+        "ar": "سبورت اكس"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/basketball.png"
+    }
+  },
+  {
+    "id": 71,
+    "title": {
+      "en": "Sports Equipment Discount #71",
+      "ar": "خصومات على معدات الرياضة #71"
+    },
+    "description": {
+      "en": "Enjoy seasonal discounts today",
+      "ar": "استمتع بالخصومات الموسمية اليوم"
+    },
+    "cashbackPercentage": 8,
+    "storeId": 6,
+    "endDate": "2025-10-26T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 6,
+      "storeName": {
+        "en": "SportX",
+        "ar": "سبورت اكس"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/basketball.png"
+    }
+  },
+  {
+    "id": 72,
+    "title": {
+      "en": "Home Furniture Sale #72",
+      "ar": "تخفيضات على الأثاث المنزلي #72"
+    },
+    "description": {
+      "en": "Get up to 20% cashback",
+      "ar": "احصل على كاش باك يصل إلى 20%"
+    },
+    "cashbackPercentage": 14,
+    "storeId": 1,
+    "endDate": "2025-10-27T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 1,
+      "storeName": {
+        "en": "Tech World",
+        "ar": "عالم التقنية"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/electronics.png"
+    }
+  },
+  {
+    "id": 73,
+    "title": {
+      "en": "Jewelry Special Offer #73",
+      "ar": "عرض خاص على المجوهرات #73"
+    },
+    "description": {
+      "en": "Limited stock available",
+      "ar": "الكمية محدودة"
+    },
+    "cashbackPercentage": 7,
+    "storeId": 4,
+    "endDate": "2025-08-28T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 4,
+      "storeName": {
+        "en": "Home Style",
+        "ar": "ستايل المنزل"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/sofa.png"
+    }
+  },
+  {
+    "id": 74,
+    "title": {
+      "en": "Winter Clothes Discount #74",
+      "ar": "خصم 10% على الملابس الشتوية #74"
+    },
+    "description": {
+      "en": "Save big on your shopping this week",
+      "ar": "وفر الكثير على تسوقك هذا الأسبوع"
+    },
+    "cashbackPercentage": 5,
+    "storeId": 10,
+    "endDate": "2025-09-10T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 10,
+      "storeName": {
+        "en": "Jewel Star",
+        "ar": "نجمة المجوهرات"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/diamond.png"
+    }
+  },
+  {
+    "id": 75,
+    "title": {
+      "en": "Grocery Weekly Deal #75",
+      "ar": "عرض أسبوعي على البقالة #75"
+    },
+    "description": {
+      "en": "Offer valid until end of the month",
+      "ar": "العرض ساري حتى نهاية الشهر"
+    },
+    "cashbackPercentage": 18,
+    "storeId": 8,
+    "endDate": "2025-08-19T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 8,
+      "storeName": {
+        "en": "Toy World",
+        "ar": "عالم الألعاب"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/teddy-bear.png"
+    }
+  },
+  {
+    "id": 76,
+    "title": {
+      "en": "Sports Equipment Discount #76",
+      "ar": "خصومات على معدات الرياضة #76"
+    },
+    "description": {
+      "en": "Offer valid until end of the month",
+      "ar": "العرض ساري حتى نهاية الشهر"
+    },
+    "cashbackPercentage": 16,
+    "storeId": 8,
+    "endDate": "2025-10-31T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 8,
+      "storeName": {
+        "en": "Toy World",
+        "ar": "عالم الألعاب"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/teddy-bear.png"
+    }
+  },
+  {
+    "id": 77,
+    "title": {
+      "en": "Beauty Products Offer #77",
+      "ar": "عرض منتجات التجميل #77"
+    },
+    "description": {
+      "en": "Get amazing cashback on latest items",
+      "ar": "احصل على كاش باك رائع على أحدث المنتجات"
+    },
+    "cashbackPercentage": 19,
+    "storeId": 2,
+    "endDate": "2025-08-18T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 2,
+      "storeName": {
+        "en": "Fashion Hub",
+        "ar": "مركز الأزياء"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/t-shirt.png"
+    }
+  },
+  {
+    "id": 78,
+    "title": {
+      "en": "Beauty Products Offer #78",
+      "ar": "عرض منتجات التجميل #78"
+    },
+    "description": {
+      "en": "Enjoy seasonal discounts today",
+      "ar": "استمتع بالخصومات الموسمية اليوم"
+    },
+    "cashbackPercentage": 19,
+    "storeId": 9,
+    "endDate": "2025-07-09T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 9,
+      "storeName": {
+        "en": "AutoZone",
+        "ar": "منطقة السيارات"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/car.png"
+    }
+  },
+  {
+    "id": 79,
+    "title": {
+      "en": "Sports Equipment Discount #79",
+      "ar": "خصومات على معدات الرياضة #79"
+    },
+    "description": {
+      "en": "Get amazing cashback on latest items",
+      "ar": "احصل على كاش باك رائع على أحدث المنتجات"
+    },
+    "cashbackPercentage": 14,
+    "storeId": 5,
+    "endDate": "2025-12-17T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 5,
+      "storeName": {
+        "en": "Beauty Spot",
+        "ar": "ركن الجمال"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/lipstick.png"
+    }
+  },
+  {
+    "id": 80,
+    "title": {
+      "en": "Winter Clothes Discount #80",
+      "ar": "خصم 10% على الملابس الشتوية #80"
+    },
+    "description": {
+      "en": "Enjoy seasonal discounts today",
+      "ar": "استمتع بالخصومات الموسمية اليوم"
+    },
+    "cashbackPercentage": 4,
+    "storeId": 6,
+    "endDate": "2025-08-19T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 6,
+      "storeName": {
+        "en": "SportX",
+        "ar": "سبورت اكس"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/basketball.png"
+    }
+  },
+  {
+    "id": 81,
+    "title": {
+      "en": "Sports Equipment Discount #81",
+      "ar": "خصومات على معدات الرياضة #81"
+    },
+    "description": {
+      "en": "Get amazing cashback on latest items",
+      "ar": "احصل على كاش باك رائع على أحدث المنتجات"
+    },
+    "cashbackPercentage": 16,
+    "storeId": 8,
+    "endDate": "2025-08-29T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 8,
+      "storeName": {
+        "en": "Toy World",
+        "ar": "عالم الألعاب"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/teddy-bear.png"
+    }
+  },
+  {
+    "id": 82,
+    "title": {
+      "en": "Toy Clearance Sale #82",
+      "ar": "تخفيضات على الألعاب #82"
+    },
+    "description": {
+      "en": "Special offers available for a limited time",
+      "ar": "عروض خاصة متاحة لفترة محدودة"
+    },
+    "cashbackPercentage": 20,
+    "storeId": 10,
+    "endDate": "2025-09-01T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 10,
+      "storeName": {
+        "en": "Jewel Star",
+        "ar": "نجمة المجوهرات"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/diamond.png"
+    }
+  },
+  {
+    "id": 83,
+    "title": {
+      "en": "Home Furniture Sale #83",
+      "ar": "تخفيضات على الأثاث المنزلي #83"
+    },
+    "description": {
+      "en": "Limited stock available",
+      "ar": "الكمية محدودة"
+    },
+    "cashbackPercentage": 16,
+    "storeId": 6,
+    "endDate": "2025-11-04T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 6,
+      "storeName": {
+        "en": "SportX",
+        "ar": "سبورت اكس"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/basketball.png"
+    }
+  },
+  {
+    "id": 84,
+    "title": {
+      "en": "Book Fair Deal #84",
+      "ar": "عرض معرض الكتب #84"
+    },
+    "description": {
+      "en": "Get amazing cashback on latest items",
+      "ar": "احصل على كاش باك رائع على أحدث المنتجات"
+    },
+    "cashbackPercentage": 4,
+    "storeId": 7,
+    "endDate": "2025-11-21T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 7,
+      "storeName": {
+        "en": "Book Planet",
+        "ar": "كوكب الكتب"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/open-book.png"
+    }
+  },
+  {
+    "id": 85,
+    "title": {
+      "en": "Winter Clothes Discount #85",
+      "ar": "خصم 10% على الملابس الشتوية #85"
+    },
+    "description": {
+      "en": "Buy more, save more",
+      "ar": "اشتر أكثر ووفّر أكثر"
+    },
+    "cashbackPercentage": 19,
+    "storeId": 1,
+    "endDate": "2025-12-16T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 1,
+      "storeName": {
+        "en": "Tech World",
+        "ar": "عالم التقنية"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/electronics.png"
+    }
+  },
+  {
+    "id": 86,
+    "title": {
+      "en": "Sports Equipment Discount #86",
+      "ar": "خصومات على معدات الرياضة #86"
+    },
+    "description": {
+      "en": "Get up to 20% cashback",
+      "ar": "احصل على كاش باك يصل إلى 20%"
+    },
+    "cashbackPercentage": 7,
+    "storeId": 1,
+    "endDate": "2025-11-25T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 1,
+      "storeName": {
+        "en": "Tech World",
+        "ar": "عالم التقنية"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/electronics.png"
+    }
+  },
+  {
+    "id": 87,
+    "title": {
+      "en": "Smartphone Cashback Offer #87",
+      "ar": "عرض خاص على الهواتف الذكية #87"
+    },
+    "description": {
+      "en": "Buy more, save more",
+      "ar": "اشتر أكثر ووفّر أكثر"
+    },
+    "cashbackPercentage": 12,
+    "storeId": 10,
+    "endDate": "2025-12-24T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 10,
+      "storeName": {
+        "en": "Jewel Star",
+        "ar": "نجمة المجوهرات"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/diamond.png"
+    }
+  },
+  {
+    "id": 88,
+    "title": {
+      "en": "Jewelry Special Offer #88",
+      "ar": "عرض خاص على المجوهرات #88"
+    },
+    "description": {
+      "en": "Special offers available for a limited time",
+      "ar": "عروض خاصة متاحة لفترة محدودة"
+    },
+    "cashbackPercentage": 15,
+    "storeId": 7,
+    "endDate": "2025-12-12T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 7,
+      "storeName": {
+        "en": "Book Planet",
+        "ar": "كوكب الكتب"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/open-book.png"
+    }
+  },
+  {
+    "id": 89,
+    "title": {
+      "en": "Winter Clothes Discount #89",
+      "ar": "خصم 10% على الملابس الشتوية #89"
+    },
+    "description": {
+      "en": "Get amazing cashback on latest items",
+      "ar": "احصل على كاش باك رائع على أحدث المنتجات"
+    },
+    "cashbackPercentage": 13,
+    "storeId": 5,
+    "endDate": "2025-08-17T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 5,
+      "storeName": {
+        "en": "Beauty Spot",
+        "ar": "ركن الجمال"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/lipstick.png"
+    }
+  },
+  {
+    "id": 90,
+    "title": {
+      "en": "Book Fair Deal #90",
+      "ar": "عرض معرض الكتب #90"
+    },
+    "description": {
+      "en": "Save big on your shopping this week",
+      "ar": "وفر الكثير على تسوقك هذا الأسبوع"
+    },
+    "cashbackPercentage": 4,
+    "storeId": 8,
+    "endDate": "2025-11-28T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 8,
+      "storeName": {
+        "en": "Toy World",
+        "ar": "عالم الألعاب"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/teddy-bear.png"
+    }
+  },
+  {
+    "id": 91,
+    "title": {
+      "en": "Car Accessories Discount #91",
+      "ar": "خصم على إكسسوارات السيارات #91"
+    },
+    "description": {
+      "en": "Offer valid until end of the month",
+      "ar": "العرض ساري حتى نهاية الشهر"
+    },
+    "cashbackPercentage": 5,
+    "storeId": 6,
+    "endDate": "2025-08-15T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 6,
+      "storeName": {
+        "en": "SportX",
+        "ar": "سبورت اكس"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/basketball.png"
+    }
+  },
+  {
+    "id": 92,
+    "title": {
+      "en": "Winter Clothes Discount #92",
+      "ar": "خصم 10% على الملابس الشتوية #92"
+    },
+    "description": {
+      "en": "Get up to 20% cashback",
+      "ar": "احصل على كاش باك يصل إلى 20%"
+    },
+    "cashbackPercentage": 13,
+    "storeId": 6,
+    "endDate": "2025-08-03T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 6,
+      "storeName": {
+        "en": "SportX",
+        "ar": "سبورت اكس"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/basketball.png"
+    }
+  },
+  {
+    "id": 93,
+    "title": {
+      "en": "Jewelry Special Offer #93",
+      "ar": "عرض خاص على المجوهرات #93"
+    },
+    "description": {
+      "en": "Limited stock available",
+      "ar": "الكمية محدودة"
+    },
+    "cashbackPercentage": 9,
+    "storeId": 10,
+    "endDate": "2025-11-12T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 10,
+      "storeName": {
+        "en": "Jewel Star",
+        "ar": "نجمة المجوهرات"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/diamond.png"
+    }
+  },
+  {
+    "id": 94,
+    "title": {
+      "en": "Smartphone Cashback Offer #94",
+      "ar": "عرض خاص على الهواتف الذكية #94"
+    },
+    "description": {
+      "en": "Limited stock available",
+      "ar": "الكمية محدودة"
+    },
+    "cashbackPercentage": 5,
+    "storeId": 8,
+    "endDate": "2025-09-29T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 8,
+      "storeName": {
+        "en": "Toy World",
+        "ar": "عالم الألعاب"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/teddy-bear.png"
+    }
+  },
+  {
+    "id": 95,
+    "title": {
+      "en": "Home Furniture Sale #95",
+      "ar": "تخفيضات على الأثاث المنزلي #95"
+    },
+    "description": {
+      "en": "Don't miss this exclusive deal",
+      "ar": "لا تفوت هذا العرض الحصري"
+    },
+    "cashbackPercentage": 15,
+    "storeId": 2,
+    "endDate": "2025-10-07T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 2,
+      "storeName": {
+        "en": "Fashion Hub",
+        "ar": "مركز الأزياء"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/t-shirt.png"
+    }
+  },
+  {
+    "id": 96,
+    "title": {
+      "en": "Grocery Weekly Deal #96",
+      "ar": "عرض أسبوعي على البقالة #96"
+    },
+    "description": {
+      "en": "Enjoy seasonal discounts today",
+      "ar": "استمتع بالخصومات الموسمية اليوم"
+    },
+    "cashbackPercentage": 14,
+    "storeId": 3,
+    "endDate": "2025-09-18T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 3,
+      "storeName": {
+        "en": "Fresh Mart",
+        "ar": "ماركت فريش"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/grocery-bag.png"
+    }
+  },
+  {
+    "id": 97,
+    "title": {
+      "en": "Car Accessories Discount #97",
+      "ar": "خصم على إكسسوارات السيارات #97"
+    },
+    "description": {
+      "en": "Special discount for loyal customers",
+      "ar": "خصم خاص للعملاء المخلصين"
+    },
+    "cashbackPercentage": 20,
+    "storeId": 5,
+    "endDate": "2025-07-26T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 5,
+      "storeName": {
+        "en": "Beauty Spot",
+        "ar": "ركن الجمال"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/lipstick.png"
+    }
+  },
+  {
+    "id": 98,
+    "title": {
+      "en": "Home Furniture Sale #98",
+      "ar": "تخفيضات على الأثاث المنزلي #98"
+    },
+    "description": {
+      "en": "Limited stock available",
+      "ar": "الكمية محدودة"
+    },
+    "cashbackPercentage": 14,
+    "storeId": 5,
+    "endDate": "2025-07-05T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 5,
+      "storeName": {
+        "en": "Beauty Spot",
+        "ar": "ركن الجمال"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/lipstick.png"
+    }
+  },
+  {
+    "id": 99,
+    "title": {
+      "en": "Car Accessories Discount #99",
+      "ar": "خصم على إكسسوارات السيارات #99"
+    },
+    "description": {
+      "en": "Save big on your shopping this week",
+      "ar": "وفر الكثير على تسوقك هذا الأسبوع"
+    },
+    "cashbackPercentage": 4,
+    "storeId": 7,
+    "endDate": "2025-12-12T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 7,
+      "storeName": {
+        "en": "Book Planet",
+        "ar": "كوكب الكتب"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/open-book.png"
+    }
+  },
+  {
+    "id": 100,
+    "title": {
+      "en": "Jewelry Special Offer #100",
+      "ar": "عرض خاص على المجوهرات #100"
+    },
+    "description": {
+      "en": "Enjoy seasonal discounts today",
+      "ar": "استمتع بالخصومات الموسمية اليوم"
+    },
+    "cashbackPercentage": 8,
+    "storeId": 5,
+    "endDate": "2025-11-28T23:59:59.000Z",
+    "isActive": true,
+    "store": {
+      "id": 5,
+      "storeName": {
+        "en": "Beauty Spot",
+        "ar": "ركن الجمال"
+      },
+      "storeLogo": "https://img.icons8.com/color/96/lipstick.png"
+    }
   }
 ]
