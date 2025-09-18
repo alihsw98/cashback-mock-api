@@ -1,4 +1,52 @@
 [
-  { "id": 1, "name": { "en": "Electronics", "ar": "إلكترونيات" } },
-  { "id": 2, "name": { "en": "Clothing", "ar": "ملابس" } }
+  { 
+    "id": 1, 
+    "name": { "en": "Electronics", "ar": "إلكترونيات" },
+    "icon": "https://static.thenounproject.com/png/3888032-200.png"  
+  },
+  { 
+    "id": 2, 
+    "name": { "en": "Clothing", "ar": "ملابس" },
+    "icon": "https://static.thenounproject.com/png/1985522-200.png"
+  },
+  { 
+    "id": 3, 
+    "name": { "en": "Groceries", "ar": "بقالة" },
+    "icon": "https://static.thenounproject.com/png/4171218-200.png"
+  },
+  { 
+    "id": 4, 
+    "name": { "en": "Home & Furniture", "ar": "المنزل والأثاث" },
+    "icon": "https://static.thenounproject.com/png/3348758-200.png"
+  },
+  { 
+    "id": 5, 
+    "name": { "en": "Beauty & Health", "ar": "الجمال والصحة" },
+    "icon": "https://static.thenounproject.com/png/1190767-200.png"
+  },
+  { 
+    "id": 6, 
+    "name": { "en": "Sports & Outdoors", "ar": "الرياضة والهواء الطلق" },
+    "icon": "https://static.thenounproject.com/png/4345318-200.png"
+  },
+  { 
+    "id": 7, 
+    "name": { "en": "Books & Stationery", "ar": "الكتب والأدوات المكتبية" },
+    "icon": "https://static.thenounproject.com/png/2715334-200.png"
+  },
+  { 
+    "id": 8, 
+    "name": { "en": "Toys & Games", "ar": "الألعاب والهوايات" },
+    "icon": "https://static.thenounproject.com/png/3005319-200.png"
+  },
+  { 
+    "id": 9, 
+    "name": { "en": "Automotive", "ar": "السيارات" },
+    "icon": "https://static.thenounproject.com/png/1787324-200.png"
+  },
+  { 
+    "id": 10, 
+    "name": { "en": "Jewelry & Accessories", "ar": "المجوهرات والإكسسوارات" },
+    "icon": "https://static.thenounproject.com/png/990587-200.png"
+  }
 ]
