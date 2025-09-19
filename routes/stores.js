@@ -3,21 +3,34 @@ const router = express.Router();
 const stores = require("../data/stores.json");
 
 // GET all stores with pagination + search
+// GET all stores with pagination + search + category filter
 router.get("/", (req, res) => {
-  let { page = 1, limit = 10, search = "" } = req.query;
+  let { page = 1, limit = 10, categoryId } = req.query;
   const lang = req.query.lang || "en";
+  const search = req.query.search ? String(req.query.search).toLowerCase() : "";
 
   page = Number(page);
   limit = Number(limit);
 
-  // filter by search
+  // filter by search across en + ar
   let filtered = stores.filter((s) => {
-    const name = s.storeName[lang] || s.storeName.en;
-    const desc = s.description[lang] || s.description.en;
-    return (
-      name.toLowerCase().includes(search.toLowerCase()) ||
-      desc.toLowerCase().includes(search.toLowerCase())
-    );
+    const nameEn = s.storeName.en.toLowerCase();
+    const nameAr = s.storeName.ar.toLowerCase();
+    const descEn = s.description.en.toLowerCase();
+    const descAr = s.description.ar.toLowerCase();
+
+    const matchesSearch =
+      !search ||
+      nameEn.includes(search) ||
+      nameAr.includes(search) ||
+      descEn.includes(search) ||
+      descAr.includes(search);
+
+    const matchesCategory = categoryId
+      ? Number(s.categoryId) === Number(categoryId)
+      : true;
+
+    return matchesSearch && matchesCategory;
   });
 
   // pagination
@@ -27,6 +40,7 @@ router.get("/", (req, res) => {
 
   const data = paginated.map((s) => ({
     id: s.id,
+    categoryId: s.categoryId,
     name: s.storeName[lang] || s.storeName.en,
     description: s.description[lang] || s.description.en,
     logo: s.storeLogo,
@@ -42,9 +56,10 @@ router.get("/", (req, res) => {
     page,
     limit,
     total: filtered.length,
-    stores: data
+    stores: data,
   });
 });
+
 
 // GET single store by ID
 router.get("/:id", (req, res) => {
@@ -54,6 +69,7 @@ router.get("/:id", (req, res) => {
 
   res.json({
     id: store.id,
+    categoryId: store.categoryId, // ✅ include category
     name: store.storeName[lang] || store.storeName.en,
     description: store.description[lang] || store.description.en,
     logo: store.storeLogo,

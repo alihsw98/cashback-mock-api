@@ -1,18 +1,19 @@
 [
   {
     "id": 1,
+    "categoryId": 1,
     "storeName": {
-      "en": "AutoZone #1",
-      "ar": "منطقة السيارات #1"
+      "en": "Electronics Store #1",
+      "ar": "متجر إلكترونيات #1"
     },
     "description": {
-      "en": "Top beauty and health products",
-      "ar": "أفضل منتجات الجمال والصحة"
+      "en": "Best electronics products and deals.",
+      "ar": "أفضل عروض إلكترونيات."
     },
-    "storeLogo": "https://img.icons8.com/color/96/sofa.png",
+    "storeLogo": "https://img.icons8.com/color/96/grocery-bag.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce",
-      "https://images.unsplash.com/photo-1515169067865-5387ec356754"
+      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47",
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
     ],
     "mainBranchAddress": {
       "en": "City 1, Main Street 101",
@@ -25,18 +26,19 @@
   },
   {
     "id": 2,
+    "categoryId": 2,
     "storeName": {
-      "en": "Home Style #2",
-      "ar": "ستايل المنزل #2"
+      "en": "Clothing Store #2",
+      "ar": "متجر ملابس #2"
     },
     "description": {
-      "en": "Trendy clothing for all seasons",
-      "ar": "ملابس عصرية لكل المواسم"
+      "en": "Best clothing products and deals.",
+      "ar": "أفضل عروض ملابس."
     },
-    "storeLogo": "https://img.icons8.com/color/96/diamond.png",
+    "storeLogo": "https://img.icons8.com/color/96/grocery-bag.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
-      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
     ],
     "mainBranchAddress": {
       "en": "City 2, Main Street 102",
@@ -49,18 +51,19 @@
   },
   {
     "id": 3,
+    "categoryId": 3,
     "storeName": {
-      "en": "Beauty Spot #3",
-      "ar": "ركن الجمال #3"
+      "en": "Groceries Store #3",
+      "ar": "متجر بقالة #3"
     },
     "description": {
-      "en": "Fun toys and games for kids",
-      "ar": "ألعاب ممتعة للأطفال"
+      "en": "Best groceries products and deals.",
+      "ar": "أفضل عروض بقالة."
     },
-    "storeLogo": "https://img.icons8.com/color/96/basketball.png",
+    "storeLogo": "https://img.icons8.com/color/96/electronics.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5",
-      "https://images.unsplash.com/photo-1521334884684-d80222895322"
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754",
+      "https://images.unsplash.com/photo-1585325701954-34d6b8a9c6c4"
     ],
     "mainBranchAddress": {
       "en": "City 3, Main Street 103",
@@ -73,18 +76,19 @@
   },
   {
     "id": 4,
+    "categoryId": 4,
     "storeName": {
-      "en": "Jewel Star #4",
-      "ar": "نجمة المجوهرات #4"
+      "en": "Home & Furniture Store #4",
+      "ar": "متجر المنزل والأثاث #4"
     },
     "description": {
-      "en": "Trendy clothing for all seasons",
-      "ar": "ملابس عصرية لكل المواسم"
+      "en": "Best home & furniture products and deals.",
+      "ar": "أفضل عروض المنزل والأثاث."
     },
-    "storeLogo": "https://img.icons8.com/color/96/lipstick.png",
+    "storeLogo": "https://img.icons8.com/color/96/t-shirt.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47",
-      "https://images.unsplash.com/photo-1521334884684-d80222895322"
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9",
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754"
     ],
     "mainBranchAddress": {
       "en": "City 4, Main Street 104",
@@ -97,17 +101,18 @@
   },
   {
     "id": 5,
+    "categoryId": 5,
     "storeName": {
-      "en": "AutoZone #5",
-      "ar": "منطقة السيارات #5"
+      "en": "Beauty & Health Store #5",
+      "ar": "متجر الجمال والصحة #5"
     },
     "description": {
-      "en": "Fun toys and games for kids",
-      "ar": "ألعاب ممتعة للأطفال"
+      "en": "Best beauty & health products and deals.",
+      "ar": "أفضل عروض الجمال والصحة."
     },
-    "storeLogo": "https://img.icons8.com/color/96/diamond.png",
+    "storeLogo": "https://img.icons8.com/color/96/basketball.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
+      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47",
       "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce"
     ],
     "mainBranchAddress": {
@@ -121,18 +126,19 @@
   },
   {
     "id": 6,
+    "categoryId": 6,
     "storeName": {
-      "en": "Toy World #6",
-      "ar": "عالم الألعاب #6"
+      "en": "Sports & Outdoors Store #6",
+      "ar": "متجر الرياضة والهواء الطلق #6"
     },
     "description": {
-      "en": "Trendy clothing for all seasons",
-      "ar": "ملابس عصرية لكل المواسم"
+      "en": "Best sports & outdoors products and deals.",
+      "ar": "أفضل عروض الرياضة والهواء الطلق."
     },
-    "storeLogo": "https://img.icons8.com/color/96/open-book.png",
+    "storeLogo": "https://img.icons8.com/color/96/grocery-bag.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47",
-      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5"
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754",
+      "https://images.unsplash.com/photo-1521334884684-d80222895322"
     ],
     "mainBranchAddress": {
       "en": "City 6, Main Street 106",
@@ -145,18 +151,19 @@
   },
   {
     "id": 7,
+    "categoryId": 7,
     "storeName": {
-      "en": "Fresh Mart #7",
-      "ar": "ماركت فريش #7"
+      "en": "Books & Stationery Store #7",
+      "ar": "متجر الكتب والأدوات المكتبية #7"
     },
     "description": {
-      "en": "Top beauty and health products",
-      "ar": "أفضل منتجات الجمال والصحة"
+      "en": "Best books & stationery products and deals.",
+      "ar": "أفضل عروض الكتب والأدوات المكتبية."
     },
     "storeLogo": "https://img.icons8.com/color/96/car.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb",
-      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5"
+      "https://images.unsplash.com/photo-1521334884684-d80222895322",
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754"
     ],
     "mainBranchAddress": {
       "en": "City 7, Main Street 107",
@@ -169,18 +176,19 @@
   },
   {
     "id": 8,
+    "categoryId": 8,
     "storeName": {
-      "en": "Toy World #8",
-      "ar": "عالم الألعاب #8"
+      "en": "Toys & Games Store #8",
+      "ar": "متجر الألعاب والهوايات #8"
     },
     "description": {
-      "en": "Stylish furniture and home decor",
-      "ar": "أثاث منزلي وديكور أنيق"
+      "en": "Best toys & games products and deals.",
+      "ar": "أفضل عروض الألعاب والهوايات."
     },
-    "storeLogo": "https://img.icons8.com/color/96/open-book.png",
+    "storeLogo": "https://img.icons8.com/color/96/basketball.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
-      "https://images.unsplash.com/photo-1521334884684-d80222895322"
+      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5",
+      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47"
     ],
     "mainBranchAddress": {
       "en": "City 8, Main Street 108",
@@ -193,18 +201,19 @@
   },
   {
     "id": 9,
+    "categoryId": 9,
     "storeName": {
-      "en": "Home Style #9",
-      "ar": "ستايل المنزل #9"
+      "en": "Automotive Store #9",
+      "ar": "متجر السيارات #9"
     },
     "description": {
-      "en": "Exclusive jewelry collections",
-      "ar": "مجموعات مجوهرات حصرية"
+      "en": "Best automotive products and deals.",
+      "ar": "أفضل عروض السيارات."
     },
-    "storeLogo": "https://img.icons8.com/color/96/teddy-bear.png",
+    "storeLogo": "https://img.icons8.com/color/96/sofa.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb",
-      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
+      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5",
+      "https://images.unsplash.com/photo-1521334884684-d80222895322"
     ],
     "mainBranchAddress": {
       "en": "City 9, Main Street 109",
@@ -217,17 +226,18 @@
   },
   {
     "id": 10,
+    "categoryId": 10,
     "storeName": {
-      "en": "SportX #10",
-      "ar": "سبورت اكس #10"
+      "en": "Jewelry & Accessories Store #10",
+      "ar": "متجر المجوهرات والإكسسوارات #10"
     },
     "description": {
-      "en": "Leading electronics retailer with latest gadgets",
-      "ar": "متجر رائد للإلكترونيات يقدم أحدث الأجهزة"
+      "en": "Best jewelry & accessories products and deals.",
+      "ar": "أفضل عروض المجوهرات والإكسسوارات."
     },
-    "storeLogo": "https://img.icons8.com/color/96/basketball.png",
+    "storeLogo": "https://img.icons8.com/color/96/car.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce",
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754",
       "https://images.unsplash.com/photo-1585325701954-34d6b8a9c6c4"
     ],
     "mainBranchAddress": {
@@ -241,18 +251,19 @@
   },
   {
     "id": 11,
+    "categoryId": 1,
     "storeName": {
-      "en": "AutoZone #11",
-      "ar": "منطقة السيارات #11"
+      "en": "Electronics Store #11",
+      "ar": "متجر إلكترونيات #11"
     },
     "description": {
-      "en": "All sports gear you need",
-      "ar": "جميع معدات الرياضة التي تحتاجها"
+      "en": "Best electronics products and deals.",
+      "ar": "أفضل عروض إلكترونيات."
     },
-    "storeLogo": "https://img.icons8.com/color/96/diamond.png",
+    "storeLogo": "https://img.icons8.com/color/96/basketball.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47",
-      "https://images.unsplash.com/photo-1521334884684-d80222895322"
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9",
+      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce"
     ],
     "mainBranchAddress": {
       "en": "City 11, Main Street 111",
@@ -265,17 +276,18 @@
   },
   {
     "id": 12,
+    "categoryId": 2,
     "storeName": {
-      "en": "Toy World #12",
-      "ar": "عالم الألعاب #12"
+      "en": "Clothing Store #12",
+      "ar": "متجر ملابس #12"
     },
     "description": {
-      "en": "All sports gear you need",
-      "ar": "جميع معدات الرياضة التي تحتاجها"
+      "en": "Best clothing products and deals.",
+      "ar": "أفضل عروض ملابس."
     },
-    "storeLogo": "https://img.icons8.com/color/96/open-book.png",
+    "storeLogo": "https://img.icons8.com/color/96/teddy-bear.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce",
+      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb",
       "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5"
     ],
     "mainBranchAddress": {
@@ -289,18 +301,19 @@
   },
   {
     "id": 13,
+    "categoryId": 3,
     "storeName": {
-      "en": "Jewel Star #13",
-      "ar": "نجمة المجوهرات #13"
+      "en": "Groceries Store #13",
+      "ar": "متجر بقالة #13"
     },
     "description": {
-      "en": "Top beauty and health products",
-      "ar": "أفضل منتجات الجمال والصحة"
+      "en": "Best groceries products and deals.",
+      "ar": "أفضل عروض بقالة."
     },
-    "storeLogo": "https://img.icons8.com/color/96/open-book.png",
+    "storeLogo": "https://img.icons8.com/color/96/lipstick.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb",
-      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5",
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754"
     ],
     "mainBranchAddress": {
       "en": "City 13, Main Street 113",
@@ -313,18 +326,19 @@
   },
   {
     "id": 14,
+    "categoryId": 4,
     "storeName": {
-      "en": "Book Planet #14",
-      "ar": "كوكب الكتب #14"
+      "en": "Home & Furniture Store #14",
+      "ar": "متجر المنزل والأثاث #14"
     },
     "description": {
-      "en": "Your trusted grocery store",
-      "ar": "متجرك الموثوق للبقالة"
+      "en": "Best home & furniture products and deals.",
+      "ar": "أفضل عروض المنزل والأثاث."
     },
-    "storeLogo": "https://img.icons8.com/color/96/basketball.png",
+    "storeLogo": "https://img.icons8.com/color/96/sofa.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1585325701954-34d6b8a9c6c4",
-      "https://images.unsplash.com/photo-1521334884684-d80222895322"
+      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb",
+      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5"
     ],
     "mainBranchAddress": {
       "en": "City 14, Main Street 114",
@@ -337,18 +351,19 @@
   },
   {
     "id": 15,
+    "categoryId": 5,
     "storeName": {
-      "en": "Toy World #15",
-      "ar": "عالم الألعاب #15"
+      "en": "Beauty & Health Store #15",
+      "ar": "متجر الجمال والصحة #15"
     },
     "description": {
-      "en": "Your trusted grocery store",
-      "ar": "متجرك الموثوق للبقالة"
+      "en": "Best beauty & health products and deals.",
+      "ar": "أفضل عروض الجمال والصحة."
     },
     "storeLogo": "https://img.icons8.com/color/96/sofa.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9",
-      "https://images.unsplash.com/photo-1585325701954-34d6b8a9c6c4"
+      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb",
+      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5"
     ],
     "mainBranchAddress": {
       "en": "City 15, Main Street 115",
@@ -361,18 +376,19 @@
   },
   {
     "id": 16,
+    "categoryId": 6,
     "storeName": {
-      "en": "SportX #16",
-      "ar": "سبورت اكس #16"
+      "en": "Sports & Outdoors Store #16",
+      "ar": "متجر الرياضة والهواء الطلق #16"
     },
     "description": {
-      "en": "Leading electronics retailer with latest gadgets",
-      "ar": "متجر رائد للإلكترونيات يقدم أحدث الأجهزة"
+      "en": "Best sports & outdoors products and deals.",
+      "ar": "أفضل عروض الرياضة والهواء الطلق."
     },
-    "storeLogo": "https://img.icons8.com/color/96/lipstick.png",
+    "storeLogo": "https://img.icons8.com/color/96/open-book.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5",
-      "https://images.unsplash.com/photo-1515169067865-5387ec356754"
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754",
+      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47"
     ],
     "mainBranchAddress": {
       "en": "City 16, Main Street 116",
@@ -385,18 +401,19 @@
   },
   {
     "id": 17,
+    "categoryId": 7,
     "storeName": {
-      "en": "SportX #17",
-      "ar": "سبورت اكس #17"
+      "en": "Books & Stationery Store #17",
+      "ar": "متجر الكتب والأدوات المكتبية #17"
     },
     "description": {
-      "en": "Stylish furniture and home decor",
-      "ar": "أثاث منزلي وديكور أنيق"
+      "en": "Best books & stationery products and deals.",
+      "ar": "أفضل عروض الكتب والأدوات المكتبية."
     },
     "storeLogo": "https://img.icons8.com/color/96/basketball.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1521334884684-d80222895322",
-      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47"
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754",
+      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5"
     ],
     "mainBranchAddress": {
       "en": "City 17, Main Street 117",
@@ -409,18 +426,19 @@
   },
   {
     "id": 18,
+    "categoryId": 8,
     "storeName": {
-      "en": "Fashion Hub #18",
-      "ar": "مركز الأزياء #18"
+      "en": "Toys & Games Store #18",
+      "ar": "متجر الألعاب والهوايات #18"
     },
     "description": {
-      "en": "Fun toys and games for kids",
-      "ar": "ألعاب ممتعة للأطفال"
+      "en": "Best toys & games products and deals.",
+      "ar": "أفضل عروض الألعاب والهوايات."
     },
-    "storeLogo": "https://img.icons8.com/color/96/t-shirt.png",
+    "storeLogo": "https://img.icons8.com/color/96/sofa.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb",
-      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+      "https://images.unsplash.com/photo-1521334884684-d80222895322",
+      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5"
     ],
     "mainBranchAddress": {
       "en": "City 18, Main Street 118",
@@ -433,18 +451,19 @@
   },
   {
     "id": 19,
+    "categoryId": 9,
     "storeName": {
-      "en": "Fashion Hub #19",
-      "ar": "مركز الأزياء #19"
+      "en": "Automotive Store #19",
+      "ar": "متجر السيارات #19"
     },
     "description": {
-      "en": "Your trusted grocery store",
-      "ar": "متجرك الموثوق للبقالة"
+      "en": "Best automotive products and deals.",
+      "ar": "أفضل عروض السيارات."
     },
-    "storeLogo": "https://img.icons8.com/color/96/t-shirt.png",
+    "storeLogo": "https://img.icons8.com/color/96/diamond.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1585325701954-34d6b8a9c6c4",
-      "https://images.unsplash.com/photo-1521334884684-d80222895322"
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754",
+      "https://images.unsplash.com/photo-1585325701954-34d6b8a9c6c4"
     ],
     "mainBranchAddress": {
       "en": "City 19, Main Street 119",
@@ -457,18 +476,19 @@
   },
   {
     "id": 20,
+    "categoryId": 10,
     "storeName": {
-      "en": "Fresh Mart #20",
-      "ar": "ماركت فريش #20"
+      "en": "Jewelry & Accessories Store #20",
+      "ar": "متجر المجوهرات والإكسسوارات #20"
     },
     "description": {
-      "en": "Stylish furniture and home decor",
-      "ar": "أثاث منزلي وديكور أنيق"
+      "en": "Best jewelry & accessories products and deals.",
+      "ar": "أفضل عروض المجوهرات والإكسسوارات."
     },
-    "storeLogo": "https://img.icons8.com/color/96/diamond.png",
+    "storeLogo": "https://img.icons8.com/color/96/sofa.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb",
-      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5"
+      "https://images.unsplash.com/photo-1521334884684-d80222895322",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
     ],
     "mainBranchAddress": {
       "en": "City 20, Main Street 120",
@@ -481,18 +501,19 @@
   },
   {
     "id": 21,
+    "categoryId": 1,
     "storeName": {
-      "en": "Book Planet #21",
-      "ar": "كوكب الكتب #21"
+      "en": "Electronics Store #21",
+      "ar": "متجر إلكترونيات #21"
     },
     "description": {
-      "en": "Your trusted grocery store",
-      "ar": "متجرك الموثوق للبقالة"
+      "en": "Best electronics products and deals.",
+      "ar": "أفضل عروض إلكترونيات."
     },
-    "storeLogo": "https://img.icons8.com/color/96/teddy-bear.png",
+    "storeLogo": "https://img.icons8.com/color/96/basketball.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1515169067865-5387ec356754",
-      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
+      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5",
+      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce"
     ],
     "mainBranchAddress": {
       "en": "City 21, Main Street 121",
@@ -505,18 +526,19 @@
   },
   {
     "id": 22,
+    "categoryId": 2,
     "storeName": {
-      "en": "Jewel Star #22",
-      "ar": "نجمة المجوهرات #22"
+      "en": "Clothing Store #22",
+      "ar": "متجر ملابس #22"
     },
     "description": {
-      "en": "Your trusted grocery store",
-      "ar": "متجرك الموثوق للبقالة"
+      "en": "Best clothing products and deals.",
+      "ar": "أفضل عروض ملابس."
     },
-    "storeLogo": "https://img.icons8.com/color/96/basketball.png",
+    "storeLogo": "https://img.icons8.com/color/96/teddy-bear.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
-      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5"
+      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce",
+      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47"
     ],
     "mainBranchAddress": {
       "en": "City 22, Main Street 122",
@@ -529,18 +551,19 @@
   },
   {
     "id": 23,
+    "categoryId": 3,
     "storeName": {
-      "en": "Beauty Spot #23",
-      "ar": "ركن الجمال #23"
+      "en": "Groceries Store #23",
+      "ar": "متجر بقالة #23"
     },
     "description": {
-      "en": "Exclusive jewelry collections",
-      "ar": "مجموعات مجوهرات حصرية"
+      "en": "Best groceries products and deals.",
+      "ar": "أفضل عروض بقالة."
     },
-    "storeLogo": "https://img.icons8.com/color/96/car.png",
+    "storeLogo": "https://img.icons8.com/color/96/t-shirt.png",
     "storeImages": [
       "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5",
-      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
+      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb"
     ],
     "mainBranchAddress": {
       "en": "City 23, Main Street 123",
@@ -553,17 +576,18 @@
   },
   {
     "id": 24,
+    "categoryId": 4,
     "storeName": {
-      "en": "Fashion Hub #24",
-      "ar": "مركز الأزياء #24"
+      "en": "Home & Furniture Store #24",
+      "ar": "متجر المنزل والأثاث #24"
     },
     "description": {
-      "en": "Exclusive jewelry collections",
-      "ar": "مجموعات مجوهرات حصرية"
+      "en": "Best home & furniture products and deals.",
+      "ar": "أفضل عروض المنزل والأثاث."
     },
-    "storeLogo": "https://img.icons8.com/color/96/car.png",
+    "storeLogo": "https://img.icons8.com/color/96/teddy-bear.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47",
+      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5",
       "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
     ],
     "mainBranchAddress": {
@@ -577,18 +601,19 @@
   },
   {
     "id": 25,
+    "categoryId": 5,
     "storeName": {
-      "en": "Jewel Star #25",
-      "ar": "نجمة المجوهرات #25"
+      "en": "Beauty & Health Store #25",
+      "ar": "متجر الجمال والصحة #25"
     },
     "description": {
-      "en": "All sports gear you need",
-      "ar": "جميع معدات الرياضة التي تحتاجها"
+      "en": "Best beauty & health products and deals.",
+      "ar": "أفضل عروض الجمال والصحة."
     },
-    "storeLogo": "https://img.icons8.com/color/96/open-book.png",
+    "storeLogo": "https://img.icons8.com/color/96/t-shirt.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1521334884684-d80222895322",
-      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb",
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
     ],
     "mainBranchAddress": {
       "en": "City 25, Main Street 125",
@@ -601,18 +626,19 @@
   },
   {
     "id": 26,
+    "categoryId": 6,
     "storeName": {
-      "en": "Tech World #26",
-      "ar": "عالم التقنية #26"
+      "en": "Sports & Outdoors Store #26",
+      "ar": "متجر الرياضة والهواء الطلق #26"
     },
     "description": {
-      "en": "All sports gear you need",
-      "ar": "جميع معدات الرياضة التي تحتاجها"
+      "en": "Best sports & outdoors products and deals.",
+      "ar": "أفضل عروض الرياضة والهواء الطلق."
     },
-    "storeLogo": "https://img.icons8.com/color/96/diamond.png",
+    "storeLogo": "https://img.icons8.com/color/96/grocery-bag.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb",
-      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce"
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9",
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
     ],
     "mainBranchAddress": {
       "en": "City 26, Main Street 126",
@@ -625,18 +651,19 @@
   },
   {
     "id": 27,
+    "categoryId": 7,
     "storeName": {
-      "en": "SportX #27",
-      "ar": "سبورت اكس #27"
+      "en": "Books & Stationery Store #27",
+      "ar": "متجر الكتب والأدوات المكتبية #27"
     },
     "description": {
-      "en": "All sports gear you need",
-      "ar": "جميع معدات الرياضة التي تحتاجها"
+      "en": "Best books & stationery products and deals.",
+      "ar": "أفضل عروض الكتب والأدوات المكتبية."
     },
-    "storeLogo": "https://img.icons8.com/color/96/diamond.png",
+    "storeLogo": "https://img.icons8.com/color/96/open-book.png",
     "storeImages": [
       "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47",
-      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce"
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
     ],
     "mainBranchAddress": {
       "en": "City 27, Main Street 127",
@@ -649,18 +676,19 @@
   },
   {
     "id": 28,
+    "categoryId": 8,
     "storeName": {
-      "en": "Fresh Mart #28",
-      "ar": "ماركت فريش #28"
+      "en": "Toys & Games Store #28",
+      "ar": "متجر الألعاب والهوايات #28"
     },
     "description": {
-      "en": "Leading electronics retailer with latest gadgets",
-      "ar": "متجر رائد للإلكترونيات يقدم أحدث الأجهزة"
+      "en": "Best toys & games products and deals.",
+      "ar": "أفضل عروض الألعاب والهوايات."
     },
-    "storeLogo": "https://img.icons8.com/color/96/lipstick.png",
+    "storeLogo": "https://img.icons8.com/color/96/car.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1515169067865-5387ec356754",
-      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb"
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754"
     ],
     "mainBranchAddress": {
       "en": "City 28, Main Street 128",
@@ -673,18 +701,19 @@
   },
   {
     "id": 29,
+    "categoryId": 9,
     "storeName": {
-      "en": "Jewel Star #29",
-      "ar": "نجمة المجوهرات #29"
+      "en": "Automotive Store #29",
+      "ar": "متجر السيارات #29"
     },
     "description": {
-      "en": "Fun toys and games for kids",
-      "ar": "ألعاب ممتعة للأطفال"
+      "en": "Best automotive products and deals.",
+      "ar": "أفضل عروض السيارات."
     },
-    "storeLogo": "https://img.icons8.com/color/96/lipstick.png",
+    "storeLogo": "https://img.icons8.com/color/96/teddy-bear.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9",
-      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754",
+      "https://images.unsplash.com/photo-1521334884684-d80222895322"
     ],
     "mainBranchAddress": {
       "en": "City 29, Main Street 129",
@@ -697,18 +726,19 @@
   },
   {
     "id": 30,
+    "categoryId": 10,
     "storeName": {
-      "en": "Beauty Spot #30",
-      "ar": "ركن الجمال #30"
+      "en": "Jewelry & Accessories Store #30",
+      "ar": "متجر المجوهرات والإكسسوارات #30"
     },
     "description": {
-      "en": "Your trusted grocery store",
-      "ar": "متجرك الموثوق للبقالة"
+      "en": "Best jewelry & accessories products and deals.",
+      "ar": "أفضل عروض المجوهرات والإكسسوارات."
     },
-    "storeLogo": "https://img.icons8.com/color/96/basketball.png",
+    "storeLogo": "https://img.icons8.com/color/96/open-book.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
-      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5"
+      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5",
+      "https://images.unsplash.com/photo-1585325701954-34d6b8a9c6c4"
     ],
     "mainBranchAddress": {
       "en": "City 30, Main Street 130",
@@ -721,17 +751,18 @@
   },
   {
     "id": 31,
+    "categoryId": 1,
     "storeName": {
-      "en": "SportX #31",
-      "ar": "سبورت اكس #31"
+      "en": "Electronics Store #31",
+      "ar": "متجر إلكترونيات #31"
     },
     "description": {
-      "en": "Fun toys and games for kids",
-      "ar": "ألعاب ممتعة للأطفال"
+      "en": "Best electronics products and deals.",
+      "ar": "أفضل عروض إلكترونيات."
     },
-    "storeLogo": "https://img.icons8.com/color/96/sofa.png",
+    "storeLogo": "https://img.icons8.com/color/96/diamond.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
+      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce",
       "https://images.unsplash.com/photo-1515169067865-5387ec356754"
     ],
     "mainBranchAddress": {
@@ -745,18 +776,19 @@
   },
   {
     "id": 32,
+    "categoryId": 2,
     "storeName": {
-      "en": "Fresh Mart #32",
-      "ar": "ماركت فريش #32"
+      "en": "Clothing Store #32",
+      "ar": "متجر ملابس #32"
     },
     "description": {
-      "en": "Stylish furniture and home decor",
-      "ar": "أثاث منزلي وديكور أنيق"
+      "en": "Best clothing products and deals.",
+      "ar": "أفضل عروض ملابس."
     },
-    "storeLogo": "https://img.icons8.com/color/96/sofa.png",
+    "storeLogo": "https://img.icons8.com/color/96/diamond.png",
     "storeImages": [
       "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
-      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
+      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5"
     ],
     "mainBranchAddress": {
       "en": "City 32, Main Street 132",
@@ -769,18 +801,19 @@
   },
   {
     "id": 33,
+    "categoryId": 3,
     "storeName": {
-      "en": "Home Style #33",
-      "ar": "ستايل المنزل #33"
+      "en": "Groceries Store #33",
+      "ar": "متجر بقالة #33"
     },
     "description": {
-      "en": "All sports gear you need",
-      "ar": "جميع معدات الرياضة التي تحتاجها"
+      "en": "Best groceries products and deals.",
+      "ar": "أفضل عروض بقالة."
     },
-    "storeLogo": "https://img.icons8.com/color/96/electronics.png",
+    "storeLogo": "https://img.icons8.com/color/96/sofa.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5",
-      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb",
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754"
     ],
     "mainBranchAddress": {
       "en": "City 33, Main Street 133",
@@ -793,15 +826,16 @@
   },
   {
     "id": 34,
+    "categoryId": 4,
     "storeName": {
-      "en": "Fashion Hub #34",
-      "ar": "مركز الأزياء #34"
+      "en": "Home & Furniture Store #34",
+      "ar": "متجر المنزل والأثاث #34"
     },
     "description": {
-      "en": "Leading electronics retailer with latest gadgets",
-      "ar": "متجر رائد للإلكترونيات يقدم أحدث الأجهزة"
+      "en": "Best home & furniture products and deals.",
+      "ar": "أفضل عروض المنزل والأثاث."
     },
-    "storeLogo": "https://img.icons8.com/color/96/lipstick.png",
+    "storeLogo": "https://img.icons8.com/color/96/electronics.png",
     "storeImages": [
       "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
       "https://images.unsplash.com/photo-1521334884684-d80222895322"
@@ -817,18 +851,19 @@
   },
   {
     "id": 35,
+    "categoryId": 5,
     "storeName": {
-      "en": "Fashion Hub #35",
-      "ar": "مركز الأزياء #35"
+      "en": "Beauty & Health Store #35",
+      "ar": "متجر الجمال والصحة #35"
     },
     "description": {
-      "en": "Leading electronics retailer with latest gadgets",
-      "ar": "متجر رائد للإلكترونيات يقدم أحدث الأجهزة"
+      "en": "Best beauty & health products and deals.",
+      "ar": "أفضل عروض الجمال والصحة."
     },
-    "storeLogo": "https://img.icons8.com/color/96/lipstick.png",
+    "storeLogo": "https://img.icons8.com/color/96/sofa.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9",
-      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb"
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754",
+      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47"
     ],
     "mainBranchAddress": {
       "en": "City 35, Main Street 135",
@@ -841,18 +876,19 @@
   },
   {
     "id": 36,
+    "categoryId": 6,
     "storeName": {
-      "en": "Fashion Hub #36",
-      "ar": "مركز الأزياء #36"
+      "en": "Sports & Outdoors Store #36",
+      "ar": "متجر الرياضة والهواء الطلق #36"
     },
     "description": {
-      "en": "Stylish furniture and home decor",
-      "ar": "أثاث منزلي وديكور أنيق"
+      "en": "Best sports & outdoors products and deals.",
+      "ar": "أفضل عروض الرياضة والهواء الطلق."
     },
-    "storeLogo": "https://img.icons8.com/color/96/electronics.png",
+    "storeLogo": "https://img.icons8.com/color/96/grocery-bag.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9",
-      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47"
+      "https://images.unsplash.com/photo-1585325701954-34d6b8a9c6c4",
+      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb"
     ],
     "mainBranchAddress": {
       "en": "City 36, Main Street 136",
@@ -865,17 +901,18 @@
   },
   {
     "id": 37,
+    "categoryId": 7,
     "storeName": {
-      "en": "Fashion Hub #37",
-      "ar": "مركز الأزياء #37"
+      "en": "Books & Stationery Store #37",
+      "ar": "متجر الكتب والأدوات المكتبية #37"
     },
     "description": {
-      "en": "Your trusted grocery store",
-      "ar": "متجرك الموثوق للبقالة"
+      "en": "Best books & stationery products and deals.",
+      "ar": "أفضل عروض الكتب والأدوات المكتبية."
     },
-    "storeLogo": "https://img.icons8.com/color/96/t-shirt.png",
+    "storeLogo": "https://img.icons8.com/color/96/basketball.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5",
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754",
       "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb"
     ],
     "mainBranchAddress": {
@@ -889,18 +926,19 @@
   },
   {
     "id": 38,
+    "categoryId": 8,
     "storeName": {
-      "en": "Tech World #38",
-      "ar": "عالم التقنية #38"
+      "en": "Toys & Games Store #38",
+      "ar": "متجر الألعاب والهوايات #38"
     },
     "description": {
-      "en": "Exclusive jewelry collections",
-      "ar": "مجموعات مجوهرات حصرية"
+      "en": "Best toys & games products and deals.",
+      "ar": "أفضل عروض الألعاب والهوايات."
     },
     "storeLogo": "https://img.icons8.com/color/96/lipstick.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
-      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9",
+      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb"
     ],
     "mainBranchAddress": {
       "en": "City 38, Main Street 138",
@@ -913,18 +951,19 @@
   },
   {
     "id": 39,
+    "categoryId": 9,
     "storeName": {
-      "en": "SportX #39",
-      "ar": "سبورت اكس #39"
+      "en": "Automotive Store #39",
+      "ar": "متجر السيارات #39"
     },
     "description": {
-      "en": "Leading electronics retailer with latest gadgets",
-      "ar": "متجر رائد للإلكترونيات يقدم أحدث الأجهزة"
+      "en": "Best automotive products and deals.",
+      "ar": "أفضل عروض السيارات."
     },
-    "storeLogo": "https://img.icons8.com/color/96/t-shirt.png",
+    "storeLogo": "https://img.icons8.com/color/96/basketball.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb",
-      "https://images.unsplash.com/photo-1521334884684-d80222895322"
+      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47",
+      "https://images.unsplash.com/photo-1585325701954-34d6b8a9c6c4"
     ],
     "mainBranchAddress": {
       "en": "City 39, Main Street 139",
@@ -937,18 +976,19 @@
   },
   {
     "id": 40,
+    "categoryId": 10,
     "storeName": {
-      "en": "Book Planet #40",
-      "ar": "كوكب الكتب #40"
+      "en": "Jewelry & Accessories Store #40",
+      "ar": "متجر المجوهرات والإكسسوارات #40"
     },
     "description": {
-      "en": "Top beauty and health products",
-      "ar": "أفضل منتجات الجمال والصحة"
+      "en": "Best jewelry & accessories products and deals.",
+      "ar": "أفضل عروض المجوهرات والإكسسوارات."
     },
-    "storeLogo": "https://img.icons8.com/color/96/diamond.png",
+    "storeLogo": "https://img.icons8.com/color/96/basketball.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
-      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47"
+      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
     ],
     "mainBranchAddress": {
       "en": "City 40, Main Street 140",
@@ -961,18 +1001,19 @@
   },
   {
     "id": 41,
+    "categoryId": 1,
     "storeName": {
-      "en": "Tech World #41",
-      "ar": "عالم التقنية #41"
+      "en": "Electronics Store #41",
+      "ar": "متجر إلكترونيات #41"
     },
     "description": {
-      "en": "Trendy clothing for all seasons",
-      "ar": "ملابس عصرية لكل المواسم"
+      "en": "Best electronics products and deals.",
+      "ar": "أفضل عروض إلكترونيات."
     },
-    "storeLogo": "https://img.icons8.com/color/96/basketball.png",
+    "storeLogo": "https://img.icons8.com/color/96/electronics.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1515169067865-5387ec356754",
-      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5"
+      "https://images.unsplash.com/photo-1521334884684-d80222895322",
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
     ],
     "mainBranchAddress": {
       "en": "City 41, Main Street 141",
@@ -985,18 +1026,19 @@
   },
   {
     "id": 42,
+    "categoryId": 2,
     "storeName": {
-      "en": "Book Planet #42",
-      "ar": "كوكب الكتب #42"
+      "en": "Clothing Store #42",
+      "ar": "متجر ملابس #42"
     },
     "description": {
-      "en": "Exclusive jewelry collections",
-      "ar": "مجموعات مجوهرات حصرية"
+      "en": "Best clothing products and deals.",
+      "ar": "أفضل عروض ملابس."
     },
-    "storeLogo": "https://img.icons8.com/color/96/basketball.png",
+    "storeLogo": "https://img.icons8.com/color/96/open-book.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1521334884684-d80222895322",
-      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce"
+      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb",
+      "https://images.unsplash.com/photo-1521334884684-d80222895322"
     ],
     "mainBranchAddress": {
       "en": "City 42, Main Street 142",
@@ -1009,18 +1051,19 @@
   },
   {
     "id": 43,
+    "categoryId": 3,
     "storeName": {
-      "en": "Fresh Mart #43",
-      "ar": "ماركت فريش #43"
+      "en": "Groceries Store #43",
+      "ar": "متجر بقالة #43"
     },
     "description": {
-      "en": "Exclusive jewelry collections",
-      "ar": "مجموعات مجوهرات حصرية"
+      "en": "Best groceries products and deals.",
+      "ar": "أفضل عروض بقالة."
     },
-    "storeLogo": "https://img.icons8.com/color/96/sofa.png",
+    "storeLogo": "https://img.icons8.com/color/96/diamond.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1521334884684-d80222895322",
-      "https://images.unsplash.com/photo-1585325701954-34d6b8a9c6c4"
+      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
     ],
     "mainBranchAddress": {
       "en": "City 43, Main Street 143",
@@ -1033,18 +1076,19 @@
   },
   {
     "id": 44,
+    "categoryId": 4,
     "storeName": {
-      "en": "Home Style #44",
-      "ar": "ستايل المنزل #44"
+      "en": "Home & Furniture Store #44",
+      "ar": "متجر المنزل والأثاث #44"
     },
     "description": {
-      "en": "All sports gear you need",
-      "ar": "جميع معدات الرياضة التي تحتاجها"
+      "en": "Best home & furniture products and deals.",
+      "ar": "أفضل عروض المنزل والأثاث."
     },
-    "storeLogo": "https://img.icons8.com/color/96/teddy-bear.png",
+    "storeLogo": "https://img.icons8.com/color/96/lipstick.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb",
-      "https://images.unsplash.com/photo-1515169067865-5387ec356754"
+      "https://images.unsplash.com/photo-1521334884684-d80222895322",
+      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce"
     ],
     "mainBranchAddress": {
       "en": "City 44, Main Street 144",
@@ -1057,18 +1101,19 @@
   },
   {
     "id": 45,
+    "categoryId": 5,
     "storeName": {
-      "en": "SportX #45",
-      "ar": "سبورت اكس #45"
+      "en": "Beauty & Health Store #45",
+      "ar": "متجر الجمال والصحة #45"
     },
     "description": {
-      "en": "Trendy clothing for all seasons",
-      "ar": "ملابس عصرية لكل المواسم"
+      "en": "Best beauty & health products and deals.",
+      "ar": "أفضل عروض الجمال والصحة."
     },
     "storeLogo": "https://img.icons8.com/color/96/lipstick.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1521334884684-d80222895322",
-      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5"
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
     ],
     "mainBranchAddress": {
       "en": "City 45, Main Street 145",
@@ -1081,18 +1126,19 @@
   },
   {
     "id": 46,
+    "categoryId": 6,
     "storeName": {
-      "en": "Beauty Spot #46",
-      "ar": "ركن الجمال #46"
+      "en": "Sports & Outdoors Store #46",
+      "ar": "متجر الرياضة والهواء الطلق #46"
     },
     "description": {
-      "en": "All sports gear you need",
-      "ar": "جميع معدات الرياضة التي تحتاجها"
+      "en": "Best sports & outdoors products and deals.",
+      "ar": "أفضل عروض الرياضة والهواء الطلق."
     },
-    "storeLogo": "https://img.icons8.com/color/96/grocery-bag.png",
+    "storeLogo": "https://img.icons8.com/color/96/car.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
-      "https://images.unsplash.com/photo-1521334884684-d80222895322"
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754",
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
     ],
     "mainBranchAddress": {
       "en": "City 46, Main Street 146",
@@ -1105,18 +1151,19 @@
   },
   {
     "id": 47,
+    "categoryId": 7,
     "storeName": {
-      "en": "Book Planet #47",
-      "ar": "كوكب الكتب #47"
+      "en": "Books & Stationery Store #47",
+      "ar": "متجر الكتب والأدوات المكتبية #47"
     },
     "description": {
-      "en": "Leading electronics retailer with latest gadgets",
-      "ar": "متجر رائد للإلكترونيات يقدم أحدث الأجهزة"
+      "en": "Best books & stationery products and deals.",
+      "ar": "أفضل عروض الكتب والأدوات المكتبية."
     },
-    "storeLogo": "https://img.icons8.com/color/96/grocery-bag.png",
+    "storeLogo": "https://img.icons8.com/color/96/t-shirt.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
-      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5"
+      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47",
+      "https://images.unsplash.com/photo-1521334884684-d80222895322"
     ],
     "mainBranchAddress": {
       "en": "City 47, Main Street 147",
@@ -1129,17 +1176,18 @@
   },
   {
     "id": 48,
+    "categoryId": 8,
     "storeName": {
-      "en": "Home Style #48",
-      "ar": "ستايل المنزل #48"
+      "en": "Toys & Games Store #48",
+      "ar": "متجر الألعاب والهوايات #48"
     },
     "description": {
-      "en": "Car accessories and parts",
-      "ar": "قطع وإكسسوارات السيارات"
+      "en": "Best toys & games products and deals.",
+      "ar": "أفضل عروض الألعاب والهوايات."
     },
-    "storeLogo": "https://img.icons8.com/color/96/diamond.png",
+    "storeLogo": "https://img.icons8.com/color/96/open-book.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5",
+      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce",
       "https://images.unsplash.com/photo-1585325701954-34d6b8a9c6c4"
     ],
     "mainBranchAddress": {
@@ -1153,18 +1201,19 @@
   },
   {
     "id": 49,
+    "categoryId": 9,
     "storeName": {
-      "en": "Fresh Mart #49",
-      "ar": "ماركت فريش #49"
+      "en": "Automotive Store #49",
+      "ar": "متجر السيارات #49"
     },
     "description": {
-      "en": "A world of books and stationery",
-      "ar": "عالم من الكتب والأدوات المكتبية"
+      "en": "Best automotive products and deals.",
+      "ar": "أفضل عروض السيارات."
     },
-    "storeLogo": "https://img.icons8.com/color/96/basketball.png",
+    "storeLogo": "https://img.icons8.com/color/96/teddy-bear.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9",
-      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce"
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754",
+      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb"
     ],
     "mainBranchAddress": {
       "en": "City 49, Main Street 149",
@@ -1177,18 +1226,19 @@
   },
   {
     "id": 50,
+    "categoryId": 10,
     "storeName": {
-      "en": "Book Planet #50",
-      "ar": "كوكب الكتب #50"
+      "en": "Jewelry & Accessories Store #50",
+      "ar": "متجر المجوهرات والإكسسوارات #50"
     },
     "description": {
-      "en": "Trendy clothing for all seasons",
-      "ar": "ملابس عصرية لكل المواسم"
+      "en": "Best jewelry & accessories products and deals.",
+      "ar": "أفضل عروض المجوهرات والإكسسوارات."
     },
-    "storeLogo": "https://img.icons8.com/color/96/electronics.png",
+    "storeLogo": "https://img.icons8.com/color/96/basketball.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1521334884684-d80222895322",
-      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5"
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
     ],
     "mainBranchAddress": {
       "en": "City 50, Main Street 150",
@@ -1201,18 +1251,19 @@
   },
   {
     "id": 51,
+    "categoryId": 1,
     "storeName": {
-      "en": "Home Style #51",
-      "ar": "ستايل المنزل #51"
+      "en": "Electronics Store #51",
+      "ar": "متجر إلكترونيات #51"
     },
     "description": {
-      "en": "Car accessories and parts",
-      "ar": "قطع وإكسسوارات السيارات"
+      "en": "Best electronics products and deals.",
+      "ar": "أفضل عروض إلكترونيات."
     },
-    "storeLogo": "https://img.icons8.com/color/96/car.png",
+    "storeLogo": "https://img.icons8.com/color/96/t-shirt.png",
     "storeImages": [
       "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9",
-      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
+      "https://images.unsplash.com/photo-1585325701954-34d6b8a9c6c4"
     ],
     "mainBranchAddress": {
       "en": "City 51, Main Street 151",
@@ -1225,18 +1276,19 @@
   },
   {
     "id": 52,
+    "categoryId": 2,
     "storeName": {
-      "en": "Book Planet #52",
-      "ar": "كوكب الكتب #52"
+      "en": "Clothing Store #52",
+      "ar": "متجر ملابس #52"
     },
     "description": {
-      "en": "Trendy clothing for all seasons",
-      "ar": "ملابس عصرية لكل المواسم"
+      "en": "Best clothing products and deals.",
+      "ar": "أفضل عروض ملابس."
     },
     "storeLogo": "https://img.icons8.com/color/96/t-shirt.png",
     "storeImages": [
       "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
-      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb"
+      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce"
     ],
     "mainBranchAddress": {
       "en": "City 52, Main Street 152",
@@ -1249,17 +1301,18 @@
   },
   {
     "id": 53,
+    "categoryId": 3,
     "storeName": {
-      "en": "Fashion Hub #53",
-      "ar": "مركز الأزياء #53"
+      "en": "Groceries Store #53",
+      "ar": "متجر بقالة #53"
     },
     "description": {
-      "en": "Trendy clothing for all seasons",
-      "ar": "ملابس عصرية لكل المواسم"
+      "en": "Best groceries products and deals.",
+      "ar": "أفضل عروض بقالة."
     },
-    "storeLogo": "https://img.icons8.com/color/96/t-shirt.png",
+    "storeLogo": "https://img.icons8.com/color/96/diamond.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1585325701954-34d6b8a9c6c4",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9",
       "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb"
     ],
     "mainBranchAddress": {
@@ -1273,18 +1326,19 @@
   },
   {
     "id": 54,
+    "categoryId": 4,
     "storeName": {
-      "en": "Beauty Spot #54",
-      "ar": "ركن الجمال #54"
+      "en": "Home & Furniture Store #54",
+      "ar": "متجر المنزل والأثاث #54"
     },
     "description": {
-      "en": "Stylish furniture and home decor",
-      "ar": "أثاث منزلي وديكور أنيق"
+      "en": "Best home & furniture products and deals.",
+      "ar": "أفضل عروض المنزل والأثاث."
     },
     "storeLogo": "https://img.icons8.com/color/96/basketball.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5",
-      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce"
+      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47",
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754"
     ],
     "mainBranchAddress": {
       "en": "City 54, Main Street 154",
@@ -1297,18 +1351,19 @@
   },
   {
     "id": 55,
+    "categoryId": 5,
     "storeName": {
-      "en": "Fashion Hub #55",
-      "ar": "مركز الأزياء #55"
+      "en": "Beauty & Health Store #55",
+      "ar": "متجر الجمال والصحة #55"
     },
     "description": {
-      "en": "Exclusive jewelry collections",
-      "ar": "مجموعات مجوهرات حصرية"
+      "en": "Best beauty & health products and deals.",
+      "ar": "أفضل عروض الجمال والصحة."
     },
-    "storeLogo": "https://img.icons8.com/color/96/electronics.png",
+    "storeLogo": "https://img.icons8.com/color/96/teddy-bear.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1515169067865-5387ec356754",
-      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce",
+      "https://images.unsplash.com/photo-1585325701954-34d6b8a9c6c4"
     ],
     "mainBranchAddress": {
       "en": "City 55, Main Street 155",
@@ -1321,15 +1376,16 @@
   },
   {
     "id": 56,
+    "categoryId": 6,
     "storeName": {
-      "en": "Fresh Mart #56",
-      "ar": "ماركت فريش #56"
+      "en": "Sports & Outdoors Store #56",
+      "ar": "متجر الرياضة والهواء الطلق #56"
     },
     "description": {
-      "en": "All sports gear you need",
-      "ar": "جميع معدات الرياضة التي تحتاجها"
+      "en": "Best sports & outdoors products and deals.",
+      "ar": "أفضل عروض الرياضة والهواء الطلق."
     },
-    "storeLogo": "https://img.icons8.com/color/96/sofa.png",
+    "storeLogo": "https://img.icons8.com/color/96/diamond.png",
     "storeImages": [
       "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9",
       "https://images.unsplash.com/photo-1521334884684-d80222895322"
@@ -1345,18 +1401,19 @@
   },
   {
     "id": 57,
+    "categoryId": 7,
     "storeName": {
-      "en": "AutoZone #57",
-      "ar": "منطقة السيارات #57"
+      "en": "Books & Stationery Store #57",
+      "ar": "متجر الكتب والأدوات المكتبية #57"
     },
     "description": {
-      "en": "Top beauty and health products",
-      "ar": "أفضل منتجات الجمال والصحة"
+      "en": "Best books & stationery products and deals.",
+      "ar": "أفضل عروض الكتب والأدوات المكتبية."
     },
-    "storeLogo": "https://img.icons8.com/color/96/diamond.png",
+    "storeLogo": "https://img.icons8.com/color/96/grocery-bag.png",
     "storeImages": [
       "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
-      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47"
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
     ],
     "mainBranchAddress": {
       "en": "City 57, Main Street 157",
@@ -1369,18 +1426,19 @@
   },
   {
     "id": 58,
+    "categoryId": 8,
     "storeName": {
-      "en": "Jewel Star #58",
-      "ar": "نجمة المجوهرات #58"
+      "en": "Toys & Games Store #58",
+      "ar": "متجر الألعاب والهوايات #58"
     },
     "description": {
-      "en": "Trendy clothing for all seasons",
-      "ar": "ملابس عصرية لكل المواسم"
+      "en": "Best toys & games products and deals.",
+      "ar": "أفضل عروض الألعاب والهوايات."
     },
-    "storeLogo": "https://img.icons8.com/color/96/diamond.png",
+    "storeLogo": "https://img.icons8.com/color/96/basketball.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1521334884684-d80222895322",
-      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce"
+      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce",
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
     ],
     "mainBranchAddress": {
       "en": "City 58, Main Street 158",
@@ -1393,18 +1451,19 @@
   },
   {
     "id": 59,
+    "categoryId": 9,
     "storeName": {
-      "en": "Tech World #59",
-      "ar": "عالم التقنية #59"
+      "en": "Automotive Store #59",
+      "ar": "متجر السيارات #59"
     },
     "description": {
-      "en": "A world of books and stationery",
-      "ar": "عالم من الكتب والأدوات المكتبية"
+      "en": "Best automotive products and deals.",
+      "ar": "أفضل عروض السيارات."
     },
-    "storeLogo": "https://img.icons8.com/color/96/diamond.png",
+    "storeLogo": "https://img.icons8.com/color/96/open-book.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
-      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47"
+      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb",
+      "https://images.unsplash.com/photo-1585325701954-34d6b8a9c6c4"
     ],
     "mainBranchAddress": {
       "en": "City 59, Main Street 159",
@@ -1417,18 +1476,19 @@
   },
   {
     "id": 60,
+    "categoryId": 10,
     "storeName": {
-      "en": "AutoZone #60",
-      "ar": "منطقة السيارات #60"
+      "en": "Jewelry & Accessories Store #60",
+      "ar": "متجر المجوهرات والإكسسوارات #60"
     },
     "description": {
-      "en": "A world of books and stationery",
-      "ar": "عالم من الكتب والأدوات المكتبية"
+      "en": "Best jewelry & accessories products and deals.",
+      "ar": "أفضل عروض المجوهرات والإكسسوارات."
     },
-    "storeLogo": "https://img.icons8.com/color/96/t-shirt.png",
+    "storeLogo": "https://img.icons8.com/color/96/sofa.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1521334884684-d80222895322",
-      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5",
+      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb"
     ],
     "mainBranchAddress": {
       "en": "City 60, Main Street 160",
@@ -1441,18 +1501,19 @@
   },
   {
     "id": 61,
+    "categoryId": 1,
     "storeName": {
-      "en": "Jewel Star #61",
-      "ar": "نجمة المجوهرات #61"
+      "en": "Electronics Store #61",
+      "ar": "متجر إلكترونيات #61"
     },
     "description": {
-      "en": "Trendy clothing for all seasons",
-      "ar": "ملابس عصرية لكل المواسم"
+      "en": "Best electronics products and deals.",
+      "ar": "أفضل عروض إلكترونيات."
     },
-    "storeLogo": "https://img.icons8.com/color/96/lipstick.png",
+    "storeLogo": "https://img.icons8.com/color/96/basketball.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb",
-      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47"
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754"
     ],
     "mainBranchAddress": {
       "en": "City 61, Main Street 161",
@@ -1465,18 +1526,19 @@
   },
   {
     "id": 62,
+    "categoryId": 2,
     "storeName": {
-      "en": "Fashion Hub #62",
-      "ar": "مركز الأزياء #62"
+      "en": "Clothing Store #62",
+      "ar": "متجر ملابس #62"
     },
     "description": {
-      "en": "A world of books and stationery",
-      "ar": "عالم من الكتب والأدوات المكتبية"
+      "en": "Best clothing products and deals.",
+      "ar": "أفضل عروض ملابس."
     },
-    "storeLogo": "https://img.icons8.com/color/96/t-shirt.png",
+    "storeLogo": "https://img.icons8.com/color/96/car.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
-      "https://images.unsplash.com/photo-1585325701954-34d6b8a9c6c4"
+      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb",
+      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce"
     ],
     "mainBranchAddress": {
       "en": "City 62, Main Street 162",
@@ -1489,18 +1551,19 @@
   },
   {
     "id": 63,
+    "categoryId": 3,
     "storeName": {
-      "en": "Beauty Spot #63",
-      "ar": "ركن الجمال #63"
+      "en": "Groceries Store #63",
+      "ar": "متجر بقالة #63"
     },
     "description": {
-      "en": "Your trusted grocery store",
-      "ar": "متجرك الموثوق للبقالة"
+      "en": "Best groceries products and deals.",
+      "ar": "أفضل عروض بقالة."
     },
-    "storeLogo": "https://img.icons8.com/color/96/t-shirt.png",
+    "storeLogo": "https://img.icons8.com/color/96/car.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb",
-      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce"
+      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47",
+      "https://images.unsplash.com/photo-1585325701954-34d6b8a9c6c4"
     ],
     "mainBranchAddress": {
       "en": "City 63, Main Street 163",
@@ -1513,18 +1576,19 @@
   },
   {
     "id": 64,
+    "categoryId": 4,
     "storeName": {
-      "en": "Jewel Star #64",
-      "ar": "نجمة المجوهرات #64"
+      "en": "Home & Furniture Store #64",
+      "ar": "متجر المنزل والأثاث #64"
     },
     "description": {
-      "en": "A world of books and stationery",
-      "ar": "عالم من الكتب والأدوات المكتبية"
+      "en": "Best home & furniture products and deals.",
+      "ar": "أفضل عروض المنزل والأثاث."
     },
-    "storeLogo": "https://img.icons8.com/color/96/basketball.png",
+    "storeLogo": "https://img.icons8.com/color/96/diamond.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce",
-      "https://images.unsplash.com/photo-1585325701954-34d6b8a9c6c4"
+      "https://images.unsplash.com/photo-1585325701954-34d6b8a9c6c4",
+      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47"
     ],
     "mainBranchAddress": {
       "en": "City 64, Main Street 164",
@@ -1537,18 +1601,19 @@
   },
   {
     "id": 65,
+    "categoryId": 5,
     "storeName": {
-      "en": "Home Style #65",
-      "ar": "ستايل المنزل #65"
+      "en": "Beauty & Health Store #65",
+      "ar": "متجر الجمال والصحة #65"
     },
     "description": {
-      "en": "Your trusted grocery store",
-      "ar": "متجرك الموثوق للبقالة"
+      "en": "Best beauty & health products and deals.",
+      "ar": "أفضل عروض الجمال والصحة."
     },
-    "storeLogo": "https://img.icons8.com/color/96/t-shirt.png",
+    "storeLogo": "https://img.icons8.com/color/96/diamond.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1515169067865-5387ec356754",
-      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9",
+      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce"
     ],
     "mainBranchAddress": {
       "en": "City 65, Main Street 165",
@@ -1561,18 +1626,19 @@
   },
   {
     "id": 66,
+    "categoryId": 6,
     "storeName": {
-      "en": "Beauty Spot #66",
-      "ar": "ركن الجمال #66"
+      "en": "Sports & Outdoors Store #66",
+      "ar": "متجر الرياضة والهواء الطلق #66"
     },
     "description": {
-      "en": "Trendy clothing for all seasons",
-      "ar": "ملابس عصرية لكل المواسم"
+      "en": "Best sports & outdoors products and deals.",
+      "ar": "أفضل عروض الرياضة والهواء الطلق."
     },
-    "storeLogo": "https://img.icons8.com/color/96/teddy-bear.png",
+    "storeLogo": "https://img.icons8.com/color/96/electronics.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1521334884684-d80222895322",
-      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5"
+      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
     ],
     "mainBranchAddress": {
       "en": "City 66, Main Street 166",
@@ -1585,18 +1651,19 @@
   },
   {
     "id": 67,
+    "categoryId": 7,
     "storeName": {
-      "en": "Jewel Star #67",
-      "ar": "نجمة المجوهرات #67"
+      "en": "Books & Stationery Store #67",
+      "ar": "متجر الكتب والأدوات المكتبية #67"
     },
     "description": {
-      "en": "All sports gear you need",
-      "ar": "جميع معدات الرياضة التي تحتاجها"
+      "en": "Best books & stationery products and deals.",
+      "ar": "أفضل عروض الكتب والأدوات المكتبية."
     },
-    "storeLogo": "https://img.icons8.com/color/96/lipstick.png",
+    "storeLogo": "https://img.icons8.com/color/96/car.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5",
-      "https://images.unsplash.com/photo-1515169067865-5387ec356754"
+      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
     ],
     "mainBranchAddress": {
       "en": "City 67, Main Street 167",
@@ -1609,18 +1676,19 @@
   },
   {
     "id": 68,
+    "categoryId": 8,
     "storeName": {
-      "en": "Fashion Hub #68",
-      "ar": "مركز الأزياء #68"
+      "en": "Toys & Games Store #68",
+      "ar": "متجر الألعاب والهوايات #68"
     },
     "description": {
-      "en": "Exclusive jewelry collections",
-      "ar": "مجموعات مجوهرات حصرية"
+      "en": "Best toys & games products and deals.",
+      "ar": "أفضل عروض الألعاب والهوايات."
     },
-    "storeLogo": "https://img.icons8.com/color/96/lipstick.png",
+    "storeLogo": "https://img.icons8.com/color/96/t-shirt.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1585325701954-34d6b8a9c6c4",
-      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5",
+      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce"
     ],
     "mainBranchAddress": {
       "en": "City 68, Main Street 168",
@@ -1633,18 +1701,19 @@
   },
   {
     "id": 69,
+    "categoryId": 9,
     "storeName": {
-      "en": "Tech World #69",
-      "ar": "عالم التقنية #69"
+      "en": "Automotive Store #69",
+      "ar": "متجر السيارات #69"
     },
     "description": {
-      "en": "Exclusive jewelry collections",
-      "ar": "مجموعات مجوهرات حصرية"
+      "en": "Best automotive products and deals.",
+      "ar": "أفضل عروض السيارات."
     },
     "storeLogo": "https://img.icons8.com/color/96/lipstick.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1521334884684-d80222895322",
-      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce"
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
+      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb"
     ],
     "mainBranchAddress": {
       "en": "City 69, Main Street 169",
@@ -1657,18 +1726,19 @@
   },
   {
     "id": 70,
+    "categoryId": 10,
     "storeName": {
-      "en": "Toy World #70",
-      "ar": "عالم الألعاب #70"
+      "en": "Jewelry & Accessories Store #70",
+      "ar": "متجر المجوهرات والإكسسوارات #70"
     },
     "description": {
-      "en": "Leading electronics retailer with latest gadgets",
-      "ar": "متجر رائد للإلكترونيات يقدم أحدث الأجهزة"
+      "en": "Best jewelry & accessories products and deals.",
+      "ar": "أفضل عروض المجوهرات والإكسسوارات."
     },
-    "storeLogo": "https://img.icons8.com/color/96/lipstick.png",
+    "storeLogo": "https://img.icons8.com/color/96/basketball.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47",
-      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
+      "https://images.unsplash.com/photo-1585325701954-34d6b8a9c6c4",
+      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47"
     ],
     "mainBranchAddress": {
       "en": "City 70, Main Street 170",
@@ -1681,17 +1751,18 @@
   },
   {
     "id": 71,
+    "categoryId": 1,
     "storeName": {
-      "en": "Jewel Star #71",
-      "ar": "نجمة المجوهرات #71"
+      "en": "Electronics Store #71",
+      "ar": "متجر إلكترونيات #71"
     },
     "description": {
-      "en": "Fun toys and games for kids",
-      "ar": "ألعاب ممتعة للأطفال"
+      "en": "Best electronics products and deals.",
+      "ar": "أفضل عروض إلكترونيات."
     },
-    "storeLogo": "https://img.icons8.com/color/96/grocery-bag.png",
+    "storeLogo": "https://img.icons8.com/color/96/sofa.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1515169067865-5387ec356754",
+      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce",
       "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5"
     ],
     "mainBranchAddress": {
@@ -1705,18 +1776,19 @@
   },
   {
     "id": 72,
+    "categoryId": 2,
     "storeName": {
-      "en": "Home Style #72",
-      "ar": "ستايل المنزل #72"
+      "en": "Clothing Store #72",
+      "ar": "متجر ملابس #72"
     },
     "description": {
-      "en": "Your trusted grocery store",
-      "ar": "متجرك الموثوق للبقالة"
+      "en": "Best clothing products and deals.",
+      "ar": "أفضل عروض ملابس."
     },
-    "storeLogo": "https://img.icons8.com/color/96/t-shirt.png",
+    "storeLogo": "https://img.icons8.com/color/96/grocery-bag.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1521334884684-d80222895322",
-      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
+      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb",
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754"
     ],
     "mainBranchAddress": {
       "en": "City 72, Main Street 172",
@@ -1729,18 +1801,19 @@
   },
   {
     "id": 73,
+    "categoryId": 3,
     "storeName": {
-      "en": "Fashion Hub #73",
-      "ar": "مركز الأزياء #73"
+      "en": "Groceries Store #73",
+      "ar": "متجر بقالة #73"
     },
     "description": {
-      "en": "Stylish furniture and home decor",
-      "ar": "أثاث منزلي وديكور أنيق"
+      "en": "Best groceries products and deals.",
+      "ar": "أفضل عروض بقالة."
     },
-    "storeLogo": "https://img.icons8.com/color/96/diamond.png",
+    "storeLogo": "https://img.icons8.com/color/96/car.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1521334884684-d80222895322",
-      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
     ],
     "mainBranchAddress": {
       "en": "City 73, Main Street 173",
@@ -1753,18 +1826,19 @@
   },
   {
     "id": 74,
+    "categoryId": 4,
     "storeName": {
-      "en": "Fresh Mart #74",
-      "ar": "ماركت فريش #74"
+      "en": "Home & Furniture Store #74",
+      "ar": "متجر المنزل والأثاث #74"
     },
     "description": {
-      "en": "Stylish furniture and home decor",
-      "ar": "أثاث منزلي وديكور أنيق"
+      "en": "Best home & furniture products and deals.",
+      "ar": "أفضل عروض المنزل والأثاث."
     },
     "storeLogo": "https://img.icons8.com/color/96/lipstick.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce",
-      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47"
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9",
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754"
     ],
     "mainBranchAddress": {
       "en": "City 74, Main Street 174",
@@ -1777,18 +1851,19 @@
   },
   {
     "id": 75,
+    "categoryId": 5,
     "storeName": {
-      "en": "Fashion Hub #75",
-      "ar": "مركز الأزياء #75"
+      "en": "Beauty & Health Store #75",
+      "ar": "متجر الجمال والصحة #75"
     },
     "description": {
-      "en": "Fun toys and games for kids",
-      "ar": "ألعاب ممتعة للأطفال"
+      "en": "Best beauty & health products and deals.",
+      "ar": "أفضل عروض الجمال والصحة."
     },
-    "storeLogo": "https://img.icons8.com/color/96/sofa.png",
+    "storeLogo": "https://img.icons8.com/color/96/grocery-bag.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce",
-      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47"
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754",
+      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5"
     ],
     "mainBranchAddress": {
       "en": "City 75, Main Street 175",
@@ -1801,18 +1876,19 @@
   },
   {
     "id": 76,
+    "categoryId": 6,
     "storeName": {
-      "en": "Fresh Mart #76",
-      "ar": "ماركت فريش #76"
+      "en": "Sports & Outdoors Store #76",
+      "ar": "متجر الرياضة والهواء الطلق #76"
     },
     "description": {
-      "en": "A world of books and stationery",
-      "ar": "عالم من الكتب والأدوات المكتبية"
+      "en": "Best sports & outdoors products and deals.",
+      "ar": "أفضل عروض الرياضة والهواء الطلق."
     },
-    "storeLogo": "https://img.icons8.com/color/96/teddy-bear.png",
+    "storeLogo": "https://img.icons8.com/color/96/open-book.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
-      "https://images.unsplash.com/photo-1521334884684-d80222895322"
+      "https://images.unsplash.com/photo-1585325701954-34d6b8a9c6c4",
+      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce"
     ],
     "mainBranchAddress": {
       "en": "City 76, Main Street 176",
@@ -1825,18 +1901,19 @@
   },
   {
     "id": 77,
+    "categoryId": 7,
     "storeName": {
-      "en": "Jewel Star #77",
-      "ar": "نجمة المجوهرات #77"
+      "en": "Books & Stationery Store #77",
+      "ar": "متجر الكتب والأدوات المكتبية #77"
     },
     "description": {
-      "en": "Your trusted grocery store",
-      "ar": "متجرك الموثوق للبقالة"
+      "en": "Best books & stationery products and deals.",
+      "ar": "أفضل عروض الكتب والأدوات المكتبية."
     },
-    "storeLogo": "https://img.icons8.com/color/96/t-shirt.png",
+    "storeLogo": "https://img.icons8.com/color/96/electronics.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1585325701954-34d6b8a9c6c4",
-      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47"
+      "https://images.unsplash.com/photo-1521334884684-d80222895322",
+      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5"
     ],
     "mainBranchAddress": {
       "en": "City 77, Main Street 177",
@@ -1849,18 +1926,19 @@
   },
   {
     "id": 78,
+    "categoryId": 8,
     "storeName": {
-      "en": "Fashion Hub #78",
-      "ar": "مركز الأزياء #78"
+      "en": "Toys & Games Store #78",
+      "ar": "متجر الألعاب والهوايات #78"
     },
     "description": {
-      "en": "Exclusive jewelry collections",
-      "ar": "مجموعات مجوهرات حصرية"
+      "en": "Best toys & games products and deals.",
+      "ar": "أفضل عروض الألعاب والهوايات."
     },
-    "storeLogo": "https://img.icons8.com/color/96/diamond.png",
+    "storeLogo": "https://img.icons8.com/color/96/sofa.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1515169067865-5387ec356754",
-      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
+      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5",
+      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47"
     ],
     "mainBranchAddress": {
       "en": "City 78, Main Street 178",
@@ -1873,18 +1951,19 @@
   },
   {
     "id": 79,
+    "categoryId": 9,
     "storeName": {
-      "en": "Tech World #79",
-      "ar": "عالم التقنية #79"
+      "en": "Automotive Store #79",
+      "ar": "متجر السيارات #79"
     },
     "description": {
-      "en": "Exclusive jewelry collections",
-      "ar": "مجموعات مجوهرات حصرية"
+      "en": "Best automotive products and deals.",
+      "ar": "أفضل عروض السيارات."
     },
-    "storeLogo": "https://img.icons8.com/color/96/basketball.png",
+    "storeLogo": "https://img.icons8.com/color/96/sofa.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce",
-      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754",
+      "https://images.unsplash.com/photo-1585325701954-34d6b8a9c6c4"
     ],
     "mainBranchAddress": {
       "en": "City 79, Main Street 179",
@@ -1897,18 +1976,19 @@
   },
   {
     "id": 80,
+    "categoryId": 10,
     "storeName": {
-      "en": "Beauty Spot #80",
-      "ar": "ركن الجمال #80"
+      "en": "Jewelry & Accessories Store #80",
+      "ar": "متجر المجوهرات والإكسسوارات #80"
     },
     "description": {
-      "en": "Trendy clothing for all seasons",
-      "ar": "ملابس عصرية لكل المواسم"
+      "en": "Best jewelry & accessories products and deals.",
+      "ar": "أفضل عروض المجوهرات والإكسسوارات."
     },
-    "storeLogo": "https://img.icons8.com/color/96/diamond.png",
+    "storeLogo": "https://img.icons8.com/color/96/open-book.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1515169067865-5387ec356754",
-      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce"
+      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5",
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754"
     ],
     "mainBranchAddress": {
       "en": "City 80, Main Street 180",
@@ -1921,18 +2001,19 @@
   },
   {
     "id": 81,
+    "categoryId": 1,
     "storeName": {
-      "en": "Fresh Mart #81",
-      "ar": "ماركت فريش #81"
+      "en": "Electronics Store #81",
+      "ar": "متجر إلكترونيات #81"
     },
     "description": {
-      "en": "Fun toys and games for kids",
-      "ar": "ألعاب ممتعة للأطفال"
+      "en": "Best electronics products and deals.",
+      "ar": "أفضل عروض إلكترونيات."
     },
-    "storeLogo": "https://img.icons8.com/color/96/open-book.png",
+    "storeLogo": "https://img.icons8.com/color/96/electronics.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce",
-      "https://images.unsplash.com/photo-1521334884684-d80222895322"
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754",
+      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb"
     ],
     "mainBranchAddress": {
       "en": "City 81, Main Street 181",
@@ -1945,18 +2026,19 @@
   },
   {
     "id": 82,
+    "categoryId": 2,
     "storeName": {
-      "en": "AutoZone #82",
-      "ar": "منطقة السيارات #82"
+      "en": "Clothing Store #82",
+      "ar": "متجر ملابس #82"
     },
     "description": {
-      "en": "Trendy clothing for all seasons",
-      "ar": "ملابس عصرية لكل المواسم"
+      "en": "Best clothing products and deals.",
+      "ar": "أفضل عروض ملابس."
     },
-    "storeLogo": "https://img.icons8.com/color/96/car.png",
+    "storeLogo": "https://img.icons8.com/color/96/electronics.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
-      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
+      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce",
+      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb"
     ],
     "mainBranchAddress": {
       "en": "City 82, Main Street 182",
@@ -1969,18 +2051,19 @@
   },
   {
     "id": 83,
+    "categoryId": 3,
     "storeName": {
-      "en": "Tech World #83",
-      "ar": "عالم التقنية #83"
+      "en": "Groceries Store #83",
+      "ar": "متجر بقالة #83"
     },
     "description": {
-      "en": "Stylish furniture and home decor",
-      "ar": "أثاث منزلي وديكور أنيق"
+      "en": "Best groceries products and deals.",
+      "ar": "أفضل عروض بقالة."
     },
-    "storeLogo": "https://img.icons8.com/color/96/t-shirt.png",
+    "storeLogo": "https://img.icons8.com/color/96/diamond.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1585325701954-34d6b8a9c6c4",
-      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47"
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
     ],
     "mainBranchAddress": {
       "en": "City 83, Main Street 183",
@@ -1993,18 +2076,19 @@
   },
   {
     "id": 84,
+    "categoryId": 4,
     "storeName": {
-      "en": "Fresh Mart #84",
-      "ar": "ماركت فريش #84"
+      "en": "Home & Furniture Store #84",
+      "ar": "متجر المنزل والأثاث #84"
     },
     "description": {
-      "en": "Exclusive jewelry collections",
-      "ar": "مجموعات مجوهرات حصرية"
+      "en": "Best home & furniture products and deals.",
+      "ar": "أفضل عروض المنزل والأثاث."
     },
-    "storeLogo": "https://img.icons8.com/color/96/electronics.png",
+    "storeLogo": "https://img.icons8.com/color/96/open-book.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce",
-      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
+      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47"
     ],
     "mainBranchAddress": {
       "en": "City 84, Main Street 184",
@@ -2017,18 +2101,19 @@
   },
   {
     "id": 85,
+    "categoryId": 5,
     "storeName": {
-      "en": "AutoZone #85",
-      "ar": "منطقة السيارات #85"
+      "en": "Beauty & Health Store #85",
+      "ar": "متجر الجمال والصحة #85"
     },
     "description": {
-      "en": "Leading electronics retailer with latest gadgets",
-      "ar": "متجر رائد للإلكترونيات يقدم أحدث الأجهزة"
+      "en": "Best beauty & health products and deals.",
+      "ar": "أفضل عروض الجمال والصحة."
     },
-    "storeLogo": "https://img.icons8.com/color/96/car.png",
+    "storeLogo": "https://img.icons8.com/color/96/basketball.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1515169067865-5387ec356754",
-      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce"
+      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce",
+      "https://images.unsplash.com/photo-1585325701954-34d6b8a9c6c4"
     ],
     "mainBranchAddress": {
       "en": "City 85, Main Street 185",
@@ -2041,18 +2126,19 @@
   },
   {
     "id": 86,
+    "categoryId": 6,
     "storeName": {
-      "en": "Toy World #86",
-      "ar": "عالم الألعاب #86"
+      "en": "Sports & Outdoors Store #86",
+      "ar": "متجر الرياضة والهواء الطلق #86"
     },
     "description": {
-      "en": "All sports gear you need",
-      "ar": "جميع معدات الرياضة التي تحتاجها"
+      "en": "Best sports & outdoors products and deals.",
+      "ar": "أفضل عروض الرياضة والهواء الطلق."
     },
-    "storeLogo": "https://img.icons8.com/color/96/car.png",
+    "storeLogo": "https://img.icons8.com/color/96/sofa.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47",
-      "https://images.unsplash.com/photo-1515169067865-5387ec356754"
+      "https://images.unsplash.com/photo-1521334884684-d80222895322",
+      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47"
     ],
     "mainBranchAddress": {
       "en": "City 86, Main Street 186",
@@ -2065,18 +2151,19 @@
   },
   {
     "id": 87,
+    "categoryId": 7,
     "storeName": {
-      "en": "Jewel Star #87",
-      "ar": "نجمة المجوهرات #87"
+      "en": "Books & Stationery Store #87",
+      "ar": "متجر الكتب والأدوات المكتبية #87"
     },
     "description": {
-      "en": "Your trusted grocery store",
-      "ar": "متجرك الموثوق للبقالة"
+      "en": "Best books & stationery products and deals.",
+      "ar": "أفضل عروض الكتب والأدوات المكتبية."
     },
-    "storeLogo": "https://img.icons8.com/color/96/grocery-bag.png",
+    "storeLogo": "https://img.icons8.com/color/96/diamond.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1585325701954-34d6b8a9c6c4",
-      "https://images.unsplash.com/photo-1515169067865-5387ec356754"
+      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb",
+      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5"
     ],
     "mainBranchAddress": {
       "en": "City 87, Main Street 187",
@@ -2089,18 +2176,19 @@
   },
   {
     "id": 88,
+    "categoryId": 8,
     "storeName": {
-      "en": "AutoZone #88",
-      "ar": "منطقة السيارات #88"
+      "en": "Toys & Games Store #88",
+      "ar": "متجر الألعاب والهوايات #88"
     },
     "description": {
-      "en": "Trendy clothing for all seasons",
-      "ar": "ملابس عصرية لكل المواسم"
+      "en": "Best toys & games products and deals.",
+      "ar": "أفضل عروض الألعاب والهوايات."
     },
-    "storeLogo": "https://img.icons8.com/color/96/open-book.png",
+    "storeLogo": "https://img.icons8.com/color/96/diamond.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
-      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb"
+      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce",
+      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47"
     ],
     "mainBranchAddress": {
       "en": "City 88, Main Street 188",
@@ -2113,18 +2201,19 @@
   },
   {
     "id": 89,
+    "categoryId": 9,
     "storeName": {
-      "en": "Fresh Mart #89",
-      "ar": "ماركت فريش #89"
+      "en": "Automotive Store #89",
+      "ar": "متجر السيارات #89"
     },
     "description": {
-      "en": "Stylish furniture and home decor",
-      "ar": "أثاث منزلي وديكور أنيق"
+      "en": "Best automotive products and deals.",
+      "ar": "أفضل عروض السيارات."
     },
-    "storeLogo": "https://img.icons8.com/color/96/diamond.png",
+    "storeLogo": "https://img.icons8.com/color/96/grocery-bag.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1521334884684-d80222895322",
-      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754",
+      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb"
     ],
     "mainBranchAddress": {
       "en": "City 89, Main Street 189",
@@ -2137,17 +2226,18 @@
   },
   {
     "id": 90,
+    "categoryId": 10,
     "storeName": {
-      "en": "Tech World #90",
-      "ar": "عالم التقنية #90"
+      "en": "Jewelry & Accessories Store #90",
+      "ar": "متجر المجوهرات والإكسسوارات #90"
     },
     "description": {
-      "en": "Your trusted grocery store",
-      "ar": "متجرك الموثوق للبقالة"
+      "en": "Best jewelry & accessories products and deals.",
+      "ar": "أفضل عروض المجوهرات والإكسسوارات."
     },
-    "storeLogo": "https://img.icons8.com/color/96/sofa.png",
+    "storeLogo": "https://img.icons8.com/color/96/t-shirt.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1515169067865-5387ec356754",
+      "https://images.unsplash.com/photo-1585325701954-34d6b8a9c6c4",
       "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
     ],
     "mainBranchAddress": {
@@ -2161,18 +2251,19 @@
   },
   {
     "id": 91,
+    "categoryId": 1,
     "storeName": {
-      "en": "SportX #91",
-      "ar": "سبورت اكس #91"
+      "en": "Electronics Store #91",
+      "ar": "متجر إلكترونيات #91"
     },
     "description": {
-      "en": "Stylish furniture and home decor",
-      "ar": "أثاث منزلي وديكور أنيق"
+      "en": "Best electronics products and deals.",
+      "ar": "أفضل عروض إلكترونيات."
     },
-    "storeLogo": "https://img.icons8.com/color/96/open-book.png",
+    "storeLogo": "https://img.icons8.com/color/96/sofa.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb",
-      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+      "https://images.unsplash.com/photo-1585325701954-34d6b8a9c6c4",
+      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb"
     ],
     "mainBranchAddress": {
       "en": "City 91, Main Street 191",
@@ -2185,18 +2276,19 @@
   },
   {
     "id": 92,
+    "categoryId": 2,
     "storeName": {
-      "en": "Fresh Mart #92",
-      "ar": "ماركت فريش #92"
+      "en": "Clothing Store #92",
+      "ar": "متجر ملابس #92"
     },
     "description": {
-      "en": "Top beauty and health products",
-      "ar": "أفضل منتجات الجمال والصحة"
+      "en": "Best clothing products and deals.",
+      "ar": "أفضل عروض ملابس."
     },
-    "storeLogo": "https://img.icons8.com/color/96/car.png",
+    "storeLogo": "https://img.icons8.com/color/96/lipstick.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9",
-      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5"
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754",
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
     ],
     "mainBranchAddress": {
       "en": "City 92, Main Street 192",
@@ -2209,18 +2301,19 @@
   },
   {
     "id": 93,
+    "categoryId": 3,
     "storeName": {
-      "en": "Jewel Star #93",
-      "ar": "نجمة المجوهرات #93"
+      "en": "Groceries Store #93",
+      "ar": "متجر بقالة #93"
     },
     "description": {
-      "en": "Exclusive jewelry collections",
-      "ar": "مجموعات مجوهرات حصرية"
+      "en": "Best groceries products and deals.",
+      "ar": "أفضل عروض بقالة."
     },
-    "storeLogo": "https://img.icons8.com/color/96/sofa.png",
+    "storeLogo": "https://img.icons8.com/color/96/open-book.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb",
-      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9",
+      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5"
     ],
     "mainBranchAddress": {
       "en": "City 93, Main Street 193",
@@ -2233,15 +2326,16 @@
   },
   {
     "id": 94,
+    "categoryId": 4,
     "storeName": {
-      "en": "Fashion Hub #94",
-      "ar": "مركز الأزياء #94"
+      "en": "Home & Furniture Store #94",
+      "ar": "متجر المنزل والأثاث #94"
     },
     "description": {
-      "en": "Your trusted grocery store",
-      "ar": "متجرك الموثوق للبقالة"
+      "en": "Best home & furniture products and deals.",
+      "ar": "أفضل عروض المنزل والأثاث."
     },
-    "storeLogo": "https://img.icons8.com/color/96/open-book.png",
+    "storeLogo": "https://img.icons8.com/color/96/car.png",
     "storeImages": [
       "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9",
       "https://images.unsplash.com/photo-1515169067865-5387ec356754"
@@ -2257,18 +2351,19 @@
   },
   {
     "id": 95,
+    "categoryId": 5,
     "storeName": {
-      "en": "SportX #95",
-      "ar": "سبورت اكس #95"
+      "en": "Beauty & Health Store #95",
+      "ar": "متجر الجمال والصحة #95"
     },
     "description": {
-      "en": "Fun toys and games for kids",
-      "ar": "ألعاب ممتعة للأطفال"
+      "en": "Best beauty & health products and deals.",
+      "ar": "أفضل عروض الجمال والصحة."
     },
-    "storeLogo": "https://img.icons8.com/color/96/basketball.png",
+    "storeLogo": "https://img.icons8.com/color/96/sofa.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47",
-      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5"
+      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5",
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754"
     ],
     "mainBranchAddress": {
       "en": "City 95, Main Street 195",
@@ -2281,18 +2376,19 @@
   },
   {
     "id": 96,
+    "categoryId": 6,
     "storeName": {
-      "en": "Beauty Spot #96",
-      "ar": "ركن الجمال #96"
+      "en": "Sports & Outdoors Store #96",
+      "ar": "متجر الرياضة والهواء الطلق #96"
     },
     "description": {
-      "en": "Trendy clothing for all seasons",
-      "ar": "ملابس عصرية لكل المواسم"
+      "en": "Best sports & outdoors products and deals.",
+      "ar": "أفضل عروض الرياضة والهواء الطلق."
     },
-    "storeLogo": "https://img.icons8.com/color/96/sofa.png",
+    "storeLogo": "https://img.icons8.com/color/96/lipstick.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47",
-      "https://images.unsplash.com/photo-1521334884684-d80222895322"
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754",
+      "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
     ],
     "mainBranchAddress": {
       "en": "City 96, Main Street 196",
@@ -2305,18 +2401,19 @@
   },
   {
     "id": 97,
+    "categoryId": 7,
     "storeName": {
-      "en": "Tech World #97",
-      "ar": "عالم التقنية #97"
+      "en": "Books & Stationery Store #97",
+      "ar": "متجر الكتب والأدوات المكتبية #97"
     },
     "description": {
-      "en": "Top beauty and health products",
-      "ar": "أفضل منتجات الجمال والصحة"
+      "en": "Best books & stationery products and deals.",
+      "ar": "أفضل عروض الكتب والأدوات المكتبية."
     },
-    "storeLogo": "https://img.icons8.com/color/96/grocery-bag.png",
+    "storeLogo": "https://img.icons8.com/color/96/car.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1585325701954-34d6b8a9c6c4",
-      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce"
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754",
+      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47"
     ],
     "mainBranchAddress": {
       "en": "City 97, Main Street 197",
@@ -2329,18 +2426,19 @@
   },
   {
     "id": 98,
+    "categoryId": 8,
     "storeName": {
-      "en": "SportX #98",
-      "ar": "سبورت اكس #98"
+      "en": "Toys & Games Store #98",
+      "ar": "متجر الألعاب والهوايات #98"
     },
     "description": {
-      "en": "Leading electronics retailer with latest gadgets",
-      "ar": "متجر رائد للإلكترونيات يقدم أحدث الأجهزة"
+      "en": "Best toys & games products and deals.",
+      "ar": "أفضل عروض الألعاب والهوايات."
     },
-    "storeLogo": "https://img.icons8.com/color/96/diamond.png",
+    "storeLogo": "https://img.icons8.com/color/96/t-shirt.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47",
-      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
+      "https://images.unsplash.com/photo-1521334884684-d80222895322",
+      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce"
     ],
     "mainBranchAddress": {
       "en": "City 98, Main Street 198",
@@ -2353,18 +2451,19 @@
   },
   {
     "id": 99,
+    "categoryId": 9,
     "storeName": {
-      "en": "SportX #99",
-      "ar": "سبورت اكس #99"
+      "en": "Automotive Store #99",
+      "ar": "متجر السيارات #99"
     },
     "description": {
-      "en": "Car accessories and parts",
-      "ar": "قطع وإكسسوارات السيارات"
+      "en": "Best automotive products and deals.",
+      "ar": "أفضل عروض السيارات."
     },
-    "storeLogo": "https://img.icons8.com/color/96/basketball.png",
+    "storeLogo": "https://img.icons8.com/color/96/grocery-bag.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1515169067865-5387ec356754",
-      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47"
+      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce",
+      "https://images.unsplash.com/photo-1581091870627-3a04e5a1a7d5"
     ],
     "mainBranchAddress": {
       "en": "City 99, Main Street 199",
@@ -2377,17 +2476,18 @@
   },
   {
     "id": 100,
+    "categoryId": 10,
     "storeName": {
-      "en": "Home Style #100",
-      "ar": "ستايل المنزل #100"
+      "en": "Jewelry & Accessories Store #100",
+      "ar": "متجر المجوهرات والإكسسوارات #100"
     },
     "description": {
-      "en": "All sports gear you need",
-      "ar": "جميع معدات الرياضة التي تحتاجها"
+      "en": "Best jewelry & accessories products and deals.",
+      "ar": "أفضل عروض المجوهرات والإكسسوارات."
     },
-    "storeLogo": "https://img.icons8.com/color/96/car.png",
+    "storeLogo": "https://img.icons8.com/color/96/basketball.png",
     "storeImages": [
-      "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce",
+      "https://images.unsplash.com/photo-1515169067865-5387ec356754",
       "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f"
     ],
     "mainBranchAddress": {
